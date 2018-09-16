@@ -28,6 +28,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scheme](#scheme)
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
@@ -450,7 +451,7 @@
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
 - [django-storages](https://github.com/jschneier/django-storages) - https://django-storages.readthedocs.io/
 - [django-s3-storage](https://github.com/etianen/django-s3-storage) - Django Amazon S3 file storage.
-- [sanic](https://github.com/channelcat/sanic) - Async Python 3.5+ web server that's written to go fast
+- [sanic](https://github.com/huge-success/sanic) - Async Python 3.5+ web server that's written to go fast
 - [f5-openstack-lbaasv2-driver](https://github.com/F5Networks/f5-openstack-lbaasv2-driver) - F5 LBaaSv2 service provider driver for OpenStack Liberty and beyond
 - [neutron-lbaas-device-driver](https://github.com/pulse-vadc/neutron-lbaas-device-driver) - This is the OpenStack Neutron LBaaS device driver for Brocade Virtual Traffic Manager (formerly SteelApp).  It plugs into the Brocade LBaaS driver which has shipped with OpenStack since the Kilo release.
 - [neutron-lbaas](https://github.com/openstack/neutron-lbaas) - Load balancing services for OpenStack Neutron.
@@ -545,7 +546,7 @@
 - [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [gdrivesync](https://github.com/socrateslee/gdrivesync) - A python tools to sync files in local directory to google drive.
-- [google-api-python-client](https://github.com/google/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
+- [google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [PyDrive](https://github.com/gsuitedevs/PyDrive) - Google Drive API Python wrapper library
 - [dockerizing-django](https://github.com/realpython/dockerizing-django) - 
 - [ubuntu-recentquicklists](https://github.com/thirschbuechler/ubuntu-recentquicklists) - This script adds recent files to the right-click on the unity-dash's launchers (taskbar program icons)
@@ -575,6 +576,10 @@
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [codedaily-v3](https://github.com/huytd/codedaily-v3) - 
 
+## Scheme 
+
+- [LinuxMint18i3](https://github.com/erikdubois/LinuxMint18i3) - How to install i3 on Linux Mint 18 Cinnamon and copy all my settings in the process to have a awesome desktop
+
 ## Shell 
 
 - [sshrc](https://github.com/Russell91/sshrc) - bring your .bashrc, .vimrc, etc. with you when you ssh
@@ -602,7 +607,7 @@
 - [osic-clouds](https://github.com/osic/osic-clouds) - Docs and more about each of the clouds.
 - [docker-systemd](https://github.com/solita/docker-systemd) - systemd-enabled versions of Docker base images
 - [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
-- [fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager.
+- [fisher](https://github.com/jorgebucaran/fisher) - The plugin manager for fish-shell
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
