@@ -546,7 +546,6 @@
 - [chord-based-discovery-iot](https://github.com/nhatbkk57/chord-based-discovery-iot) - 
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
-- [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
@@ -618,6 +617,7 @@
 - [fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [diskimage-builder](https://github.com/openstack/diskimage-builder) - Image building tools for OpenStack
 - [trove-image-elements](https://github.com/vkmc/trove-image-elements) - 
