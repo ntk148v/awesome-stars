@@ -92,6 +92,8 @@
 
 ## Go 
 
+- [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
+- [ibus-teni](https://github.com/teni-ime/ibus-teni) - Bộ gõ tiếng Việt cho Linux chạy trên IBus
 - [k3s](https://github.com/ibuildthecloud/k3s) - 5 less then k8s.  Short for kates, pronounced k8s
 - [origin](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers
 - [unsee](https://github.com/cloudflare/unsee) - Alert dashboard for Prometheus Alertmanager
@@ -143,6 +145,7 @@
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [kbe](https://github.com/openshift-evangelists/kbe) - Kubernetes By Example
 - [openstack-doc-migration-burndown](https://github.com/dhellmann/openstack-doc-migration-burndown) - 
+- [baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 
@@ -191,6 +194,7 @@
 - [jsblocks](https://github.com/astoilkov/jsblocks) - Better MV-ish Framework
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) - 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus
+- [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
@@ -223,6 +227,8 @@
 
 ## Others 
 
+- [tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
+- [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) - Proverbs from the programmer
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [openstack-docs](https://github.com/naturalis/openstack-docs) - Documentation resources IT facilities Naturalis
@@ -282,13 +288,15 @@
 
 ## Python 
 
+- [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
+- [kcli](https://github.com/karmab/kcli) - Wrapper around libvirt/aws/gcp/kubevirt/openstack/ovirt
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation object-relational database. A @magicstack project.
 - [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [TelegramTUI](https://github.com/bad-day/TelegramTUI) - Telegram client on your terminal
+- [TelegramTUI](https://github.com/vtr0n/TelegramTUI) - Telegram client on your terminal
 - [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
@@ -346,7 +354,7 @@
 - [hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [pyformance](https://github.com/omergertel/pyformance) - Performance metrics, based on Coda Hale's Yammer metrics
-- [kubespray](https://github.com/kubernetes-incubator/kubespray) - Setup a kubernetes cluster
+- [kubespray](https://github.com/kubernetes-incubator/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework
 - [shade](https://github.com/openstack-infra/shade) - Client library for OpenStack containing Infra business logic
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
@@ -367,7 +375,7 @@
 - [gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing for Python and anything else
 - [praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 - [zun](https://github.com/openstack/zun) - Containers Service for OpenStack
-- [google-cloud-python](https://github.com/GoogleCloudPlatform/google-cloud-python) - Google Cloud Client Library for Python
+- [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
 - [sopel](https://github.com/sopel-irc/sopel) - Formerly Willie. An easy-to-use and highly extensible IRC Bot framework
 - [zk_shell](https://github.com/rgs1/zk_shell) - A powerful & scriptable shell for Apache ZooKeeper
@@ -427,7 +435,6 @@
 - [zero-downtime-upgrade-scenario](https://github.com/vietstacker/zero-downtime-upgrade-scenario) - zero-downtime-upgrade
 - [Phim-GetLink](https://github.com/khiemdoan/Phim-GetLink) - Tool get link các web xem phim.
 - [gerritlib](https://github.com/openstack-infra/gerritlib) - Library for Gerrit
-- [baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [heat-translator](https://github.com/openstack/heat-translator) - Translate non-heat templates to Heat Orchestration Template.
 - [scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [deepdiff](https://github.com/seperman/deepdiff) - Deep Difference and search of any Python object/data.
@@ -542,7 +549,6 @@
 - [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) - Cookiecutter template for a Python package.
-- [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
@@ -609,7 +615,7 @@
 - [osic-clouds](https://github.com/osic/osic-clouds) - Docs and more about each of the clouds.
 - [docker-systemd](https://github.com/solita/docker-systemd) - systemd-enabled versions of Docker base images
 - [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
-- [fisher](https://github.com/jorgebucaran/fisher) - The plugin manager for fish-shell
+- [fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
@@ -652,7 +658,7 @@
 
 ## Vim script 
 
-- [kronos.vim](https://github.com/kronos-io/kronos.vim) - A vim client for Kronos protocol.
+- [kronos.vim](https://github.com/kronos-io/kronos.vim) - A Vim8/Neovim client for Kronos protocol.
 - [vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config with asynchronous Vim Plugins
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - :symbols: Adds file type glyphs/icons to popular Vim plugins: NERDTree, vim-airline, Powerline, Unite, vim-startify and more
 - [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
