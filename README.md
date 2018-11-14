@@ -26,6 +26,7 @@
   - [Pascal](#pascal)
   - [Perl](#perl)
   - [Python](#python)
+  - [QML](#qml)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scheme](#scheme)
@@ -44,6 +45,7 @@
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series database optimized for fast ingest and complex queries.  Engineered up from PostgreSQL, packaged as an extension.
 - [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework (formerly xdg-app)
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+- [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [openresty](https://github.com/openresty/openresty) - Turning Nginx into a Full-Fledged Scriptable Web Platform
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [librsync](https://github.com/librsync/librsync) - remote delta-compression library
@@ -65,7 +67,6 @@
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
-- [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [Natural-Processing-Language](https://github.com/LamLuong/Natural-Processing-Language) - Word Predict
 
 ## CSS 
@@ -92,6 +93,12 @@
 
 ## Go 
 
+- [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
+- [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [pulumi](https://github.com/pulumi/pulumi) - Pulumi is an SDK for cloud native infrastructure as code. Use your favorite language to deploy apps and infrastructure to any cloud, no YAML required.
+- [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
+- [dep](https://github.com/golang/dep) - Go dependency management tool
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [ibus-teni](https://github.com/teni-ime/ibus-teni) - Bộ gõ tiếng Việt cho Linux chạy trên IBus
 - [k3s](https://github.com/ibuildthecloud/k3s) - 5 less then k8s.  Short for kates, pronounced k8s
@@ -100,7 +107,7 @@
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [ceph_exporter](https://github.com/digitalocean/ceph_exporter) - Prometheus exporter that scrapes meta information about a ceph cluster.
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
-- [jx](https://github.com/jenkins-x/jx) - jx is a command line tool for working with Jenkins X: automated CI/CD for Kubernetes
+- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Knative Build, Prow, Skaffold and Helm
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [cortex](https://github.com/cortexproject/cortex) - A multitenant, horizontally scalable Prometheus as a Service
@@ -145,7 +152,6 @@
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [kbe](https://github.com/openshift-evangelists/kbe) - Kubernetes By Example
 - [openstack-doc-migration-burndown](https://github.com/dhellmann/openstack-doc-migration-burndown) - 
-- [baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 
@@ -162,7 +168,7 @@
 ## JavaScript 
 
 - [chrome-prometheus-formatter](https://github.com/fhemberger/chrome-prometheus-formatter) - Chrome Extension which makes plain Prometheus metrics easier to read
-- [botpress](https://github.com/botpress/botpress) - The  🤖 platform that  ⚡ thousands of bots worldwide
+- [botpress](https://github.com/botpress/botpress) - The ultimate open-source bot platform with built-in NLU
 - [landscape](https://github.com/cncf/landscape) - Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor.
@@ -196,7 +202,7 @@
 - [IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) - 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus
 - [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [bioinformatics-dashboard](https://github.com/HPCC-Cloud-Computing/bioinformatics-dashboard) - Bioinformatics Dashboard
@@ -227,13 +233,11 @@
 
 ## Others 
 
-- [tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
 - [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) - Proverbs from the programmer
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [openstack-docs](https://github.com/naturalis/openstack-docs) - Documentation resources IT facilities Naturalis
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
-- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - Scalable, Available, Stable, Performant, and Intelligent System Design Patterns
 - [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits) - :memo: A curated list of awesome programming subreddits.
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
@@ -288,6 +292,9 @@
 
 ## Python 
 
+- [autokeras](https://github.com/jhfjhfj1/autokeras) - accessible AutoML for deep learning.
+- [mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
+- [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [kcli](https://github.com/karmab/kcli) - Wrapper around libvirt/aws/gcp/kubevirt/openstack/ovirt
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -295,10 +302,10 @@
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation object-relational database. A @magicstack project.
-- [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+- [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [TelegramTUI](https://github.com/vtr0n/TelegramTUI) - Telegram client on your terminal
 - [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
+- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 - [tatu](https://github.com/openstack/tatu) - SSH (Certificate Management and Bastions) as a Service
@@ -435,6 +442,7 @@
 - [zero-downtime-upgrade-scenario](https://github.com/vietstacker/zero-downtime-upgrade-scenario) - zero-downtime-upgrade
 - [Phim-GetLink](https://github.com/khiemdoan/Phim-GetLink) - Tool get link các web xem phim.
 - [gerritlib](https://github.com/openstack-infra/gerritlib) - Library for Gerrit
+- [baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [heat-translator](https://github.com/openstack/heat-translator) - Translate non-heat templates to Heat Orchestration Template.
 - [scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [deepdiff](https://github.com/seperman/deepdiff) - Deep Difference and search of any Python object/data.
@@ -546,6 +554,7 @@
 - [chord-based-discovery-iot](https://github.com/nhatbkk57/chord-based-discovery-iot) - 
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
@@ -570,6 +579,10 @@
 - [os-loganalyze](https://github.com/openstack-infra/os-loganalyze) - Log analyzer tools for logs.openstack.org
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 
+## QML 
+
+- [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
+
 ## Ruby 
 
 - [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -589,6 +602,7 @@
 
 ## Shell 
 
+- [tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
 - [sshrc](https://github.com/Russell91/sshrc) - bring your .bashrc, .vimrc, etc. with you when you ssh
 - [openstack-helm](https://github.com/openstack/openstack-helm) - Helm charts for deploying OpenStack on Kubernetes
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -596,12 +610,13 @@
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [termite-install](https://github.com/Corwind/termite-install) - A termite installation script for Ubuntu users (and other Ubuntu-based distributions)
 - [t3mujinpack](https://github.com/t3mujin/t3mujinpack) - Collection of film emulation presets for open-source RAW developer software Darktable.
 - [awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [alien-minimal](https://github.com/eendroroy/alien-minimal) - An asynchronous minimal zsh prompt
-- [aliasme](https://github.com/Jintin/aliasme) - A shell script to organize your alias as path shortcut in command line.
+- [aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
 - [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - The most awesome Powerline theme for ZSH around!
 - [install-gnome-themes](https://github.com/tliron/install-gnome-themes) - Script to install the latest versions of some fine GNOME 3 themes
@@ -613,11 +628,9 @@
 - [presentations](https://github.com/zaneb/presentations) - Source for various presentations (one per branch)
 - [osic-clouds](https://github.com/osic/osic-clouds) - Docs and more about each of the clouds.
 - [docker-systemd](https://github.com/solita/docker-systemd) - systemd-enabled versions of Docker base images
-- [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 - [fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [diskimage-builder](https://github.com/openstack/diskimage-builder) - Image building tools for OpenStack
 - [trove-image-elements](https://github.com/vkmc/trove-image-elements) - 
