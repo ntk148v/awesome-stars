@@ -43,7 +43,7 @@
 
 ## C 
 
-- [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series database optimized for fast ingest and complex queries.  Engineered up from PostgreSQL, packaged as an extension.
+- [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
@@ -87,6 +87,7 @@
 
 - [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+- [termite-install](https://github.com/Corwind/termite-install) - A termite installation script for Ubuntu users (and other Ubuntu-based distributions)
 
 ## Go 
 
@@ -173,7 +174,7 @@
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 - [chrome-prometheus-formatter](https://github.com/fhemberger/chrome-prometheus-formatter) - Chrome Extension which makes plain Prometheus metrics easier to read
-- [botpress](https://github.com/botpress/botpress) - 🤖 ⚡ The ultimate open-source bot platform with built-in NLU
+- [botpress](https://github.com/botpress/botpress) - 🤖 The ultimate open-source conversational platform with built-in natural language processing (NLU), easy-to-use graphical interface and dialog manager ⚡
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor.
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
@@ -237,6 +238,7 @@
 
 ## Others 
 
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :star: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 - [awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [awesome-go-web-frameworks](https://github.com/speedwheel/awesome-go-web-frameworks) - You may not need a web framework if you design a small application for yourself, but if you're going production then you definitely will need one, a good one.
@@ -259,7 +261,7 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [openstack-heat-workshop](https://github.com/opsta/openstack-heat-workshop) - All Heat templates for Opsta OpenStack Administration Workshop
-- [Index-2018](https://github.com/SamPutnam/Index-2018) - The Putnam Company D/B/A Sam Putnam Consulting
+- [Index-2019](https://github.com/SamPutnam/Index-2019) - The Putnam Company D/B/A Sam Putnam Consulting
 - [bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
 - [OpenStack-Heat-Installation](https://github.com/MarouenMechtri/OpenStack-Heat-Installation) - In this installation guide, we cover the step-by-step process of installing Openstack Heat service.
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
@@ -339,7 +341,7 @@
 - [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [shinken](https://github.com/naparuba/shinken) - Flexible and scalable monitoring framework
-- [rpc-maas](https://github.com/rcbops/rpc-maas) - Ansible Role for deploying Rackspace monitoring-as-a-service on an Openstack Environment || Submit bugs to: https://bit.ly/RPC-openstack-template
+- [rpc-maas](https://github.com/rcbops/rpc-maas) - Ansible playbooks for deploying Rackspace Monitoring-as-a-Service within Openstack Environments
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
@@ -399,7 +401,7 @@
 - [zun](https://github.com/openstack/zun) - Containers Service for OpenStack
 - [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
-- [sopel](https://github.com/sopel-irc/sopel) - Formerly Willie. An easy-to-use and highly extensible IRC Bot framework
+- [sopel](https://github.com/sopel-irc/sopel) - :robot::speech_balloon: An easy-to-use and highly extensible IRC Bot framework. Formerly Willie.
 - [zk_shell](https://github.com/rgs1/zk_shell) - A powerful & scriptable shell for Apache ZooKeeper
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [tenacity](https://github.com/jd/tenacity) - Retrying library for Python
@@ -516,7 +518,7 @@
 - [pyrsync](https://github.com/isislovecruft/pyrsync) - A pure Python module which implements the rsync algorithm.
 - [PySyncIt](https://github.com/db42/PySyncIt) - File synchronization application written in python to sync devices residing on a LAN.
 - [cookiecutter](https://github.com/openstack-dev/cookiecutter) - Cookiecutter Template for new OpenStack projects
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones Python implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.
 - [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
 - [freezer-api](https://github.com/openstack/freezer-api) - REST API interface for Freezer backup, restore and disaster recovery platform
 - [crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
@@ -588,7 +590,7 @@
 - [falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
-- [requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™ ✨🍰✨
+- [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™ ✨🍰✨
 - [CAL](https://github.com/HPCC-Cloud-Computing/CAL) - CAL - Cloud Abstract Layer framework proto-type
 - [os-loganalyze](https://github.com/openstack-infra/os-loganalyze) - Log analyzer tools for logs.openstack.org
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -628,7 +630,6 @@
 - [dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
-- [termite-install](https://github.com/Corwind/termite-install) - A termite installation script for Ubuntu users (and other Ubuntu-based distributions)
 - [t3mujinpack](https://github.com/t3mujin/t3mujinpack) - Collection of film emulation presets for open-source RAW developer software Darktable.
 - [awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
