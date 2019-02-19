@@ -43,6 +43,7 @@
 
 ## C 
 
+- [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -171,6 +172,7 @@
 
 ## JavaScript 
 
+- [designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 - [chrome-prometheus-formatter](https://github.com/fhemberger/chrome-prometheus-formatter) - Chrome Extension which makes plain Prometheus metrics easier to read
@@ -307,6 +309,7 @@
 
 ## Python 
 
+- [designing-distributed-systems](https://github.com/brendandburns/designing-distributed-systems) - Sample code and configuration files from the Designing Distributed Systems book.
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [the-monitor](https://github.com/DataDog/the-monitor) - Markdown files for Datadog's long-form blog posts: https://www.datadoghq.com/blog/
 - [autokeras](https://github.com/jhfjhfj1/autokeras) - accessible AutoML for deep learning.
