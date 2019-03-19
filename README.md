@@ -16,6 +16,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jsonnet](#jsonnet)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
@@ -61,6 +62,7 @@
 
 ## C++ 
 
+- [flatbuffers](https://github.com/google/flatbuffers) - Memory Efficient Serialization Library
 - [Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [digikam](https://github.com/KDE/digikam) - digiKam is an advanced digital photo management application for KDE, which makes importing and organizing digital photos a 'snap'.
@@ -92,6 +94,7 @@
 
 ## Go 
 
+- [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -115,7 +118,6 @@
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [ceph_exporter](https://github.com/digitalocean/ceph_exporter) - Prometheus exporter that scrapes meta information about a ceph cluster.
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
-- [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Knative Build, Prow, Skaffold and Helm
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -219,6 +221,10 @@
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [bioinformatics-dashboard](https://github.com/HPCC-Cloud-Computing/bioinformatics-dashboard) - Bioinformatics Dashboard
 
+## Jsonnet 
+
+- [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+
 ## Jupyter Notebook 
 
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
@@ -256,7 +262,7 @@
 - [awesome-go-web-frameworks](https://github.com/speedwheel/awesome-go-web-frameworks) - You may not need a web framework if you design a small application for yourself, but if you're going production then you definitely will need one, a good one.
 - [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) - Proverbs from the programmer
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
-- [landscape](https://github.com/cncf/landscape) - The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+- [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [openstack-docs](https://github.com/naturalis/openstack-docs) - Documentation resources IT facilities Naturalis
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
@@ -319,6 +325,8 @@
 
 ## Python 
 
+- [git-pull-request](https://github.com/jd/git-pull-request) - Send git pull-request via command line
+- [loudml](https://github.com/regel/loudml) - Loud ML is the first open-source AI solution for ICT and IoT automation
 - [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
 - [designing-distributed-systems](https://github.com/brendandburns/designing-distributed-systems) - Sample code and configuration files from the Designing Distributed Systems book.
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
@@ -376,7 +384,7 @@
 - [apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [omni](https://github.com/openstack/omni) - Multi and hybrid cloud management with OpenStack API.
 - [Limnoria](https://github.com/ProgVal/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
-- [jenni](https://github.com/myano/jenni) - jenni is a python IRC bot maintained and developed by yano. This project was created by Sean B. Palmer.
+- [jenni](https://github.com/myano/jenni) - jenni is a python IRC bot. Project is closed. Try Sopel instead, https://sopel.chat/
 - [rally](https://github.com/openstack/rally) - Rally provides a framework for performance analysis and benchmarking of individual OpenStack components as well as full production OpenStack cloud deployments
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [pykube](https://github.com/kelproject/pykube) - Python client library for Kubernetes
