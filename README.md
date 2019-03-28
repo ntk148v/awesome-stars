@@ -94,6 +94,7 @@
 
 ## Go 
 
+- [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -180,6 +181,7 @@
 
 ## JavaScript 
 
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything 👉
 - [designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
@@ -197,7 +199,7 @@
 - [gerritstats](https://github.com/holmari/gerritstats) - Tool for creating statistics from a Gerrit repository
 - [hound](https://github.com/etsy/hound) - Lightning fast code searching made easy
 - [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [orc](https://github.com/orcproject/orc) - distributed, anonymous, secure object storage
+- [orc](https://github.com/orcproject/orc) - :warning: ORC HAS MOVED TO GITLAB :warning:
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [angular-filemanager](https://github.com/joni2back/angular-filemanager) - JavaScript File Manager Material Design Folder Explorer Navigator Browser Manager in AngularJS with CSS3 Responsive (with FTP in PHP / Java / Node)
 - [Messer](https://github.com/mjkaufer/Messer) - :speech_balloon: Command-line messaging for Facebook Messenger
@@ -252,9 +254,9 @@
 
 ## Others 
 
+- [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything.
 - [go-styleguide](https://github.com/bahlo/go-styleguide) - Opinionated Styleguide for the Go language
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
@@ -343,7 +345,7 @@
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation object-relational database. A @magicstack project.
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [TelegramTUI](https://github.com/vtr0n/TelegramTUI) - Telegram client on your terminal
-- [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
+- [rtv](https://github.com/michael-lazar/rtv) - :surfer: Browse Reddit from your terminal
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 - [tatu](https://github.com/openstack/tatu) - SSH (Certificate Management and Bastions) as a Service
@@ -371,12 +373,12 @@
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [python-snippets](https://github.com/progrmoiz/python-snippets) - :100: The most useful python snippets
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
+- [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define. Also, we are hiring!!!!!!!!
 - [gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
 - [NBA-prediction](https://github.com/christopherjenness/NBA-prediction) - Predict scores of NBA games using regularized matrix completion
 - [freepacktbook](https://github.com/bogdal/freepacktbook) - Claim Your Free PacktPub eBook automatically
 - [opencv-python-blueprints](https://github.com/mbeyeler/opencv-python-blueprints) - M. Beyeler (2015). OpenCV with Python Blueprints: Design and develop advanced computer vision projects using OpenCV with Python, Packt Publishing Ltd., ISBN 978-178528269-0.
-- [deepo](https://github.com/ufoym/deepo) - A series of Docker images (and their generator) that allows you to quickly set up your deep learning research environment.
+- [deepo](https://github.com/ufoym/deepo) - Docker images (and their generator) to accelerate deep learning research.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [openstack-connector-k8s](https://github.com/kevin-zhaoshuai/openstack-connector-k8s) - Kubernetes connector for OpenStack Zun project. Make OpenStack as a node in Kubernetes to run workloads
 - [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
@@ -543,7 +545,7 @@
 - [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
 - [freezer-api](https://github.com/openstack/freezer-api) - REST API interface for Freezer backup, restore and disaster recovery platform
 - [crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
-- [ansible-container](https://github.com/ansible/ansible-container) - Ansible Container is a tool to build Docker images and orchestrate containers using only Ansible playbooks.
+- [ansible-container](https://github.com/ansible/ansible-container) - DEPRECATED -- Ansible Container was a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [gosync](https://github.com/hschauhan/gosync) - Open source Google drive client written in python
 - [pootle](https://github.com/translate/pootle) - Online translation tool
@@ -690,7 +692,7 @@
 - [zimfw](https://github.com/zimfw/zimfw) - ZIM - Zsh IMproved FrameWork
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [openstack-ansible-galera_server](https://github.com/openstack/openstack-ansible-galera_server) - Role galera_server for OpenStack-Ansible
 - [openstack-resource-agents](https://github.com/openstack/openstack-resource-agents) - Pacemaker High Availability resource agents for OpenStack
