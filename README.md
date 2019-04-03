@@ -127,7 +127,7 @@
 - [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools for Operations.
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [rocker](https://github.com/grammarly/rocker) - Rocker breaks the limits of Dockerfile.
-- [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers
+- [watchtower](https://github.com/containrrr/watchtower) - Automatically update running Docker containers
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [stackube](https://github.com/openstack/stackube) - Integrate OpenStack projects with Kubernetes for multi-tenancy.
@@ -327,13 +327,14 @@
 
 ## Python 
 
+- [nba_py](https://github.com/seemethere/nba_py) - Python client for NBA statistics located at stats.nba.com
 - [git-pull-request](https://github.com/jd/git-pull-request) - Send git pull-request via command line
 - [loudml](https://github.com/regel/loudml) - Loud ML is the first open-source AI solution for ICT and IoT automation
 - [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
 - [designing-distributed-systems](https://github.com/brendandburns/designing-distributed-systems) - Sample code and configuration files from the Designing Distributed Systems book.
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [the-monitor](https://github.com/DataDog/the-monitor) - Markdown files for Datadog's long-form blog posts: https://www.datadoghq.com/blog/
-- [autokeras](https://github.com/jhfjhfj1/autokeras) - accessible AutoML for deep learning.
+- [autokeras](https://github.com/keras-team/autokeras) - Accessible AutoML for deep learning.
 - [mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
 - [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
@@ -408,7 +409,7 @@
 - [Text-Search-Engine](https://github.com/logicx24/Text-Search-Engine) - A crappy search engine for text files that I made on one of my many NYC-SF plane flights.
 - [acora](https://github.com/scoder/acora) - Fast multi-keyword search engine for text strings
 - [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
-- [moto](https://github.com/spulec/moto) - Moto is a library that allows your python tests to easily mock out the boto library
+- [moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [python-rtmbot](https://github.com/slackapi/python-rtmbot) - A framework for receiving and interacting with events from Slack's RTM API
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
