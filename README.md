@@ -94,6 +94,7 @@
 
 ## Go 
 
+- [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
@@ -230,7 +231,7 @@
 ## Jupyter Notebook 
 
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
 - [TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
 - [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
@@ -328,7 +329,7 @@
 ## Python 
 
 - [nba_py](https://github.com/seemethere/nba_py) - Python client for NBA statistics located at stats.nba.com
-- [git-pull-request](https://github.com/jd/git-pull-request) - Send git pull-request via command line
+- [git-pull-request](https://github.com/Mergifyio/git-pull-request) - Send git pull-request via command line
 - [loudml](https://github.com/regel/loudml) - Loud ML is the first open-source AI solution for ICT and IoT automation
 - [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
 - [designing-distributed-systems](https://github.com/brendandburns/designing-distributed-systems) - Sample code and configuration files from the Designing Distributed Systems book.
@@ -343,7 +344,7 @@
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
-- [edgedb](https://github.com/edgedb/edgedb) - The next generation object-relational database. A @magicstack project.
+- [edgedb](https://github.com/edgedb/edgedb) - The next generation object-relational database.  A @magicstack project.
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [TelegramTUI](https://github.com/vtr0n/TelegramTUI) - Telegram client on your terminal
 - [rtv](https://github.com/michael-lazar/rtv) - :surfer: Browse Reddit from your terminal
