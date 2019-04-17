@@ -94,6 +94,9 @@
 
 ## Go 
 
+- [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
+- [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
+- [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
@@ -120,7 +123,7 @@
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [ceph_exporter](https://github.com/digitalocean/ceph_exporter) - Prometheus exporter that scrapes meta information about a ceph cluster.
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
-- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Knative Build, Prow, Skaffold and Helm
+- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and Helm
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [cortex](https://github.com/cortexproject/cortex) - A multitenant, horizontally scalable Prometheus as a Service
@@ -128,7 +131,7 @@
 - [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools for Operations.
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [rocker](https://github.com/grammarly/rocker) - Rocker breaks the limits of Dockerfile.
-- [watchtower](https://github.com/containrrr/watchtower) - Automatically update running Docker containers
+- [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [stackube](https://github.com/openstack/stackube) - Integrate OpenStack projects with Kubernetes for multi-tenancy.
@@ -162,6 +165,7 @@
 
 ## HTML 
 
+- [notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [kbe](https://github.com/openshift-evangelists/kbe) - Kubernetes By Example
@@ -198,9 +202,8 @@
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [gerritstats](https://github.com/holmari/gerritstats) - Tool for creating statistics from a Gerrit repository
-- [hound](https://github.com/etsy/hound) - Lightning fast code searching made easy
+- [hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [orc](https://github.com/orcproject/orc) - :warning: ORC HAS MOVED TO GITLAB :warning:
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [angular-filemanager](https://github.com/joni2back/angular-filemanager) - JavaScript File Manager Material Design Folder Explorer Navigator Browser Manager in AngularJS with CSS3 Responsive (with FTP in PHP / Java / Node)
 - [Messer](https://github.com/mjkaufer/Messer) - :speech_balloon: Command-line messaging for Facebook Messenger
@@ -255,6 +258,7 @@
 
 ## Others 
 
+- [prometheus-example-queries](https://github.com/infinityworks/prometheus-example-queries) - Simple place for people to provide examples of queries they've found useful.
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
@@ -282,7 +286,7 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [openstack-heat-workshop](https://github.com/opsta/openstack-heat-workshop) - All Heat templates for Opsta OpenStack Administration Workshop
-- [Index-2019](https://github.com/SamPutnam/Index-2019) - The Putnam Company D/B/A Sam Putnam Consulting
+- [Index-2019](https://github.com/SamPutnam/Index-2019) - The Putnam Company D/B/A Sam Putnam Engineering
 - [bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
 - [OpenStack-Heat-Installation](https://github.com/MarouenMechtri/OpenStack-Heat-Installation) - In this installation guide, we cover the step-by-step process of installing Openstack Heat service.
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
@@ -328,6 +332,7 @@
 
 ## Python 
 
+- [unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio
 - [nba_py](https://github.com/seemethere/nba_py) - Python client for NBA statistics located at stats.nba.com
 - [git-pull-request](https://github.com/Mergifyio/git-pull-request) - Send git pull-request via command line
 - [loudml](https://github.com/regel/loudml) - Loud ML is the first open-source AI solution for ICT and IoT automation
@@ -380,7 +385,7 @@
 - [NBA-prediction](https://github.com/christopherjenness/NBA-prediction) - Predict scores of NBA games using regularized matrix completion
 - [freepacktbook](https://github.com/bogdal/freepacktbook) - Claim Your Free PacktPub eBook automatically
 - [opencv-python-blueprints](https://github.com/mbeyeler/opencv-python-blueprints) - M. Beyeler (2015). OpenCV with Python Blueprints: Design and develop advanced computer vision projects using OpenCV with Python, Packt Publishing Ltd., ISBN 978-178528269-0.
-- [deepo](https://github.com/ufoym/deepo) - Docker images (and their generator) to accelerate deep learning research.
+- [deepo](https://github.com/ufoym/deepo) - Set up your environment for deep learning in a single command line.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [openstack-connector-k8s](https://github.com/kevin-zhaoshuai/openstack-connector-k8s) - Kubernetes connector for OpenStack Zun project. Make OpenStack as a node in Kubernetes to run workloads
 - [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
