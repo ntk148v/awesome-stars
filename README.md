@@ -410,7 +410,7 @@
 - [pyformance](https://github.com/omergertel/pyformance) - Performance metrics, based on Coda Hale's Yammer metrics
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework
-- [shade](https://github.com/openstack-infra/shade) - Client library for OpenStack containing Infra business logic
+- [shade](https://github.com/openstack/shade) - Client library for OpenStack containing Infra business logic
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [Text-Search-Engine](https://github.com/logicx24/Text-Search-Engine) - A crappy search engine for text files that I made on one of my many NYC-SF plane flights.
 - [acora](https://github.com/scoder/acora) - Fast multi-keyword search engine for text strings
@@ -424,8 +424,8 @@
 - [zabbix_manager](https://github.com/meetbill/zabbix_manager) - 🍀 (1)安装后一键设置 (2)日常管理工具 (3)一键导出常用报表 (4)Zabbix API  二次开发
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
 - [nerd-reviewer](https://github.com/openstack/nerd-reviewer) - Nerd Reviewer bot reviews patches and checks that they pass common project rules e.g. unit test coverage, max amount of loc, well written commit message... So core reviews can concentrate on other more important stuff.
-- [reviewday](https://github.com/openstack-infra/reviewday) - OpenStack code review report generator
-- [reviewstats](https://github.com/openstack-infra/reviewstats) - Scripts for generating OpenStack development community statistics
+- [reviewday](https://github.com/openstack/reviewday) - OpenStack code review report generator
+- [reviewstats](https://github.com/openstack/reviewstats) - Scripts for generating OpenStack development community statistics
 - [gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing for Python and anything else
 - [praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 - [zun](https://github.com/openstack/zun) - Containers Service for OpenStack
@@ -547,7 +547,7 @@
 - [cookiecutter-simple-django](https://github.com/marcofucci/cookiecutter-simple-django) - A cookiecutter template for creating reusable Django projects quickly.
 - [pyrsync](https://github.com/isislovecruft/pyrsync) - A pure Python module which implements the rsync algorithm.
 - [PySyncIt](https://github.com/db42/PySyncIt) - File synchronization application written in python to sync devices residing on a LAN.
-- [cookiecutter](https://github.com/openstack-dev/cookiecutter) - Cookiecutter Template for new OpenStack projects
+- [cookiecutter](https://github.com/openstack/cookiecutter) - Cookiecutter Template for new OpenStack projects
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.
 - [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
 - [freezer-api](https://github.com/openstack/freezer-api) - REST API interface for Freezer backup, restore and disaster recovery platform
@@ -622,7 +622,7 @@
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™ ✨🍰✨
 - [CAL](https://github.com/HPCC-Cloud-Computing/CAL) - CAL - Cloud Abstract Layer framework proto-type
-- [os-loganalyze](https://github.com/openstack-infra/os-loganalyze) - Log analyzer tools for logs.openstack.org
+- [os-loganalyze](https://github.com/openstack/os-loganalyze) - Log analyzer tools for logs.openstack.org
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 
 ## QML 
