@@ -94,6 +94,10 @@
 
 ## Go 
 
+- [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++.
+- [dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
+- [cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
@@ -212,7 +216,7 @@
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [openup03_07](https://github.com/Open-Up/openup03_07) - MogoDb presentation and practice
-- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker – Available on Chrome, Firefox and Opera
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [kyyeu203](https://github.com/daikk115/kyyeu203) - 
 - [autoscaling-paas](https://github.com/cuongnb14/autoscaling-paas) - autoscaling on mesos
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -268,7 +272,7 @@
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [awesome-go-web-frameworks](https://github.com/speedwheel/awesome-go-web-frameworks) - You may not need a web framework if you design a small application for yourself, but if you're going production then you definitely will need one, a good one.
 - [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) - Proverbs from the programmer
-- [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real-world enterprise frontend development
+- [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real world enterprise frontend development
 - [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [openstack-docs](https://github.com/naturalis/openstack-docs) - Documentation resources IT facilities Naturalis
@@ -332,9 +336,10 @@
 
 ## Python 
 
+- [wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio
 - [nba_py](https://github.com/seemethere/nba_py) - Python client for NBA statistics located at stats.nba.com
-- [git-pull-request](https://github.com/Mergifyio/git-pull-request) - Send git pull-request via command line
+- [git-pull-request](https://github.com/Mergifyio/git-pull-request) - Send git pull requests via command line
 - [loudml](https://github.com/regel/loudml) - Loud ML is the first open-source AI solution for ICT and IoT automation
 - [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
 - [designing-distributed-systems](https://github.com/brendandburns/designing-distributed-systems) - Sample code and configuration files from the Designing Distributed Systems book.
@@ -408,7 +413,6 @@
 - [hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [pyformance](https://github.com/omergertel/pyformance) - Performance metrics, based on Coda Hale's Yammer metrics
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework
 - [shade](https://github.com/openstack/shade) - Client library for OpenStack containing Infra business logic
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
@@ -671,6 +675,7 @@
 - [docker-gc](https://github.com/spotify/docker-gc) - Docker garbage collection of containers and images
 - [httpstat](https://github.com/b4b4r07/httpstat) - It's like curl -v, with graphs and colors
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [n](https://github.com/tj/n) - Node version management
 - [loci](https://github.com/openstack/loci) - Lightweight OCI compatible images for OpenStack Projects
 - [presentations](https://github.com/zaneb/presentations) - Source for various presentations (one per branch)
@@ -699,7 +704,7 @@
 - [zimfw](https://github.com/zimfw/zimfw) - ZIM - Zsh IMproved FrameWork
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [openstack-ansible-galera_server](https://github.com/openstack/openstack-ansible-galera_server) - Role galera_server for OpenStack-Ansible
 - [openstack-resource-agents](https://github.com/openstack/openstack-resource-agents) - Pacemaker High Availability resource agents for OpenStack
