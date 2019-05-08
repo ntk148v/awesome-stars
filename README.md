@@ -94,6 +94,8 @@
 
 ## Go 
 
+- [pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
+- [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++.
 - [dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
@@ -336,6 +338,9 @@
 
 ## Python 
 
+- [performance](https://github.com/python/performance) - Python Performance Benchmark Suite
+- [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's Plugins, Generate Awesome Statistics and Optimize Vim Startup Time
+- [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio
 - [nba_py](https://github.com/seemethere/nba_py) - Python client for NBA statistics located at stats.nba.com
@@ -357,7 +362,7 @@
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation object-relational database.  A @magicstack project.
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [TelegramTUI](https://github.com/vtr0n/TelegramTUI) - Telegram client on your terminal
-- [rtv](https://github.com/michael-lazar/rtv) - :surfer: Browse Reddit from your terminal
+- [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 - [tatu](https://github.com/openstack/tatu) - SSH (Certificate Management and Bastions) as a Service
@@ -621,7 +626,7 @@
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+- [falcon](https://github.com/falconry/falcon) - Falcon is a Python web API framework for building reliable, high-performance REST APIs, microservices, and app backends.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™ ✨🍰✨
