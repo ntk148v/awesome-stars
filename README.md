@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [flatbuffers](https://github.com/google/flatbuffers) - Memory Efficient Serialization Library
 - [Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
@@ -94,6 +95,7 @@
 
 ## Go 
 
+- [fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets
 - [pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -297,6 +299,7 @@
 - [OpenStack-Heat-Installation](https://github.com/MarouenMechtri/OpenStack-Heat-Installation) - In this installation guide, we cover the step-by-step process of installing Openstack Heat service.
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
+- [neutron-lbaas](https://github.com/openstack/neutron-lbaas) - Load balancing services for OpenStack Neutron.
 - [python-p2p](https://github.com/pedrotgn/python-p2p) - Implementation of well-known p2p protocols in Python
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
@@ -338,6 +341,8 @@
 
 ## Python 
 
+- [doorman](https://github.com/mwielgoszewski/doorman) - an osquery fleet manager
+- [zentral](https://github.com/zentralopensource/zentral) - Zentral is a framework to gather, process, and monitor system events and link them to an inventory.
 - [performance](https://github.com/python/performance) - Python Performance Benchmark Suite
 - [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's Plugins, Generate Awesome Statistics and Optimize Vim Startup Time
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
@@ -359,7 +364,7 @@
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
-- [edgedb](https://github.com/edgedb/edgedb) - The next generation object-relational database.  A @magicstack project.
+- [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [TelegramTUI](https://github.com/vtr0n/TelegramTUI) - Telegram client on your terminal
 - [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
@@ -523,10 +528,9 @@
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
 - [django-storages](https://github.com/jschneier/django-storages) - https://django-storages.readthedocs.io/
 - [django-s3-storage](https://github.com/etianen/django-s3-storage) - Django Amazon S3 file storage.
-- [sanic](https://github.com/huge-success/sanic) - Async Python 3.5+ web server that's written to go fast
+- [sanic](https://github.com/huge-success/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
 - [f5-openstack-lbaasv2-driver](https://github.com/F5Networks/f5-openstack-lbaasv2-driver) - F5 LBaaSv2 service provider driver for OpenStack Liberty and beyond
 - [neutron-lbaas-device-driver](https://github.com/pulse-vadc/neutron-lbaas-device-driver) - This is the OpenStack Neutron LBaaS device driver for Brocade Virtual Traffic Manager (formerly SteelApp).  It plugs into the Brocade LBaaS driver which has shipped with OpenStack since the Kilo release.
-- [neutron-lbaas](https://github.com/openstack/neutron-lbaas) - Load balancing services for OpenStack Neutron.
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
 - [aiomonitor](https://github.com/aio-libs/aiomonitor) - aiomonitor is module that adds monitor and python REPL capabilities for asyncio application
@@ -626,7 +630,7 @@
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [falcon](https://github.com/falconry/falcon) - Falcon is a Python web API framework for building reliable, high-performance REST APIs, microservices, and app backends.
+- [falcon](https://github.com/falconry/falcon) - The minimalist web API framework for building reliable, high-performance REST APIs, microservices, proxies, and app backends in Python.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™ ✨🍰✨
@@ -734,7 +738,7 @@
 
 ## Vim script 
 
-- [kronos.vim](https://github.com/kronos-io/kronos.vim) - A Vim8/Neovim client for Kronos protocol.
+- [kronos.vim](https://github.com/soywod/kronos.vim) - A simple task and time manager.
 - [vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config with asynchronous Vim Plugins
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - :symbols: Adds file type glyphs/icons to popular Vim plugins: NERDTree, vim-airline, Powerline, Unite, vim-startify and more
 - [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
