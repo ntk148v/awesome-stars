@@ -95,6 +95,9 @@
 
 ## Go 
 
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - high-performance and cost-effective time series database
+- [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
+- [trivy](https://github.com/knqyf263/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets
 - [pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
@@ -117,7 +120,7 @@
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [tfit](https://github.com/d0m0reg00dthing/tfit) - Export resource from AWS into terraform format (HCL)
 - [go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
-- [direnv](https://github.com/direnv/direnv) - Unclutter your .profile
+- [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [pulumi](https://github.com/pulumi/pulumi) - Define cloud apps and infrastructure in your favorite language and deploy to any cloud
 - [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
@@ -126,7 +129,7 @@
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [ibus-teni](https://github.com/teni-ime/ibus-teni) - Bộ gõ tiếng Việt cho Linux chạy trên IBus
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
-- [origin](https://github.com/openshift/origin) - Enterprise Kubernetes for Developers
+- [origin](https://github.com/openshift/origin) - The self-managing, auto-upgrading, Kubernetes distribution for everyone
 - [unsee](https://github.com/cloudflare/unsee) - Alert dashboard for Prometheus Alertmanager
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [ceph_exporter](https://github.com/digitalocean/ceph_exporter) - Prometheus exporter that scrapes meta information about a ceph cluster.
@@ -213,6 +216,7 @@
 - [hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [angular-filemanager](https://github.com/joni2back/angular-filemanager) - JavaScript File Manager Material Design Folder Explorer Navigator Browser Manager in AngularJS with CSS3 Responsive (with FTP in PHP / Java / Node)
 - [Messer](https://github.com/mjkaufer/Messer) - :speech_balloon: Command-line messaging for Facebook Messenger
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
@@ -469,7 +473,6 @@
 - [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
 - [pygerrit2](https://github.com/dpursehouse/pygerrit2) - Python library to interface with Gerrit's REST API
 - [potion](https://github.com/biosustain/potion) - Flask-Potion is a RESTful API framework for Flask and SQLAlchemy, Peewee or MongoEngine
-- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
@@ -480,7 +483,7 @@
 - [errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [limbo](https://github.com/llimllib/limbo) - A simple, clean, easy to modify Slack chatbot
 - [slacker-asyncio](https://github.com/gfreezy/slacker-asyncio) - Full-featured Python interface for the Slack API
-- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Developer Kit for Python
+- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Python SDK
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [weirdo](https://github.com/rdo-infra/weirdo) - It's not weird if it works.
 - [kazam](https://github.com/hzbd/kazam) - A screencasting program created with design in mind.(https://launchpad.net/kazam)
@@ -510,7 +513,7 @@
 - [elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python low-level client for Elasticsearch.
 - [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [tbvaccine](https://github.com/skorokithakis/tbvaccine) - A small utility to pretty-print Python tracebacks. ⛺
-- [tinystatus](https://github.com/cathalgarvey/tinystatus) - A peer to peer microstatus system written in 30 lines of pure python.
+- [tinystatus](https://github.com/cathalgarvey/tinystatus) - A peer to peer microstatus system written in 30 lines of pure python. (MOVED to Gitlab)
 - [pyp2p](https://github.com/StorjOld/pyp2p) - 
 - [django-dowser](https://github.com/munhitsu/django-dowser) - Django fork of amazing memory leaks tracking application for python wsgi - the Dowser
 - [Fwaf-Machine-Learning-driven-Web-Application-Firewall](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall) - Machine learning driven web application firewall to detect malicious queries with high accuracy.
@@ -663,6 +666,7 @@
 
 ## Shell 
 
+- [polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants
 - [k8s-on-openstack](https://github.com/infraly/k8s-on-openstack) - An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud.
 - [tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
 - [sshrc](https://github.com/Russell91/sshrc) - bring your .bashrc, .vimrc, etc. with you when you ssh
