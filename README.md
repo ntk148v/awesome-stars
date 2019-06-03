@@ -95,7 +95,8 @@
 
 ## Go 
 
-- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - high-performance and cost-effective time series database
+- [pipeline](https://github.com/banzaicloud/pipeline) - Pipeline enables developers to go from commit to scale in minutes by turning Kubernetes into a feature rich application platform integrating CI/CD, centralized logging, monitoring, enterprise-grade security, autoscaling and more.
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [trivy](https://github.com/knqyf263/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets
@@ -178,7 +179,6 @@
 
 - [notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
-- [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [kbe](https://github.com/openshift-evangelists/kbe) - Kubernetes By Example
 - [openstack-doc-migration-burndown](https://github.com/dhellmann/openstack-doc-migration-burndown) - 
 - [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
@@ -204,7 +204,7 @@
 - [chrome-prometheus-formatter](https://github.com/fhemberger/chrome-prometheus-formatter) - Chrome Extension which makes plain Prometheus metrics easier to read
 - [botpress](https://github.com/botpress/botpress) - 🤖 The ultimate open-source conversational platform with built-in natural language processing (NLU), easy-to-use graphical interface and dialog manager ⚡
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [nba-go](https://github.com/xxhomey19/nba-go) - 🏀 💻 The finest NBA CLI.
@@ -270,6 +270,7 @@
 
 ## Others 
 
+- [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
 - [prometheus-example-queries](https://github.com/infinityworks/prometheus-example-queries) - Simple place for people to provide examples of queries they've found useful.
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -345,9 +346,10 @@
 
 ## Python 
 
+- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [doorman](https://github.com/mwielgoszewski/doorman) - an osquery fleet manager
 - [zentral](https://github.com/zentralopensource/zentral) - Zentral is a framework to gather, process, and monitor system events and link them to an inventory.
-- [performance](https://github.com/python/performance) - Python Performance Benchmark Suite
+- [pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's Plugins, Generate Awesome Statistics and Optimize Vim Startup Time
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
@@ -379,6 +381,7 @@
 - [thug-memes](https://github.com/jerry-git/thug-memes) - Command line Thug Meme generator written in Python
 - [irc](https://github.com/jaraco/irc) - Full-featured Python IRC library for Python.
 - [pipfile](https://github.com/pypa/pipfile) - 
+- [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [beagle](https://github.com/dhellmann/beagle) - Command line interface for the hound code search tool
 - [containerregistry](https://github.com/google/containerregistry) - A set of Python libraries and tools for interacting with a Docker Registry.
 - [ci_edit](https://github.com/google/ci_edit) - A terminal text editor with mouse support and ctrl+Q to quit.
@@ -654,6 +657,7 @@
 
 ## Rust 
 
+- [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
@@ -666,6 +670,7 @@
 
 ## Shell 
 
+- [autopass](https://github.com/datle1/autopass) - Pass tests of elearning
 - [polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants
 - [k8s-on-openstack](https://github.com/infraly/k8s-on-openstack) - An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud.
 - [tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
