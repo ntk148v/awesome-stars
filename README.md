@@ -33,6 +33,7 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Smarty](#smarty)
+  - [TSQL](#tsql)
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Vim script](#vim-script)
@@ -63,7 +64,7 @@
 ## C++ 
 
 - [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [flatbuffers](https://github.com/google/flatbuffers) - Memory Efficient Serialization Library
+- [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [digikam](https://github.com/KDE/digikam) - digiKam is an advanced digital photo management application for KDE, which makes importing and organizing digital photos a 'snap'.
@@ -89,12 +90,12 @@
 
 ## Dockerfile 
 
-- [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [termite-install](https://github.com/Corwind/termite-install) - A termite installation script for Ubuntu users (and other Ubuntu-based distributions)
 
 ## Go 
 
+- [gf](https://github.com/gogf/gf) - GoFrame is a modular, loose-coupled, production-ready and most-powerful application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, validator, database orm, etc. Supporting web server integrated with router, cookie, session, logger, configure, template, https, hooks, rewrites and many more features.
 - [pipeline](https://github.com/banzaicloud/pipeline) - Pipeline enables developers to go from commit to scale in minutes by turning Kubernetes into a feature rich application platform integrating CI/CD, centralized logging, monitoring, enterprise-grade security, autoscaling and more.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -197,6 +198,7 @@
 
 ## JavaScript 
 
+- [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything 👉
 - [designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
@@ -286,7 +288,7 @@
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [openstack-docs](https://github.com/naturalis/openstack-docs) - Documentation resources IT facilities Naturalis
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits) - :memo: A curated list of awesome programming subreddits.
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 - [state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
@@ -415,7 +417,7 @@
 - [apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [omni](https://github.com/openstack/omni) - Multi and hybrid cloud management with OpenStack API.
 - [Limnoria](https://github.com/ProgVal/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
-- [jenni](https://github.com/myano/jenni) - jenni is a python IRC bot. Project is closed. Try Sopel instead, https://sopel.chat/
+- [jenni](https://github.com/myano/jenni) - jenni was a python IRC bot. Project is closed. Try Sopel instead, https://sopel.chat/
 - [rally](https://github.com/openstack/rally) - Rally provides a framework for performance analysis and benchmarking of individual OpenStack components as well as full production OpenStack cloud deployments
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [pykube](https://github.com/kelproject/pykube) - Python client library for Kubernetes
@@ -430,7 +432,7 @@
 - [hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [pyformance](https://github.com/omergertel/pyformance) - Performance metrics, based on Coda Hale's Yammer metrics
-- [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework
+- [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework: deprecated
 - [shade](https://github.com/openstack/shade) - Client library for OpenStack containing Infra business logic
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [Text-Search-Engine](https://github.com/logicx24/Text-Search-Engine) - A crappy search engine for text files that I made on one of my many NYC-SF plane flights.
@@ -496,7 +498,7 @@
 - [grequests](https://github.com/kennethreitz/grequests) - Requests + Gevent = &lt;3
 - [requests-futures](https://github.com/ross/requests-futures) - Asynchronous Python HTTP Requests for Humans using Futures
 - [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack (https://slack.com).
-- [browbeat](https://github.com/openstack/browbeat) - Performance monitoring and testing of OpenStack
+- [browbeat](https://github.com/cloud-bulldozer/browbeat) - Performance monitoring and testing of OpenStack
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [heat-convergence-prototype](https://github.com/zaneb/heat-convergence-prototype) - A Prototype for Heat's new "convergence" architecture
 - [python-daemon](https://github.com/serverdensity/python-daemon) - Python daemonizer for Unix, Linux and OS X
@@ -567,7 +569,7 @@
 - [pyrsync](https://github.com/isislovecruft/pyrsync) - A pure Python module which implements the rsync algorithm.
 - [PySyncIt](https://github.com/db42/PySyncIt) - File synchronization application written in python to sync devices residing on a LAN.
 - [cookiecutter](https://github.com/openstack/cookiecutter) - Cookiecutter Template for new OpenStack projects
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
 - [freezer-api](https://github.com/openstack/freezer-api) - REST API interface for Freezer backup, restore and disaster recovery platform
 - [crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
@@ -732,6 +734,10 @@
 ## Smarty 
 
 - [containerum](https://github.com/containerum/containerum) - Web UI for Kubernetes with teamwork and CI/CD support
+
+## TSQL 
+
+- [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 
 ## TypeScript 
 
