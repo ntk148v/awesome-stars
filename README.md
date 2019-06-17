@@ -14,6 +14,7 @@
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jsonnet](#jsonnet)
@@ -95,7 +96,7 @@
 
 ## Go 
 
-- [gf](https://github.com/gogf/gf) - GoFrame is a modular, loose-coupled, production-ready and most-powerful application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, validator, database orm, etc. Supporting web server integrated with router, cookie, session, logger, configure, template, https, hooks, rewrites and many more features.
+- [gf](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, validator, database orm, etc. Supporting web server integrated with router, cookie, session, logger, configure, template, https, hooks, rewrites and many more features.
 - [pipeline](https://github.com/banzaicloud/pipeline) - Pipeline enables developers to go from commit to scale in minutes by turning Kubernetes into a feature rich application platform integrating CI/CD, centralized logging, monitoring, enterprise-grade security, autoscaling and more.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -184,6 +185,10 @@
 - [openstack-doc-migration-burndown](https://github.com/dhellmann/openstack-doc-migration-burndown) - 
 - [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+
+## Haskell 
+
+- [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 
 ## Java 
 
@@ -753,6 +758,7 @@
 
 ## Vim script 
 
+- [hpclab](https://github.com/tupm20154207/hpclab) - 
 - [kronos.vim](https://github.com/soywod/kronos.vim) - A simple task and time manager.
 - [vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config with asynchronous Vim Plugins
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - :symbols: Adds file type glyphs/icons to popular Vim plugins: NERDTree, vim-airline, Powerline, Unite, vim-startify and more
