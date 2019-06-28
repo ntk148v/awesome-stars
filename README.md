@@ -31,6 +31,7 @@
   - [QML](#qml)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Smarty](#smarty)
@@ -64,7 +65,7 @@
 
 ## C++ 
 
-- [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
@@ -96,6 +97,11 @@
 
 ## Go 
 
+- [promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
+- [trickster](https://github.com/Comcast/trickster) - Trickster - Open Source Dashboard Accelerator for Time Series Databases
+- [cloudprober](https://github.com/google/cloudprober) - An active monitoring software to detect failures before your customers do.
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [openstack-zun](https://github.com/virtual-kubelet/openstack-zun) - 
 - [gf](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, validator, database orm, etc. Supporting web server integrated with router, cookie, session, logger, configure, template, https, hooks, rewrites and many more features.
 - [pipeline](https://github.com/banzaicloud/pipeline) - Pipeline enables developers to go from commit to scale in minutes by turning Kubernetes into a feature rich application platform integrating CI/CD, centralized logging, monitoring, enterprise-grade security, autoscaling and more.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus
@@ -105,7 +111,7 @@
 - [pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for creating maintainable software. Supports translation from C/C++.
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in &lt;1s.
 - [dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
 - [cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
@@ -125,7 +131,7 @@
 - [go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [pulumi](https://github.com/pulumi/pulumi) - Define cloud apps and infrastructure in your favorite language and deploy to any cloud
+- [pulumi](https://github.com/pulumi/pulumi) - Modern Infrastructure as Code - Create, deploy, and manage infrastructure on any cloud using your favorite language.
 - [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [dep](https://github.com/golang/dep) - Go dependency management tool
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -151,7 +157,7 @@
 - [stackube](https://github.com/openstack/stackube) - Integrate OpenStack projects with Kubernetes for multi-tenancy.
 - [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon
-- [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing System
+- [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [rexray](https://github.com/rexray/rexray) - REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -203,6 +209,7 @@
 
 ## JavaScript 
 
+- [prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything 👉
 - [designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
@@ -345,6 +352,7 @@
 
 ## Perl 
 
+- [sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 - [weed](https://github.com/ronilaukkarinen/weed) - Heavily Xchat inspired beautiful irssi theme.
 
 ## PowerShell 
@@ -353,6 +361,7 @@
 
 ## Python 
 
+- [ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [doorman](https://github.com/mwielgoszewski/doorman) - an osquery fleet manager
 - [zentral](https://github.com/zentralopensource/zentral) - Zentral is a framework to gather, process, and monitor system events and link them to an inventory.
@@ -414,7 +423,7 @@
 - [NBA-prediction](https://github.com/christopherjenness/NBA-prediction) - Predict scores of NBA games using regularized matrix completion
 - [freepacktbook](https://github.com/bogdal/freepacktbook) - Claim Your Free PacktPub eBook automatically
 - [opencv-python-blueprints](https://github.com/mbeyeler/opencv-python-blueprints) - M. Beyeler (2015). OpenCV with Python Blueprints: Design and develop advanced computer vision projects using OpenCV with Python, Packt Publishing Ltd., ISBN 978-178528269-0.
-- [deepo](https://github.com/ufoym/deepo) - Set up your environment for deep learning in a single command line.
+- [deepo](https://github.com/ufoym/deepo) - Set up deep learning environment in a single command line.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [openstack-connector-k8s](https://github.com/kevin-zhaoshuai/openstack-connector-k8s) - Kubernetes connector for OpenStack Zun project. Make OpenStack as a node in Kubernetes to run workloads
 - [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
@@ -670,6 +679,10 @@
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [codedaily-v3](https://github.com/huytd/codedaily-v3) - 
+
+## Scala 
+
+- [FiloDB](https://github.com/filodb/FiloDB) - Distributed Prometheus time series database
 
 ## Scheme 
 
