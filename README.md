@@ -19,7 +19,6 @@
   - [JavaScript](#javascript)
   - [Jsonnet](#jsonnet)
   - [Jupyter Notebook](#jupyter-notebook)
-  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Others](#others)
@@ -97,6 +96,9 @@
 
 ## Go 
 
+- [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+- [diagram](https://github.com/esimov/diagram) - CLI app to convert ascii arts into hand drawn diagrams.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
 - [trickster](https://github.com/Comcast/trickster) - Trickster - Open Source Dashboard Accelerator for Time Series Databases
 - [cloudprober](https://github.com/google/cloudprober) - An active monitoring software to detect failures before your customers do.
@@ -120,11 +122,12 @@
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-- [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [go-git](https://github.com/src-d/go-git) - A highly extensible Git implementation in pure Go.
 - [linkerd2](https://github.com/linkerd/linkerd2) - A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.
+- [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [tfit](https://github.com/d0m0reg00dthing/tfit) - Export resource from AWS into terraform format (HCL)
@@ -186,7 +189,6 @@
 ## HTML 
 
 - [notes](https://github.com/shichao-an/notes) - Shichao's Notes
-- [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [kbe](https://github.com/openshift-evangelists/kbe) - Kubernetes By Example
 - [openstack-doc-migration-burndown](https://github.com/dhellmann/openstack-doc-migration-burndown) - 
 - [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
@@ -216,7 +218,6 @@
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 - [chrome-prometheus-formatter](https://github.com/fhemberger/chrome-prometheus-formatter) - Chrome Extension which makes plain Prometheus metrics easier to read
-- [botpress](https://github.com/botpress/botpress) - 🤖 The ultimate open-source conversational platform with built-in natural language processing (NLU), easy-to-use graphical interface and dialog manager ⚡
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
@@ -267,10 +268,6 @@
 - [100days](https://github.com/coells/100days) - 100 days of algorithms
 - [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Learn python3 in one picture.
 - [pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
-
-## Kotlin 
-
-- [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
 ## Lua 
 
@@ -517,7 +514,7 @@
 - [heat-convergence-prototype](https://github.com/zaneb/heat-convergence-prototype) - A Prototype for Heat's new "convergence" architecture
 - [python-daemon](https://github.com/serverdensity/python-daemon) - Python daemonizer for Unix, Linux and OS X
 - [serf-master](https://github.com/garethr/serf-master) - A small python framework for writing Serf handlers
-- [netbox](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+- [netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 - [rst2pdf](https://github.com/rst2pdf/rst2pdf) - Use a text editor.  Make a PDF.
 - [python-mysql-replication](https://github.com/noplay/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 - [gossip-python](https://github.com/thomai/gossip-python) - Implementation of the gossip protocol
@@ -641,7 +638,7 @@
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
-- [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [gdrivesync](https://github.com/socrateslee/gdrivesync) - A python tools to sync files in local directory to google drive.
 - [google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [PyDrive](https://github.com/gsuitedevs/PyDrive) - Google Drive API Python wrapper library
@@ -673,6 +670,7 @@
 
 ## Rust 
 
+- [vector](https://github.com/timberio/vector) - A High-Performance, Logs, Metrics, & Events Router
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -710,7 +708,7 @@
 - [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - The most awesome Powerline theme for ZSH around!
 - [install-gnome-themes](https://github.com/tliron/install-gnome-themes) - Script to install the latest versions of some fine GNOME 3 themes
-- [docker-gc](https://github.com/spotify/docker-gc) - Docker garbage collection of containers and images
+- [docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [httpstat](https://github.com/b4b4r07/httpstat) - It's like curl -v, with graphs and colors
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -719,7 +717,7 @@
 - [presentations](https://github.com/zaneb/presentations) - Source for various presentations (one per branch)
 - [osic-clouds](https://github.com/osic/osic-clouds) - Docs and more about each of the clouds.
 - [docker-systemd](https://github.com/solita/docker-systemd) - systemd-enabled versions of Docker base images
-- [fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell
+- [fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
@@ -759,6 +757,7 @@
 
 ## TypeScript 
 
+- [botpress](https://github.com/botpress/botpress) - 🤖 The ultimate open-source conversational platform with built-in natural language processing (NLU), easy-to-use graphical interface and dialog manager ⚡
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
@@ -783,6 +782,7 @@
 
 ## Vue 
 
+- [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
 
