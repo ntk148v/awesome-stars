@@ -82,7 +82,7 @@
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
 - [butv](https://github.com/namvvo/butv) - A mirror source code for a movie project in ASP.NET CORE http://butv.org
 - [United-GNOME](https://github.com/godlyranchdressing/United-GNOME) - GTK2/3 + GNOME Shell theme based on a Ubuntu 18.04 design concept.
-- [macOS](https://github.com/B00merang-Project/macOS) - macOS Sierra theme for Gnome and GTK-based desktops
+- [macOS](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops
 - [paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) - Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.
 
 ## Dart 
@@ -96,6 +96,8 @@
 
 ## Go 
 
+- [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
 - [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [diagram](https://github.com/esimov/diagram) - CLI app to convert ascii arts into hand drawn diagrams.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -202,7 +204,7 @@
 
 - [elasticsearch-prometheus-exporter](https://github.com/vvanholl/elasticsearch-prometheus-exporter) - Prometheus exporter plugin for ElasticSearch
 - [helios](https://github.com/spotify/helios) - Docker container orchestration platform
-- [gitpitch](https://github.com/gitpitch/gitpitch) - The Markdown Presentation Service For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.
+- [gitpitch](https://github.com/gitpitch/gitpitch) - The Markdown Presentation Service For Developers on Git
 - [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
 - [Chord-Implementation](https://github.com/netharis/Chord-Implementation) - Chord Implementation for Distributed Systems Course
 - [sync-service](https://github.com/stacksync/sync-service) - [DISCONTINUED] StackSync's synchronization service
@@ -235,7 +237,6 @@
 - [angular-filemanager](https://github.com/joni2back/angular-filemanager) - JavaScript File Manager Material Design Folder Explorer Navigator Browser Manager in AngularJS with CSS3 Responsive (with FTP in PHP / Java / Node)
 - [Messer](https://github.com/mjkaufer/Messer) - :speech_balloon: Command-line messaging for Facebook Messenger
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [octotree](https://github.com/ovity/octotree) - GitHub code tree on steroids
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [openup03_07](https://github.com/Open-Up/openup03_07) - MogoDb presentation and practice
@@ -394,7 +395,7 @@
 - [thug-memes](https://github.com/jerry-git/thug-memes) - Command line Thug Meme generator written in Python
 - [irc](https://github.com/jaraco/irc) - Full-featured Python IRC library for Python.
 - [pipfile](https://github.com/pypa/pipfile) - 
-- [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
+- [requests-html](https://github.com/oldani/requests-html) - Pythonic HTML Parsing for Humans™
 - [beagle](https://github.com/dhellmann/beagle) - Command line interface for the hound code search tool
 - [containerregistry](https://github.com/google/containerregistry) - A set of Python libraries and tools for interacting with a Docker Registry.
 - [ci_edit](https://github.com/google/ci_edit) - A terminal text editor with mouse support and ctrl+Q to quit.
@@ -499,14 +500,14 @@
 - [errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [limbo](https://github.com/llimllib/limbo) - A simple, clean, easy to modify Slack chatbot
 - [slacker-asyncio](https://github.com/gfreezy/slacker-asyncio) - Full-featured Python interface for the Slack API
-- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Python SDK
+- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Python SDK https://slack.dev/python-slackclient/
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [weirdo](https://github.com/rdo-infra/weirdo) - It's not weird if it works.
 - [kazam](https://github.com/hzbd/kazam) - A screencasting program created with design in mind.(https://launchpad.net/kazam)
 - [adjutant](https://github.com/openstack/adjutant) - A simple workflow framework to help automate admin and user tasks in and around OpenStack via a pluggable API exposing tasks made up of easily chainable actions.
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
-- [grequests](https://github.com/kennethreitz/grequests) - Requests + Gevent = &lt;3
+- [grequests](https://github.com/not-kennethreitz/grequests) - Requests + Gevent = &lt;3
 - [requests-futures](https://github.com/ross/requests-futures) - Asynchronous Python HTTP Requests for Humans using Futures
 - [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack (https://slack.com).
 - [browbeat](https://github.com/cloud-bulldozer/browbeat) - Performance monitoring and testing of OpenStack
@@ -688,6 +689,7 @@
 
 ## Shell 
 
+- [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
 - [autopass](https://github.com/datle1/autopass) - Pass tests of elearning
 - [polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants
 - [k8s-on-openstack](https://github.com/infraly/k8s-on-openstack) - An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud.
@@ -706,7 +708,7 @@
 - [alien-minimal](https://github.com/eendroroy/alien-minimal) - An asynchronous minimal zsh prompt
 - [aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
 - [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
-- [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - The most awesome Powerline theme for ZSH around!
+- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - The most awesome Powerline theme for ZSH around!
 - [install-gnome-themes](https://github.com/tliron/install-gnome-themes) - Script to install the latest versions of some fine GNOME 3 themes
 - [docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [httpstat](https://github.com/b4b4r07/httpstat) - It's like curl -v, with graphs and colors
