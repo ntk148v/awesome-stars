@@ -96,6 +96,7 @@
 
 ## Go 
 
+- [tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
 - [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
@@ -115,7 +116,7 @@
 - [pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in &lt;1s.
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in &lt;1s. https://vlang.io
 - [dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
 - [cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
@@ -177,8 +178,8 @@
 - [MusicRepair](https://github.com/kalbhor/MusicRepair) - Fixes music metadata and adds album art.
 - [gdrive](https://github.com/gdrive-org/gdrive) - Google Drive CLI Client
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [habitus](https://github.com/cloud66-oss/habitus) - A Build Flow Tool for Docker
-- [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for docker.
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -314,6 +315,7 @@
 - [Index-2019](https://github.com/SamPutnam/Index-2019) - The Putnam Company D/B/A Sam Putnam Engineering
 - [bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
 - [OpenStack-Heat-Installation](https://github.com/MarouenMechtri/OpenStack-Heat-Installation) - In this installation guide, we cover the step-by-step process of installing Openstack Heat service.
+- [gerritlib](https://github.com/openstack-infra/gerritlib) - MOVED: Now at https://opendev.org/opendev/gerritlib
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
 - [neutron-lbaas](https://github.com/openstack/neutron-lbaas) - Load balancing services for OpenStack Neutron.
@@ -395,7 +397,7 @@
 - [thug-memes](https://github.com/jerry-git/thug-memes) - Command line Thug Meme generator written in Python
 - [irc](https://github.com/jaraco/irc) - Full-featured Python IRC library for Python.
 - [pipfile](https://github.com/pypa/pipfile) - 
-- [requests-html](https://github.com/oldani/requests-html) - Pythonic HTML Parsing for Humans™
+- [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [beagle](https://github.com/dhellmann/beagle) - Command line interface for the hound code search tool
 - [containerregistry](https://github.com/google/containerregistry) - A set of Python libraries and tools for interacting with a Docker Registry.
 - [ci_edit](https://github.com/google/ci_edit) - A terminal text editor with mouse support and ctrl+Q to quit.
@@ -507,7 +509,7 @@
 - [adjutant](https://github.com/openstack/adjutant) - A simple workflow framework to help automate admin and user tasks in and around OpenStack via a pluggable API exposing tasks made up of easily chainable actions.
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
-- [grequests](https://github.com/not-kennethreitz/grequests) - Requests + Gevent = &lt;3
+- [grequests](https://github.com/spyoungtech/grequests) - Requests + Gevent = &lt;3
 - [requests-futures](https://github.com/ross/requests-futures) - Asynchronous Python HTTP Requests for Humans using Futures
 - [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack (https://slack.com).
 - [browbeat](https://github.com/cloud-bulldozer/browbeat) - Performance monitoring and testing of OpenStack
@@ -521,7 +523,6 @@
 - [gossip-python](https://github.com/thomai/gossip-python) - Implementation of the gossip protocol
 - [zero-downtime-upgrade-scenario](https://github.com/vietstacker/zero-downtime-upgrade-scenario) - zero-downtime-upgrade
 - [Phim-GetLink](https://github.com/khiemdoan/Phim-GetLink) - Tool get link các web xem phim.
-- [gerritlib](https://github.com/openstack-infra/gerritlib) - Library for Gerrit
 - [baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [heat-translator](https://github.com/openstack/heat-translator) - Translate non-heat templates to Heat Orchestration Template.
 - [scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
@@ -653,7 +654,7 @@
 - [falcon](https://github.com/falconry/falcon) - The minimalist web API framework for building reliable, high-performance REST APIs, microservices, proxies, and app backends in Python.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
-- [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™ ✨🍰✨
+- [requests](https://github.com/psf/requests) - Python HTTP Requests for Humans™ ✨🍰✨
 - [CAL](https://github.com/HPCC-Cloud-Computing/CAL) - CAL - Cloud Abstract Layer framework proto-type
 - [os-loganalyze](https://github.com/openstack/os-loganalyze) - Log analyzer tools for logs.openstack.org
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -759,6 +760,7 @@
 
 ## TypeScript 
 
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
 - [botpress](https://github.com/botpress/botpress) - 🤖 The ultimate open-source conversational platform with built-in natural language processing (NLU), easy-to-use graphical interface and dialog manager ⚡
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
