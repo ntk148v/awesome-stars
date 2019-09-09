@@ -97,6 +97,8 @@
 
 ## Go 
 
+- [circuit](https://github.com/cep21/circuit) - An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
+- [sops](https://github.com/mozilla/sops) - Secrets management stinks, use some sops!
 - [gomod](https://github.com/Helcaraxan/gomod) - Go modules analysis tool
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
@@ -110,7 +112,7 @@
 - [cloudprober](https://github.com/google/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [openstack-zun](https://github.com/virtual-kubelet/openstack-zun) - 
-- [gf](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, validator, database orm, etc. Supporting web server integrated with router, cookie, session, logger, configure, template, https, hooks, rewrites and many more features.
+- [gf](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configure, template, https, hooks, rewrites and many more features.
 - [pipeline](https://github.com/banzaicloud/pipeline) - Pipeline enables developers to go from commit to scale in minutes by turning Kubernetes into a feature rich application platform integrating CI/CD, centralized logging, monitoring, enterprise-grade security, autoscaling and more.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - high-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -276,10 +278,12 @@
 
 ## Lua 
 
+- [articles](https://github.com/jaypipes/articles) - Collection of articles written for publication on my blog or elsewhere
 - [lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 
 ## Makefile 
 
+- [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 - [provision_docker](https://github.com/chrismeyersfsu/provision_docker) - Test Ansible roles and playbooks using Docker
 - [python-regex-cheatsheet](https://github.com/tartley/python-regex-cheatsheet) - Python 2.7 Regular Expression cheatsheet, as a restructured text document and Makefile to convert it to PDF
@@ -396,7 +400,7 @@
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [TelegramTUI](https://github.com/vtr0n/TelegramTUI) - Telegram client on your terminal
 - [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 - [tatu](https://github.com/openstack/tatu) - SSH (Certificate Management and Bastions) as a Service
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -777,7 +781,7 @@
 
 ## V 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in &lt;1s. https://vlang.io
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s. 1.0 release in December 2019. https://vlang.io
 
 ## Vala 
 
