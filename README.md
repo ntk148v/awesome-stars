@@ -13,6 +13,7 @@
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [Groovy](#groovy)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -97,8 +98,13 @@
 
 ## Go 
 
+- [retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
+- [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
+- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [circuit](https://github.com/cep21/circuit) - An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
-- [sops](https://github.com/mozilla/sops) - Secrets management stinks, use some sops!
+- [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [gomod](https://github.com/Helcaraxan/gomod) - Go modules analysis tool
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
@@ -164,7 +170,6 @@
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [stackube](https://github.com/openstack/stackube) - Integrate OpenStack projects with Kubernetes for multi-tenancy.
 - [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -193,6 +198,10 @@
 
 - [gradle-docker-plugin](https://github.com/bmuschko/gradle-docker-plugin) - Gradle plugin for managing Docker images and containers.
 
+## HCL 
+
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+
 ## HTML 
 
 - [notes](https://github.com/shichao-an/notes) - Shichao's Notes
@@ -218,13 +227,14 @@
 
 ## JavaScript 
 
+- [birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything 👉
 - [designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API
 - [chrome-prometheus-formatter](https://github.com/fhemberger/chrome-prometheus-formatter) - Chrome Extension which makes plain Prometheus metrics easier to read
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
@@ -306,6 +316,7 @@
 - [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [openstack-docs](https://github.com/naturalis/openstack-docs) - Documentation resources IT facilities Naturalis
+- [tatu](https://github.com/openstack/tatu) - MOVED: now at https://opendev.org/x/tatu
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits) - :memo: A curated list of awesome programming subreddits.
@@ -313,11 +324,14 @@
 - [state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
 - [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [omni](https://github.com/openstack/omni) - MOVED: now at https://opendev.org/x/omni
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+- [stackube](https://github.com/openstack/stackube) - MOVED: now at https://opendev.org/x/stackube
 - [awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain
 - [machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [nerd-reviewer](https://github.com/openstack/nerd-reviewer) - MOVED: now at https://opendev.org/x/nerd-reviewer
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [openstack-heat-workshop](https://github.com/opsta/openstack-heat-workshop) - All Heat templates for Opsta OpenStack Administration Workshop
 - [Index-2019](https://github.com/SamPutnam/Index-2019) - The Putnam Company D/B/A Sam Putnam Engineering
@@ -337,11 +351,13 @@
 - [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [dockbix-agent-xxl](https://github.com/monitoringartist/dockbix-agent-xxl) - :whale: Dockerized Zabbix agent with Docker metrics and host metrics support for CoreOS, RHEL, CentOS, Ubuntu, Debian, Fedora, Boot2docker, Photon OS, Amazon Linux, ...
 - [deb-nova](https://github.com/openstack/deb-nova) - Debian package build scripts for nova project
+- [nova-solver-scheduler](https://github.com/openstack/nova-solver-scheduler) - MOVED: now at https://opendev.org/x/nova-solver-scheduler
 - [awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture.
 - [laravel-docs-vn](https://github.com/petehouston/laravel-docs-vn) - The Vietnamese translation of the Official Laravel Documentation
+- [openstack-resource-agents](https://github.com/openstack/openstack-resource-agents) - MOVED: now at https://opendev.org/x/openstack-resource-agents
 - [docker-and-containers-ebooks](https://github.com/thenewstack/docker-and-containers-ebooks) - A series of ebooks on Docker and the container ecosystem.
 - [hpcc-know-how](https://github.com/HPCC-Cloud-Computing/hpcc-know-how) - Đây là repository chứa các tìm hiểu về OpenStack của nhóm Cloud Bách Khoa Hà Nội.
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -360,6 +376,7 @@
 
 ## Perl 
 
+- [i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
 - [sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 - [weed](https://github.com/ronilaukkarinen/weed) - Heavily Xchat inspired beautiful irssi theme.
 
@@ -374,7 +391,7 @@
 - [ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [doorman](https://github.com/mwielgoszewski/doorman) - an osquery fleet manager
-- [zentral](https://github.com/zentralopensource/zentral) - Zentral is a framework to gather, process, and monitor system events and link them to an inventory.
+- [zentral](https://github.com/zentralopensource/zentral) - Zentral is an Event Hub to gather, process, and monitor system events and link them to an inventory.
 - [pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's Plugins, Generate Awesome Statistics and Optimize Vim Startup Time
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
@@ -391,7 +408,7 @@
 - [mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
 - [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
-- [kcli](https://github.com/karmab/kcli) - Wrapper around libvirt/aws/gcp/kubevirt/openstack/ovirt
+- [kcli](https://github.com/karmab/kcli) - Wrapper around libvirt/aws/gcp/kubevirt/openstack/ovirt/vsphere
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
@@ -402,7 +419,6 @@
 - [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
-- [tatu](https://github.com/openstack/tatu) - SSH (Certificate Management and Bastions) as a Service
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [thug-memes](https://github.com/jerry-git/thug-memes) - Command line Thug Meme generator written in Python
 - [irc](https://github.com/jaraco/irc) - Full-featured Python IRC library for Python.
@@ -428,7 +444,7 @@
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [python-snippets](https://github.com/progrmoiz/python-snippets) - :100: The most useful python snippets
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define. Also, we are hiring!!!!!!!!
+- [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 - [gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
 - [NBA-prediction](https://github.com/christopherjenness/NBA-prediction) - Predict scores of NBA games using regularized matrix completion
 - [freepacktbook](https://github.com/bogdal/freepacktbook) - Claim Your Free PacktPub eBook automatically
@@ -439,7 +455,6 @@
 - [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [pytube](https://github.com/nficano/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
-- [omni](https://github.com/openstack/omni) - Multi and hybrid cloud management with OpenStack API.
 - [Limnoria](https://github.com/ProgVal/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
 - [jenni](https://github.com/myano/jenni) - jenni was a python IRC bot. Project is closed. Try Sopel instead, https://sopel.chat/
 - [rally](https://github.com/openstack/rally) - Rally provides a framework for performance analysis and benchmarking of individual OpenStack components as well as full production OpenStack cloud deployments
@@ -470,7 +485,6 @@
 - [reviewtodo](https://github.com/russellb/reviewtodo) - A gerrit code-review to-do list generator.
 - [zabbix_manager](https://github.com/meetbill/zabbix_manager) - 🍀 (1)安装后一键设置 (2)日常管理工具 (3)一键导出常用报表 (4)Zabbix API  二次开发
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
-- [nerd-reviewer](https://github.com/openstack/nerd-reviewer) - Nerd Reviewer bot reviews patches and checks that they pass common project rules e.g. unit test coverage, max amount of loc, well written commit message... So core reviews can concentrate on other more important stuff.
 - [reviewday](https://github.com/openstack/reviewday) - OpenStack code review report generator
 - [reviewstats](https://github.com/openstack/reviewstats) - Scripts for generating OpenStack development community statistics
 - [gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing for Python and anything else
@@ -620,7 +634,6 @@
 - [libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API
 - [collectd-iostat-python](https://github.com/deniszh/collectd-iostat-python) - Collectd-iostat-python is an iostat plugin for collectd that allows you to graph Linux iostat metrics in graphite or other output formats that are supported by collectd.
 - [igcollect](https://github.com/innogames/igcollect) - Graphite data collector scripts from InnoGames
-- [nova-solver-scheduler](https://github.com/openstack/nova-solver-scheduler) - Nova scheduler driver for constraints-based scheduling
 - [pyzabbix](https://github.com/lukecyca/pyzabbix) - Python Zabbix API
 - [monasca-agent](https://github.com/openstack/monasca-agent) - Agent for Monasca
 - [zabbix-searcher](https://github.com/monitoringartist/zabbix-searcher) - Search in 850+ Zabbix projects: templates, integrations, scripts, APIs, modules, ...
@@ -665,7 +678,7 @@
 - [falcon](https://github.com/falconry/falcon) - The minimalist web API framework for building reliable, correct, and high-performance REST APIs, microservices, proxies, and app backends in Python.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
-- [requests](https://github.com/psf/requests) - Python HTTP Requests for Humans™ ✨🍰✨
+- [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [CAL](https://github.com/HPCC-Cloud-Computing/CAL) - CAL - Cloud Abstract Layer framework proto-type
 - [os-loganalyze](https://github.com/openstack/os-loganalyze) - Log analyzer tools for logs.openstack.org
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -725,7 +738,6 @@
 - [docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [httpstat](https://github.com/b4b4r07/httpstat) - It's like curl -v, with graphs and colors
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [n](https://github.com/tj/n) - Node version management
 - [loci](https://github.com/openstack/loci) - Lightweight OCI compatible images for OpenStack Projects
 - [presentations](https://github.com/zaneb/presentations) - Source for various presentations (one per branch)
@@ -757,7 +769,6 @@
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [openstack-ansible-galera_server](https://github.com/openstack/openstack-ansible-galera_server) - Role galera_server for OpenStack-Ansible
-- [openstack-resource-agents](https://github.com/openstack/openstack-resource-agents) - Pacemaker High Availability resource agents for OpenStack
 - [Web-page-classification](https://github.com/kahliloppenheimer/Web-page-classification) - Classifies webpages into categories defined in DMOZ dataset
 - [osp-ha-deploy](https://github.com/beekhof/osp-ha-deploy) - scripts for deploying a HA install of OSP
 
@@ -789,7 +800,7 @@
 
 ## Vim script 
 
-- [hpclab](https://github.com/tupm20154207/hpclab) - 
+- [hpclab](https://github.com/tu-pm/hpclab) - 
 - [kronos.vim](https://github.com/soywod/kronos.vim) - A simple task and time manager.
 - [vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config with asynchronous Vim Plugins
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
