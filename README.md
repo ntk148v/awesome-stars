@@ -98,6 +98,7 @@
 
 ## Go 
 
+- [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
 - [easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
@@ -187,7 +188,7 @@
 - [MusicRepair](https://github.com/kalbhor/MusicRepair) - Fixes music metadata and adds album art.
 - [gdrive](https://github.com/gdrive-org/gdrive) - Google Drive CLI Client
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for docker.
+- [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -212,6 +213,7 @@
 
 ## Haskell 
 
+- [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 
 ## Java 
@@ -227,6 +229,8 @@
 
 ## JavaScript 
 
+- [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
+- [codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
@@ -236,7 +240,7 @@
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API
 - [chrome-prometheus-formatter](https://github.com/fhemberger/chrome-prometheus-formatter) - Chrome Extension which makes plain Prometheus metrics easier to read
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
@@ -264,7 +268,6 @@
 - [jsblocks](https://github.com/astoilkov/jsblocks) - Better MV-ish Framework
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) - 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus
-- [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -300,6 +303,7 @@
 
 ## Others 
 
+- [rainbowie](https://github.com/druskus20/rainbowie) - My personal theme for oh-my-zsh
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
 - [prometheus-example-queries](https://github.com/infinityworks/prometheus-example-queries) - Simple place for people to provide examples of queries they've found useful.
@@ -386,6 +390,7 @@
 
 ## Python 
 
+- [molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
@@ -437,7 +442,7 @@
 - [shinken](https://github.com/naparuba/shinken) - Flexible and scalable monitoring framework
 - [rpc-maas](https://github.com/rcbops/rpc-maas) - Ansible playbooks for deploying Rackspace Monitoring-as-a-Service within Openstack Environments
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
-- [Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
+- [Eel](https://github.com/samuelhwilliams/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 - [telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
 - [convnet-benchmarks](https://github.com/soumith/convnet-benchmarks) - Easy benchmarking of all publicly accessible implementations of convnets
@@ -587,7 +592,7 @@
 - [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [crython](https://github.com/ahawker/crython) - Lightweight task scheduler using cron expressions
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
-- [minimal-django-file-upload-example](https://github.com/axelpale/minimal-django-file-upload-example) - Source code for example at http://stackoverflow.com/questions/5871730/need-a-minimal-django-file-upload-example
+- [minimal-django-file-upload-example](https://github.com/axelpale/minimal-django-file-upload-example) - Source code for an example app at http://stackoverflow.com/questions/5871730/need-a-minimal-django-file-upload-example
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -661,6 +666,7 @@
 - [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) - Cookiecutter template for a Python package.
+- [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
