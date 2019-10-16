@@ -48,6 +48,7 @@
 
 ## C 
 
+- [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (270~ sloc / 24kb compiled!).
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
@@ -80,6 +81,7 @@
 
 ## CSS 
 
+- [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [slack-black-theme](https://github.com/widget-/slack-black-theme) - A darker, more contrasty, Slack theme.
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [butv](https://github.com/namvvo/butv) - A mirror source code for a movie project in ASP.NET CORE http://butv.org
@@ -98,6 +100,9 @@
 
 ## Go 
 
+- [lf](https://github.com/gokcehan/lf) - Terminal file manager
+- [m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
+- [telemeter](https://github.com/openshift/telemeter) - Prometheus push federation
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
@@ -719,6 +724,7 @@
 
 ## Shell 
 
+- [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
 - [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
 - [autopass](https://github.com/datle1/autopass) - Pass tests of elearning
@@ -798,7 +804,7 @@
 
 ## V 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s. 1.0 release in December 2019. https://vlang.io
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. 1.0 release in December 2019. https://vlang.io
 
 ## Vala 
 
