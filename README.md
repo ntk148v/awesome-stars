@@ -48,7 +48,7 @@
 
 ## C 
 
-- [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (270~ sloc / 24kb compiled!).
+- [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
@@ -100,6 +100,14 @@
 
 ## Go 
 
+- [nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
+- [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
+- [faythe](https://github.com/vCloud-DFTBA/faythe) - 
+- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [hashring](https://github.com/serialx/hashring) - Consistent hashing "hashring" implementation in golang (using the same algorithm as libketama)
+- [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+- [etcd-lock](https://github.com/datawisesystems/etcd-lock) - Distributed lock implementation using etcd
 - [lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [telemeter](https://github.com/openshift/telemeter) - Prometheus push federation
@@ -165,10 +173,10 @@
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [ceph_exporter](https://github.com/digitalocean/ceph_exporter) - Prometheus exporter that scrapes meta information about a ceph cluster.
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
-- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Tekton, Knative, Prow, Skaffold and Helm
+- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [cortex](https://github.com/cortexproject/cortex) - A multitenant, horizontally scalable Prometheus as a Service
+- [cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [gophercloud](https://github.com/gophercloud/gophercloud) - Gophercloud: an OpenStack SDK for Go
 - [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools for Operations.
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -210,6 +218,8 @@
 
 ## HTML 
 
+- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [kbe](https://github.com/openshift-evangelists/kbe) - Kubernetes By Example
 - [openstack-doc-migration-burndown](https://github.com/dhellmann/openstack-doc-migration-burndown) - 
@@ -240,7 +250,7 @@
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything 👉
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API
@@ -249,7 +259,7 @@
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
-- [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [nba-go](https://github.com/xxhomey19/nba-go) - 🏀 💻 The finest NBA CLI.
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [node-irc](https://github.com/martynsmith/node-irc) - NodeJS IRC client library
@@ -325,6 +335,7 @@
 - [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [openstack-docs](https://github.com/naturalis/openstack-docs) - Documentation resources IT facilities Naturalis
+- [dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [tatu](https://github.com/openstack/tatu) - MOVED: now at https://opendev.org/x/tatu
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -395,6 +406,7 @@
 
 ## Python 
 
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
@@ -455,7 +467,6 @@
 - [python-snippets](https://github.com/progrmoiz/python-snippets) - :100: The most useful python snippets
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
-- [gnocchi](https://github.com/gnocchixyz/gnocchi) - Timeseries database
 - [NBA-prediction](https://github.com/christopherjenness/NBA-prediction) - Predict scores of NBA games using regularized matrix completion
 - [freepacktbook](https://github.com/bogdal/freepacktbook) - Claim Your Free PacktPub eBook automatically
 - [opencv-python-blueprints](https://github.com/mbeyeler/opencv-python-blueprints) - M. Beyeler (2015). OpenCV with Python Blueprints: Design and develop advanced computer vision projects using OpenCV with Python, Packt Publishing Ltd., ISBN 978-178528269-0.
@@ -471,7 +482,7 @@
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [pykube](https://github.com/kelproject/pykube) - Python client library for Kubernetes
 - [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
-- [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python :sparkles:
+- [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [packtpub-crawler](https://github.com/niqdev/packtpub-crawler) - Download your daily free Packt Publishing eBook https://www.packtpub.com/packt/offers/free-learning
 - [Packt-Publishing-Free-Learning](https://github.com/luk6xff/Packt-Publishing-Free-Learning) - Scripts that automatically claim and download  free daily eBooks from https://www.packtpub.com/packt/offers/free-learning
@@ -675,7 +686,7 @@
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
-- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
 - [gdrivesync](https://github.com/socrateslee/gdrivesync) - A python tools to sync files in local directory to google drive.
 - [google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [PyDrive](https://github.com/gsuitedevs/PyDrive) - Google Drive API Python wrapper library
@@ -702,6 +713,7 @@
 
 - [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
+- [package-build](https://github.com/zalando/package-build) - A toolset for building system packages using Docker and fpm-cookery
 - [fake-s3](https://github.com/jubos/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 
@@ -736,7 +748,6 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
-- [dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [t3mujinpack](https://github.com/t3mujin/t3mujinpack) - Collection of film emulation presets for open-source RAW developer software Darktable.
@@ -769,7 +780,6 @@
 - [ovsdb-client-transact](https://github.com/daikk115/ovsdb-client-transact) - 
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [openstack-newton-installer-centos7](https://github.com/tigerlinux/openstack-newton-installer-centos7) - Unattended/Semi-Automated OpenStack NEWTON Installer for Centos 7
-- [package-build](https://github.com/zalando/package-build) - A toolset for building system packages using Docker and fpm-cookery
 - [training-labs](https://github.com/openstack/training-labs) - Deploy multi node OpenStack on Virtual Machines.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles (under development, not ready for production)
@@ -795,7 +805,7 @@
 ## TypeScript 
 
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
-- [botpress](https://github.com/botpress/botpress) - The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and dialog manager. Easily create chatbots and AI-based virtual assistants.
+- [botpress](https://github.com/botpress/botpress) - 🤖 The open-source Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
@@ -804,7 +814,7 @@
 
 ## V 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. 1.0 release in December 2019. https://vlang.io
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. Stable 0.2 release in November 2019. https://vlang.io
 
 ## Vala 
 
@@ -813,7 +823,7 @@
 ## Vim script 
 
 - [hpclab](https://github.com/tu-pm/hpclab) - 
-- [kronos.vim](https://github.com/soywod/kronos.vim) - A simple task and time manager.
+- [kronos.vim](https://github.com/soywod/kronos.vim) - A simple task and time manager. Project moved here:
 - [vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config with asynchronous Vim Plugins
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
