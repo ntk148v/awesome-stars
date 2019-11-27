@@ -81,6 +81,7 @@
 
 ## CSS 
 
+- [mydotfiles](https://github.com/turing753/mydotfiles) - My dotfiles for my i3wm setup
 - [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [slack-black-theme](https://github.com/widget-/slack-black-theme) - A darker, more contrasty, Slack theme.
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -100,6 +101,10 @@
 
 ## Go 
 
+- [grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
+- [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
+- [app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
+- [consistent](https://github.com/stathat/consistent) - Consistent hash package for Go.
 - [nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
@@ -218,6 +223,7 @@
 
 ## HTML 
 
+- [KeepIt](https://github.com/Fastbyte01/KeepIt) - The most powerful minimal Hugo theme.
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [notes](https://github.com/shichao-an/notes) - Shichao's Notes
@@ -253,7 +259,7 @@
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [chrome-prometheus-formatter](https://github.com/fhemberger/chrome-prometheus-formatter) - Chrome Extension which makes plain Prometheus metrics easier to read
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
@@ -318,6 +324,7 @@
 
 ## Others 
 
+- [prometheus-config](https://github.com/alerta/prometheus-config) - Prometheus config for Alerta
 - [rainbowie](https://github.com/druskus20/rainbowie) - My personal theme for oh-my-zsh
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
@@ -481,7 +488,7 @@
 - [rally](https://github.com/openstack/rally) - Rally provides a framework for performance analysis and benchmarking of individual OpenStack components as well as full production OpenStack cloud deployments
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [pykube](https://github.com/kelproject/pykube) - Python client library for Kubernetes
-- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [packtpub-crawler](https://github.com/niqdev/packtpub-crawler) - Download your daily free Packt Publishing eBook https://www.packtpub.com/packt/offers/free-learning
@@ -736,6 +743,7 @@
 
 ## Shell 
 
+- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
 - [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
@@ -788,7 +796,7 @@
 - [zimfw](https://github.com/zimfw/zimfw) - ZIM - Zsh IMproved FrameWork
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [openstack-ansible-galera_server](https://github.com/openstack/openstack-ansible-galera_server) - Role galera_server for OpenStack-Ansible
 - [Web-page-classification](https://github.com/kahliloppenheimer/Web-page-classification) - Classifies webpages into categories defined in DMOZ dataset
