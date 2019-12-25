@@ -101,6 +101,11 @@
 
 ## Go 
 
+- [bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
+- [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
+- [go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
+- [fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
+- [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [bomb-squad](https://github.com/open-fresh/bomb-squad) - Automatic detection and silencing of high cardinality series in Prometheus.
 - [grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
@@ -265,7 +270,6 @@
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
-- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [nba-go](https://github.com/xxhomey19/nba-go) - 🏀 💻 The finest NBA CLI.
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -364,7 +368,7 @@
 - [nerd-reviewer](https://github.com/openstack/nerd-reviewer) - MOVED: now at https://opendev.org/x/nerd-reviewer
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [openstack-heat-workshop](https://github.com/opsta/openstack-heat-workshop) - All Heat templates for Opsta OpenStack Administration Workshop
-- [Index-2019](https://github.com/SamPutnam/Index-2019) - The Putnam Company D/B/A Sam Putnam Engineering
+- [Index-2020](https://github.com/SamPutnam/Index-2020) - The Putnam Company D/B/A Sam Putnam Engineering
 - [bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
 - [OpenStack-Heat-Installation](https://github.com/MarouenMechtri/OpenStack-Heat-Installation) - In this installation guide, we cover the step-by-step process of installing Openstack Heat service.
 - [gerritlib](https://github.com/openstack-infra/gerritlib) - MOVED: Now at https://opendev.org/opendev/gerritlib
@@ -418,7 +422,7 @@
 
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
-- [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+- [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
@@ -816,6 +820,7 @@
 
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
+- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
