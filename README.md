@@ -101,6 +101,9 @@
 
 ## Go 
 
+- [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
+- [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
@@ -373,7 +376,7 @@
 - [OpenStack-Heat-Installation](https://github.com/MarouenMechtri/OpenStack-Heat-Installation) - In this installation guide, we cover the step-by-step process of installing Openstack Heat service.
 - [gerritlib](https://github.com/openstack-infra/gerritlib) - MOVED: Now at https://opendev.org/opendev/gerritlib
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
 - [neutron-lbaas](https://github.com/openstack/neutron-lbaas) - Load balancing services for OpenStack Neutron.
 - [python-p2p](https://github.com/pedrotgn/python-p2p) - Implementation of well-known p2p protocols in Python
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -732,7 +735,7 @@
 
 ## Rust 
 
-- [vector](https://github.com/timberio/vector) - A High-Performance, Logs, Metrics, & Events Router
+- [vector](https://github.com/timberio/vector) - A High-Performance Monitoring & Observability Data Router
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -749,6 +752,7 @@
 
 ## Shell 
 
+- [rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.
@@ -829,7 +833,7 @@
 
 ## V 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. Stable 0.2 release in early December 2019. https://vlang.io
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
 
 ## Vala 
 
