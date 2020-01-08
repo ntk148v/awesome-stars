@@ -101,6 +101,7 @@
 
 ## Go 
 
+- [ghq](https://github.com/motemen/ghq) - Remote repository management made easy
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
@@ -333,6 +334,7 @@
 
 ## Others 
 
+- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [prometheus-config](https://github.com/alerta/prometheus-config) - Prometheus config for Alerta
 - [rainbowie](https://github.com/druskus20/rainbowie) - My personal theme for oh-my-zsh
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
@@ -423,6 +425,7 @@
 
 ## Python 
 
+- [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
@@ -713,7 +716,7 @@
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [falcon](https://github.com/falconry/falcon) - The minimalist web API framework for building reliable, correct, and high-performance REST APIs, microservices, proxies, and app backends in Python.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense web API framework for building fast and reliable microservices, proxies, and app backends in Python.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
@@ -760,7 +763,6 @@
 - [autopass](https://github.com/datle1/autopass) - Pass tests of elearning
 - [polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants
 - [tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
-- [sshrc](https://github.com/Russell91/sshrc) - bring your .bashrc, .vimrc, etc. with you when you ssh
 - [openstack-helm](https://github.com/openstack/openstack-helm) - Helm charts for deploying OpenStack on Kubernetes
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
