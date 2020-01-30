@@ -82,7 +82,8 @@
 
 ## CSS 
 
-- [my-i3-dotfiles](https://github.com/turing753/my-i3-dotfiles) - Dotfiles for my i3 setup
+- [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
+- [my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
 - [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [slack-black-theme](https://github.com/widget-/slack-black-theme) - A darker, more contrasty, Slack theme.
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -106,7 +107,7 @@
 - [libvirt_exporter](https://github.com/kumina/libvirt_exporter) - Prometheus metrics exporter for libvirt.
 - [mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013.
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [ghq](https://github.com/motemen/ghq) - Remote repository management made easy
+- [ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
@@ -145,10 +146,10 @@
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
 - [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-- [diagram](https://github.com/esimov/diagram) - CLI app to convert ascii arts into hand drawn diagrams.
+- [diagram](https://github.com/esimov/diagram) - CLI app to convert ASCII arts into hand drawn diagrams.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
-- [trickster](https://github.com/Comcast/trickster) - Trickster - Open Source Dashboard Accelerator for Time Series Databases
+- [trickster](https://github.com/Comcast/trickster) - Open Source Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [cloudprober](https://github.com/google/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [openstack-zun](https://github.com/virtual-kubelet/openstack-zun) - 
@@ -275,7 +276,7 @@
 - [designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
-- [chrome-prometheus-formatter](https://github.com/fhemberger/chrome-prometheus-formatter) - Chrome Extension which makes plain Prometheus metrics easier to read
+- [prometheus-formatter](https://github.com/fhemberger/prometheus-formatter) - Browser extension which makes plain Prometheus metrics easier to read
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
@@ -304,7 +305,6 @@
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) - 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [bioinformatics-dashboard](https://github.com/HPCC-Cloud-Computing/bioinformatics-dashboard) - Bioinformatics Dashboard
@@ -315,7 +315,7 @@
 
 ## Jupyter Notebook 
 
-- [practicalAI](https://github.com/practicalAI/practicalAI) - 📚 A practical approach to machine learning to enable everyone to learn, explore and build.
+- [practicalAI](https://github.com/practicalAI/practicalAI) - 📚 A practical approach to machine learning.
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
@@ -430,12 +430,13 @@
 
 ## Python 
 
+- [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-- [molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
+- [molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
@@ -502,7 +503,7 @@
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [openstack-connector-k8s](https://github.com/kevin-zhaoshuai/openstack-connector-k8s) - Kubernetes connector for OpenStack Zun project. Make OpenStack as a node in Kubernetes to run workloads
 - [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
-- [pytube](https://github.com/nficano/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [pytube](https://github.com/nficano/pytube) - 🎞 A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [Limnoria](https://github.com/ProgVal/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
 - [jenni](https://github.com/myano/jenni) - jenni was a python IRC bot. Project is closed. Try Sopel instead, https://sopel.chat/
@@ -724,7 +725,7 @@
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [falcon](https://github.com/falconry/falcon) - The no-nonsense web API framework for building fast and reliable microservices, proxies, and app backends in Python.
+- [falcon](https://github.com/falconry/falcon) - The minimalist web API framework for building incredibly fast, reliable, and scalable microservices, proxies, and app backends in Python.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
@@ -746,7 +747,7 @@
 
 ## Rust 
 
-- [vector](https://github.com/timberio/vector) - A utility for building high performance observability pipelines.
+- [vector](https://github.com/timberio/vector) - Collect, transform, & route all observability data with one simple tool.
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -840,6 +841,7 @@
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 
 ## V 
 
@@ -863,7 +865,7 @@
 
 ## Vue 
 
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast and beautiful alternative to Postman https://postwoman.io 🔥
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast & beautiful API request builder (web alternative to Postman) https://postwoman.io 🔥
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
