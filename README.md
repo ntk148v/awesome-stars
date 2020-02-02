@@ -103,6 +103,7 @@
 
 ## Go 
 
+- [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data
 - [libvirt_exporter](https://github.com/kumina/libvirt_exporter) - Prometheus metrics exporter for libvirt.
 - [mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013.
@@ -777,7 +778,7 @@
 - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
-- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [t3mujinpack](https://github.com/t3mujin/t3mujinpack) - Collection of film emulation presets for open-source RAW developer software Darktable.
 - [awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
@@ -845,7 +846,7 @@
 
 ## V 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. https://vlang.io
 
 ## Vala 
 
