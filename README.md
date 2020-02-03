@@ -86,7 +86,7 @@
 - [my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
 - [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [slack-black-theme](https://github.com/widget-/slack-black-theme) - A darker, more contrasty, Slack theme.
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [butv](https://github.com/namvvo/butv) - A mirror source code for a movie project in ASP.NET CORE http://butv.org
 - [United-GNOME](https://github.com/godlyranchdressing/United-GNOME) - GTK2/3 + GNOME Shell theme based on a Ubuntu 18.04 design concept.
 - [macOS](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops
@@ -854,6 +854,7 @@
 
 ## Vim script 
 
+- [vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers!
 - [hpclab](https://github.com/tu-pm/hpclab) - 
 - [kronos.vim](https://github.com/soywod/kronos.vim) - A simple task and time manager. Project moved here:
 - [vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config
