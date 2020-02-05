@@ -103,6 +103,8 @@
 
 ## Go 
 
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
+- [run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data
 - [libvirt_exporter](https://github.com/kumina/libvirt_exporter) - Prometheus metrics exporter for libvirt.
