@@ -103,6 +103,8 @@
 
 ## Go 
 
+- [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems with detailed solutions, test cases, and program analysis
+- [promviz](https://github.com/nghialv/promviz) - Visualize the traffic of your clusters in realtime from Prometheus data
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
 - [run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
@@ -242,6 +244,7 @@
 
 ## HTML 
 
+- [swarmstack](https://github.com/swarmstack/swarmstack) - A Docker swarm-based starting point for operating highly-available containerized applications.
 - [KeepIt](https://github.com/Fastbyte01/KeepIt) - The most powerful minimal Hugo theme.
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -680,7 +683,6 @@
 - [obsync](https://github.com/ceph/obsync) - rsync-like utility for syncing bucket data between object storage APIs like S3, Swift
 - [sampleproject](https://github.com/pypa/sampleproject) - A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects"
 - [openstack-neat](https://github.com/beloglazov/openstack-neat) - OpenStack Neat: A Framework for Dynamic Consolidation of Virtual Machines in OpenStack Clouds
-- [dirsync](https://github.com/tkhyn/dirsync) - Directory syncer in Python. This is a github clone of the bitbucket repo at
 - [boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
 - [libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API
