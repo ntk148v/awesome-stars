@@ -39,6 +39,7 @@
   - [TypeScript](#typescript)
   - [V](#v)
   - [Vala](#vala)
+  - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
@@ -347,6 +348,7 @@
 
 ## Others 
 
+- [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [prometheus-config](https://github.com/alerta/prometheus-config) - Prometheus config for Alerta
 - [rainbowie](https://github.com/druskus20/rainbowie) - My personal theme for oh-my-zsh
@@ -754,7 +756,7 @@
 
 ## Rust 
 
-- [vector](https://github.com/timberio/vector) - Collect, transform, & route all observability data with one simple tool.
+- [vector](https://github.com/timberio/vector) - Collect, transform, & route all observability data with one simple tool
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -840,7 +842,7 @@
 
 ## TypeScript 
 
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
@@ -858,11 +860,14 @@
 
 - [bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader for Elementary OS
 
+## Vim Snippet 
+
+- [hpclab](https://github.com/tu-pm/hpclab) - 
+
 ## Vim script 
 
 - [i3config.vim](https://github.com/mboughaba/i3config.vim) - Vim syntax highlighting for i3 config :point_left:
 - [vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers!
-- [hpclab](https://github.com/tu-pm/hpclab) - 
 - [kronos.vim](https://github.com/soywod/kronos.vim) - A simple task and time manager. Project moved here:
 - [vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
