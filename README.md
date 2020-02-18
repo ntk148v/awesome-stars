@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [yaml](https://github.com/ghodss/yaml) - A better way to marshal and unmarshal YAML in Golang
 - [go-syslog](https://github.com/influxdata/go-syslog) - Blazing fast syslog parser
 - [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems with detailed solutions, test cases, and program analysis
@@ -773,6 +774,7 @@
 
 ## Shell 
 
+- [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
 - [rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
