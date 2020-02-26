@@ -13,7 +13,6 @@
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [Groovy](#groovy)
-  - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -49,6 +48,7 @@
 
 ## C 
 
+- [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [alertmanager2es](https://github.com/cloudflare/alertmanager2es) - Receives HTTP webhook notifications from AlertManager and inserts them into an Elasticsearch index for searching and analysis
 - [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [yaml](https://github.com/ghodss/yaml) - A better way to marshal and unmarshal YAML in Golang
 - [go-syslog](https://github.com/influxdata/go-syslog) - Blazing fast syslog parser
@@ -158,7 +159,7 @@
 - [diagram](https://github.com/esimov/diagram) - CLI app to convert ASCII arts into hand drawn diagrams.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
-- [trickster](https://github.com/Comcast/trickster) - Open Source Reverse Proxy Cache and Time Series Dashboard Accelerator
+- [trickster](https://github.com/Comcast/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [cloudprober](https://github.com/google/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [openstack-zun](https://github.com/virtual-kubelet/openstack-zun) - 
@@ -214,7 +215,7 @@
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
+- [rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [hyperd](https://github.com/hyperhq/hyperd) - HyperContainer Daemon
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -241,10 +242,6 @@
 ## Groovy 
 
 - [gradle-docker-plugin](https://github.com/bmuschko/gradle-docker-plugin) - Gradle plugin for managing Docker images and containers.
-
-## HCL 
-
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## HTML 
 
@@ -325,7 +322,7 @@
 
 ## Jupyter Notebook 
 
-- [practicalAI](https://github.com/practicalAI/practicalAI) - 📚 A practical approach to machine learning.
+- [practicalAI](https://github.com/madewithml/practicalAI) - 📚 Foundational deep learning lessons
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
@@ -724,7 +721,7 @@
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
-- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [gdrivesync](https://github.com/socrateslee/gdrivesync) - A python tools to sync files in local directory to google drive.
 - [google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [PyDrive](https://github.com/gsuitedevs/PyDrive) - Google Drive API Python wrapper library
@@ -735,7 +732,7 @@
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [falcon](https://github.com/falconry/falcon) - The minimalist web API framework for building incredibly fast, reliable, and scalable microservices, proxies, and app backends in Python.
+- [falcon](https://github.com/falconry/falcon) - Avoid hard-to-debug, hard-to-scale magic with Falcon, the minimalist web framework for building incredibly fast, reliable, and scalable microservices, proxies, and app backends.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
@@ -757,6 +754,7 @@
 
 ## Rust 
 
+- [talent-plan](https://github.com/pingcap/talent-plan) - PingCAP training courses
 - [vector](https://github.com/timberio/vector) - Collect, transform, & route all observability data with one simple tool
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
@@ -801,6 +799,7 @@
 - [docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [httpstat](https://github.com/b4b4r07/httpstat) - It's like curl -v, with graphs and colors
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [n](https://github.com/tj/n) - Node version management
 - [loci](https://github.com/openstack/loci) - Lightweight OCI compatible images for OpenStack Projects
 - [presentations](https://github.com/zaneb/presentations) - Source for various presentations (one per branch)
@@ -828,7 +827,7 @@
 - [zimfw](https://github.com/zimfw/zimfw) - Zsh IMproved FrameWork
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [openstack-ansible-galera_server](https://github.com/openstack/openstack-ansible-galera_server) - Role galera_server for OpenStack-Ansible
 - [Web-page-classification](https://github.com/kahliloppenheimer/Web-page-classification) - Classifies webpages into categories defined in DMOZ dataset
@@ -868,6 +867,7 @@
 
 ## Vim script 
 
+- [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor
 - [i3config.vim](https://github.com/mboughaba/i3config.vim) - Vim syntax highlighting for i3 config :point_left:
 - [vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers!
 - [kronos.vim](https://github.com/soywod/kronos.vim) - A simple task and time manager. Project moved here:
@@ -881,7 +881,7 @@
 
 ## Vue 
 
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast & beautiful API request builder (web alternative to Postman) https://postwoman.io 🔥
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io 🔥
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
