@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
 - [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [alertmanager2es](https://github.com/cloudflare/alertmanager2es) - Receives HTTP webhook notifications from AlertManager and inserts them into an Elasticsearch index for searching and analysis
@@ -325,7 +326,7 @@
 
 ## Jupyter Notebook 
 
-- [practicalAI](https://github.com/madewithml/practicalAI) - 📚 Learn ML with clean code, simplified math and illustrative visuals.
+- [lessons](https://github.com/madewithml/lessons) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
@@ -870,6 +871,7 @@
 
 ## Vim script 
 
+- [vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark color scheme for Vim
 - [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor
 - [i3config.vim](https://github.com/mboughaba/i3config.vim) - Vim syntax highlighting for i3 config :point_left:
 - [vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers!
