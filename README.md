@@ -56,12 +56,12 @@
 - [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
-- [openresty](https://github.com/openresty/openresty) - Turning Nginx into a Full-Fledged Scriptable Web Platform
+- [openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Ngnix and LuaJIT
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [librsync](https://github.com/librsync/librsync) - remote delta-compression library
 - [zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
-- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
+- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [snoopy](https://github.com/a2o/snoopy) - Log every executed command to syslog (a.k.a. Snoopy Logger).
@@ -83,6 +83,7 @@
 
 ## CSS 
 
+- [faythe-ui](https://github.com/vCloud-DFTBA/faythe-ui) - Interactive UI for faythe
 - [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
 - [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
@@ -104,6 +105,10 @@
 
 ## Go 
 
+- [pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
+- [ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
+- [NexClipper](https://github.com/NexClipper/NexClipper) - Metrics Pipeline for interoperability and Enterprise Prometheus
+- [akash](https://github.com/ovrclk/akash) - a secure, transparent, and peer-to-peer cloud computing network
 - [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
 - [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
@@ -162,7 +167,7 @@
 - [diagram](https://github.com/esimov/diagram) - CLI app to convert ASCII arts into hand drawn diagrams.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
-- [trickster](https://github.com/Comcast/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
+- [trickster](https://github.com/tricksterproxy/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [cloudprober](https://github.com/google/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [openstack-zun](https://github.com/virtual-kubelet/openstack-zun) - 
@@ -195,7 +200,7 @@
 - [go-tooling-workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers 🚀
+- [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [dep](https://github.com/golang/dep) - Go dependency management tool
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -304,7 +309,6 @@
 - [Messer](https://github.com/mjkaufer/Messer) - :speech_balloon: Command-line messaging for Facebook Messenger
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [openup03_07](https://github.com/Open-Up/openup03_07) - MogoDb presentation and practice
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [kyyeu203](https://github.com/daikk115/kyyeu203) - 
@@ -444,7 +448,7 @@
 
 - [octodns](https://github.com/github/octodns) - Tools for managing DNS across multiple providers
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - Do you think you know Python?
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
@@ -464,7 +468,7 @@
 - [nba_py](https://github.com/seemethere/nba_py) - Python client for NBA statistics located at stats.nba.com
 - [git-pull-request](https://github.com/Mergifyio/git-pull-request) - Send git pull requests via command line
 - [loudml](https://github.com/regel/loudml) - Loud ML is the first open-source AI solution for ICT and IoT automation
-- [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
+- [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
 - [designing-distributed-systems](https://github.com/brendandburns/designing-distributed-systems) - Sample code and configuration files from the Designing Distributed Systems book.
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [the-monitor](https://github.com/DataDog/the-monitor) - Markdown files for Datadog's long-form blog posts: https://www.datadoghq.com/blog/
@@ -679,6 +683,7 @@
 - [pootle](https://github.com/translate/pootle) - Online translation tool
 - [dropbox-sdk-python](https://github.com/dropbox/dropbox-sdk-python) - Python SDK for Dropbox API v2.
 - [python-chord](https://github.com/gaston770/python-chord) - Python implementation of Chord DHT
+- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [pyup](https://github.com/pyupio/pyup) - A tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
 - [searchlight](https://github.com/openstack/searchlight) - OpenStack Search (Searchlight)
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
