@@ -281,6 +281,7 @@
 
 ## JavaScript 
 
+- [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
@@ -414,7 +415,6 @@
 - [nova-solver-scheduler](https://github.com/openstack/nova-solver-scheduler) - MOVED: now at https://opendev.org/x/nova-solver-scheduler
 - [awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture.
 - [laravel-docs-vn](https://github.com/petehouston/laravel-docs-vn) - The Vietnamese translation of the Official Laravel Documentation
 - [openstack-resource-agents](https://github.com/openstack/openstack-resource-agents) - MOVED: now at https://opendev.org/x/openstack-resource-agents
@@ -446,6 +446,9 @@
 
 ## Python 
 
+- [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
+- [undocker](https://github.com/larsks/undocker) - 
+- [dockerize](https://github.com/larsks/dockerize) - A tool for creating minimal docker images from dynamic ELF binaries.
 - [octodns](https://github.com/github/octodns) - Tools for managing DNS across multiple providers
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - Do you think you know Python?
@@ -839,6 +842,7 @@
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [openstack-ansible-galera_server](https://github.com/openstack/openstack-ansible-galera_server) - Role galera_server for OpenStack-Ansible
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Web-page-classification](https://github.com/kahliloppenheimer/Web-page-classification) - Classifies webpages into categories defined in DMOZ dataset
 - [osp-ha-deploy](https://github.com/beekhof/osp-ha-deploy) - scripts for deploying a HA install of OSP
 
