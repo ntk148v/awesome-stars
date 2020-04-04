@@ -207,7 +207,7 @@
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [ibus-teni](https://github.com/teni-ime/ibus-teni) - Bộ gõ tiếng Việt cho Linux chạy trên IBus
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
-- [origin](https://github.com/openshift/origin) - The self-managing, auto-upgrading, Kubernetes distribution for everyone
+- [origin](https://github.com/openshift/origin) - Images for OpenShift 3 and 4 - see openshift/okd for more
 - [unsee](https://github.com/cloudflare/unsee) - Alert dashboard for Prometheus Alertmanager
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [ceph_exporter](https://github.com/digitalocean/ceph_exporter) - Prometheus exporter that scrapes meta information about a ceph cluster.
