@@ -56,7 +56,7 @@
 - [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
-- [openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Ngnix and LuaJIT
+- [openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [librsync](https://github.com/librsync/librsync) - remote delta-compression library
 - [zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
@@ -83,7 +83,6 @@
 
 ## CSS 
 
-- [faythe-ui](https://github.com/vCloud-DFTBA/faythe-ui) - Interactive UI for faythe
 - [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
 - [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
@@ -105,6 +104,8 @@
 
 ## Go 
 
+- [prometheus-am-executor](https://github.com/imgix/prometheus-am-executor) - Execute command based on Prometheus alerts
+- [openstack-exporter](https://github.com/openstack-exporter/openstack-exporter) - OpenStack Exporter for Prometheus
 - [pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
 - [ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [NexClipper](https://github.com/NexClipper/NexClipper) - Metrics Pipeline for interoperability and Enterprise Prometheus
@@ -171,7 +172,7 @@
 - [cloudprober](https://github.com/google/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [openstack-zun](https://github.com/virtual-kubelet/openstack-zun) - 
-- [gf](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configure, template, https, hooks, rewrites and many more features.
+- [gf](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang.
 - [pipeline](https://github.com/banzaicloud/pipeline) - Banzai Cloud Pipeline is a solution-oriented application platform which allows enterprises to develop, deploy and securely scale container-based applications in multi- and hybrid-cloud environments.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -191,7 +192,7 @@
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [go-git](https://github.com/src-d/go-git) - A highly extensible Git implementation in pure Go.
+- [go-git](https://github.com/src-d/go-git) - Projects has been moved to:
 - [linkerd2](https://github.com/linkerd/linkerd2) - A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
@@ -253,6 +254,7 @@
 
 ## HTML 
 
+- [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [swarmstack](https://github.com/swarmstack/swarmstack) - A Docker swarm-based starting point for operating highly-available containerized applications.
 - [KeepIt](https://github.com/Fastbyte01/KeepIt) - The most powerful minimal Hugo theme.
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
@@ -297,7 +299,7 @@
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
-- [nba-go](https://github.com/xxhomey19/nba-go) - 🏀 💻 The finest NBA CLI.
+- [nba-go](https://github.com/homerchen19/nba-go) - 🏀 💻 The finest NBA CLI.
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [node-irc](https://github.com/martynsmith/node-irc) - NodeJS IRC client library
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -895,6 +897,7 @@
 
 ## Vue 
 
+- [faythe-ui](https://github.com/vCloud-DFTBA/faythe-ui) - Interactive UI for faythe
 - [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
