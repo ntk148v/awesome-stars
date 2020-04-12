@@ -174,7 +174,7 @@
 - [openstack-zun](https://github.com/virtual-kubelet/openstack-zun) - 
 - [gf](https://github.com/gogf/gf) - GoFrame is a modular, full-featured and production-ready application development framework of golang.
 - [pipeline](https://github.com/banzaicloud/pipeline) - Banzai Cloud Pipeline is a solution-oriented application platform which allows enterprises to develop, deploy and securely scale container-based applications in multi- and hybrid-cloud environments.
-- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets
@@ -357,6 +357,7 @@
 
 ## Others 
 
+- [til](https://github.com/thoughtbot/til) - Today I Learned
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [prometheus-config](https://github.com/alerta/prometheus-config) - Prometheus config for Alerta
@@ -786,6 +787,8 @@
 
 ## Shell 
 
+- [grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
+- [matter](https://github.com/mateosss/matter) - Material Design Inspired Grub Theme
 - [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
 - [rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
@@ -882,6 +885,7 @@
 
 ## Vim script 
 
+- [lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm
 - [vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark color scheme for Vim
 - [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor
 - [i3config.vim](https://github.com/mboughaba/i3config.vim) - Vim syntax highlighting for i3 config :point_left:
