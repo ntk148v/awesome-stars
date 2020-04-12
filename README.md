@@ -69,6 +69,7 @@
 
 ## C++ 
 
+- [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
@@ -449,6 +450,7 @@
 
 ## Python 
 
+- [dagda](https://github.com/eliasgranderubio/dagda) - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
 - [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
