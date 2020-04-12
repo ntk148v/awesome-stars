@@ -449,6 +449,7 @@
 
 ## Python 
 
+- [redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
 - [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [undocker](https://github.com/larsks/undocker) - 
 - [dockerize](https://github.com/larsks/dockerize) - A tool for creating minimal docker images from dynamic ELF binaries.
