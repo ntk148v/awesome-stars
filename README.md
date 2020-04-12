@@ -449,6 +449,7 @@
 
 ## Python 
 
+- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
 - [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [undocker](https://github.com/larsks/undocker) - 
