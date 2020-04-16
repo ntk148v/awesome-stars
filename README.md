@@ -105,6 +105,7 @@
 
 ## Go 
 
+- [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [prometheus-am-executor](https://github.com/imgix/prometheus-am-executor) - Execute command based on Prometheus alerts
 - [openstack-exporter](https://github.com/openstack-exporter/openstack-exporter) - OpenStack Exporter for Prometheus
@@ -352,6 +353,7 @@
 
 ## Makefile 
 
+- [ecs-refarch-cloudformation](https://github.com/aws-samples/ecs-refarch-cloudformation) - A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML)
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 - [provision_docker](https://github.com/chrismeyersfsu/provision_docker) - Test Ansible roles and playbooks using Docker
@@ -359,6 +361,7 @@
 
 ## Others 
 
+- [til](https://github.com/tieubao/til) - Today I Learned. These are what I've learned everyday, organized. #til.
 - [til](https://github.com/thoughtbot/til) - Today I Learned
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
@@ -459,7 +462,7 @@
 - [dockerize](https://github.com/larsks/dockerize) - A tool for creating minimal docker images from dynamic ELF binaries.
 - [octodns](https://github.com/github/octodns) - Tools for managing DNS across multiple providers
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - Do you think you know Python?
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
