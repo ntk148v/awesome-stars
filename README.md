@@ -105,6 +105,8 @@
 
 ## Go 
 
+- [testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+- [cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [prometheus-am-executor](https://github.com/imgix/prometheus-am-executor) - Execute command based on Prometheus alerts
@@ -286,6 +288,7 @@
 
 ## JavaScript 
 
+- [hugo-notepadium](https://github.com/cntrump/hugo-notepadium) - a fast gohugo theme, 100% JavaScript-free.
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
@@ -454,6 +457,7 @@
 
 ## Python 
 
+- [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
 - [dagda](https://github.com/eliasgranderubio/dagda) - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
@@ -547,7 +551,7 @@
 - [Packt-Publishing-Free-Learning](https://github.com/luk6xff/Packt-Publishing-Free-Learning) - Scripts that automatically claim and download  free daily eBooks from https://www.packtpub.com/packt/offers/free-learning
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [InstaPy](https://github.com/timgrossmann/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
-- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
 - [hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [pyformance](https://github.com/omergertel/pyformance) - Performance metrics, based on Coda Hale's Yammer metrics
@@ -795,6 +799,8 @@
 
 ## Shell 
 
+- [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+- [heat-examples](https://github.com/syseleven/heat-examples) - Heat examples tested against the SysEleven Stack infrastructure cloud.
 - [grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [matter](https://github.com/mateosss/matter) - Material Design Inspired Grub Theme
 - [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
