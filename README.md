@@ -105,6 +105,11 @@
 
 ## Go 
 
+- [commonregex](https://github.com/mingrammer/commonregex) - 🍫 A collection of common regular expressions for Go
+- [codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
+- [go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
+- [go-training](https://github.com/GolangUA/go-training) - Golang training materials
+- [panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
 - [realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
@@ -124,7 +129,7 @@
 - [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [yaml](https://github.com/ghodss/yaml) - A better way to marshal and unmarshal YAML in Golang
 - [go-syslog](https://github.com/influxdata/go-syslog) - Blazing fast syslog parser
-- [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems with detailed solutions, test cases, and program analysis
+- [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems
 - [promviz](https://github.com/nghialv/promviz) - Visualize the traffic of your clusters in realtime from Prometheus data
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
 - [run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
@@ -135,7 +140,7 @@
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
@@ -459,6 +464,8 @@
 
 ## Python 
 
+- [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
+- [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [prefect](https://github.com/PrefectHQ/prefect) - The Prefect workflow platform
 - [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
 - [dagda](https://github.com/eliasgranderubio/dagda) - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
@@ -473,7 +480,7 @@
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 - [iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
-- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
@@ -489,7 +496,7 @@
 - [nba_py](https://github.com/seemethere/nba_py) - Python client for NBA statistics located at stats.nba.com
 - [git-pull-request](https://github.com/Mergifyio/git-pull-request) - Send git pull requests via command line
 - [loudml](https://github.com/regel/loudml) - Loud ML is the first open-source AI solution for ICT and IoT automation
-- [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
+- [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
 - [designing-distributed-systems](https://github.com/brendandburns/designing-distributed-systems) - Sample code and configuration files from the Designing Distributed Systems book.
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [the-monitor](https://github.com/DataDog/the-monitor) - Markdown files for Datadog's long-form blog posts: https://www.datadoghq.com/blog/
@@ -506,7 +513,7 @@
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [TelegramTUI](https://github.com/vtr0n/TelegramTUI) - Telegram client on your terminal
 - [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [thug-memes](https://github.com/jerry-git/thug-memes) - Command line Thug Meme generator written in Python
@@ -762,7 +769,7 @@
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [falcon](https://github.com/falconry/falcon) - Minimalist web services and app backend framework for Python developers.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
