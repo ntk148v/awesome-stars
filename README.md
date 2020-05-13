@@ -105,6 +105,7 @@
 
 ## Go 
 
+- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [commonregex](https://github.com/mingrammer/commonregex) - 🍫 A collection of common regular expressions for Go
 - [codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
