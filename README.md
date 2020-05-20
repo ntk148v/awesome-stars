@@ -48,6 +48,7 @@
 
 ## C 
 
+- [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
 - [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
@@ -105,6 +106,7 @@
 
 ## Go 
 
+- [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [commonregex](https://github.com/mingrammer/commonregex) - 🍫 A collection of common regular expressions for Go
@@ -177,7 +179,7 @@
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
+- [golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [diagram](https://github.com/esimov/diagram) - CLI app to convert ASCII arts into hand drawn diagrams.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -348,7 +350,7 @@
 
 ## Jupyter Notebook 
 
-- [lessons](https://github.com/madewithml/lessons) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
+- [basics](https://github.com/madewithml/basics) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
@@ -373,6 +375,7 @@
 
 ## Others 
 
+- [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [til](https://github.com/tieubao/til) - Today I Learned. These are what I've learned everyday, organized. #til.
 - [til](https://github.com/thoughtbot/til) - Today I Learned
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -397,7 +400,7 @@
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [openstack-docs](https://github.com/naturalis/openstack-docs) - Documentation resources IT facilities Naturalis
 - [dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
-- [tatu](https://github.com/openstack/tatu) - MOVED: now at https://opendev.org/x/tatu
+- [tatu](https://github.com/openstack-archive/tatu) - MOVED: now at https://opendev.org/x/tatu
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits) - :memo: A curated list of awesome programming subreddits.
@@ -405,14 +408,14 @@
 - [state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
 - [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
-- [omni](https://github.com/openstack/omni) - MOVED: now at https://opendev.org/x/omni
+- [omni](https://github.com/openstack-archive/omni) - MOVED: now at https://opendev.org/x/omni
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [stackube](https://github.com/openstack/stackube) - MOVED: now at https://opendev.org/x/stackube
+- [stackube](https://github.com/openstack-archive/stackube) - MOVED: now at https://opendev.org/x/stackube
 - [awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain
 - [machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [nerd-reviewer](https://github.com/openstack/nerd-reviewer) - MOVED: now at https://opendev.org/x/nerd-reviewer
+- [nerd-reviewer](https://github.com/openstack-archive/nerd-reviewer) - MOVED: now at https://opendev.org/x/nerd-reviewer
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [openstack-heat-workshop](https://github.com/opsta/openstack-heat-workshop) - All Heat templates for Opsta OpenStack Administration Workshop
 - [Index-2020](https://github.com/SamPutnam/Index-2020) - The Putnam Company D/B/A Sam Putnam Engineering
@@ -431,13 +434,13 @@
 - [ml-videos](https://github.com/dustinvtran/ml-videos) - A collection of video resources for machine learning
 - [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [dockbix-agent-xxl](https://github.com/monitoringartist/dockbix-agent-xxl) - :whale: Dockerized Zabbix agent with Docker metrics and host metrics support for CoreOS, RHEL, CentOS, Ubuntu, Debian, Fedora, Boot2docker, Photon OS, Amazon Linux, ...
-- [deb-nova](https://github.com/openstack/deb-nova) - Debian package build scripts for nova project
-- [nova-solver-scheduler](https://github.com/openstack/nova-solver-scheduler) - MOVED: now at https://opendev.org/x/nova-solver-scheduler
+- [deb-nova](https://github.com/openstack-archive/deb-nova) - Debian package build scripts for nova project
+- [nova-solver-scheduler](https://github.com/openstack-archive/nova-solver-scheduler) - MOVED: now at https://opendev.org/x/nova-solver-scheduler
 - [awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture.
 - [laravel-docs-vn](https://github.com/petehouston/laravel-docs-vn) - The Vietnamese translation of the Official Laravel Documentation
-- [openstack-resource-agents](https://github.com/openstack/openstack-resource-agents) - MOVED: now at https://opendev.org/x/openstack-resource-agents
+- [openstack-resource-agents](https://github.com/openstack-archive/openstack-resource-agents) - MOVED: now at https://opendev.org/x/openstack-resource-agents
 - [docker-and-containers-ebooks](https://github.com/thenewstack/docker-and-containers-ebooks) - A series of ebooks on Docker and the container ecosystem.
 - [hpcc-know-how](https://github.com/HPCC-Cloud-Computing/hpcc-know-how) - Đây là repository chứa các tìm hiểu về OpenStack của nhóm Cloud Bách Khoa Hà Nội.
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -523,7 +526,7 @@
 - [irc](https://github.com/jaraco/irc) - Full-featured Python IRC library for Python.
 - [pipfile](https://github.com/pypa/pipfile) - 
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-- [beagle](https://github.com/dhellmann/beagle) - Command line interface for the hound code search tool
+- [beagle](https://github.com/beaglecli/beagle) - Command line interface for the hound code search tool
 - [containerregistry](https://github.com/google/containerregistry) - A set of Python libraries and tools for interacting with a Docker Registry.
 - [ci_edit](https://github.com/google/ci_edit) - A terminal text editor with mouse support and ctrl+Q to quit.
 - [prometheus-openstack-exporter](https://github.com/CanonicalLtd/prometheus-openstack-exporter) - OpenStack exporter for the prometheus monitoring system
@@ -902,7 +905,7 @@
 
 ## V 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero dependencies. https://vlang.io
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## Vala 
 
