@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [kthxbye](https://github.com/prymitive/kthxbye) - Prometheus Alertmanager alert acknowledgement management daemon
 - [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
@@ -627,7 +628,7 @@
 - [errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [limbo](https://github.com/llimllib/limbo) - A simple, clean, easy to modify Slack chatbot
 - [slacker-asyncio](https://github.com/gfreezy/slacker-asyncio) - Full-featured Python interface for the Slack API
-- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Python SDK https://slack.dev/python-slackclient/
+- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Developer Kit for Python
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [weirdo](https://github.com/rdo-infra/weirdo) - It's not weird if it works.
 - [kazam](https://github.com/hzbd/kazam) - A screencasting program created with design in mind.(https://launchpad.net/kazam)
