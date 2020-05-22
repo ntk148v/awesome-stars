@@ -271,6 +271,7 @@
 
 ## HTML 
 
+- [distsysbook](https://github.com/mixu/distsysbook) - The book Distributed systems: for fun and profit
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [swarmstack](https://github.com/swarmstack/swarmstack) - A Docker swarm-based starting point for operating highly-available containerized applications.
 - [KeepIt](https://github.com/Fastbyte01/KeepIt) - The most powerful minimal Hugo theme.
@@ -301,6 +302,7 @@
 
 - [hugo-notepadium](https://github.com/cntrump/hugo-notepadium) - a fast gohugo theme, 100% JavaScript-free.
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
@@ -379,7 +381,6 @@
 - [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [til](https://github.com/tieubao/til) - Today I Learned. These are what I've learned everyday, organized. #til.
 - [til](https://github.com/thoughtbot/til) - Today I Learned
-- [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [prometheus-config](https://github.com/alerta/prometheus-config) - Prometheus config for Alerta
 - [rainbowie](https://github.com/druskus20/rainbowie) - My personal theme for oh-my-zsh
