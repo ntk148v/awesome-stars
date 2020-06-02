@@ -51,7 +51,7 @@
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
-- [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc / 24kb compiled!).
+- [sowm](https://github.com/dylanaraps/sowm) - An itsy bitsy floating window manager (220~ sloc!).
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [kthxbye](https://github.com/prymitive/kthxbye) - Prometheus Alertmanager alert acknowledgement management daemon
 - [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
@@ -268,6 +269,7 @@
 
 ## Groovy 
 
+- [rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [gradle-docker-plugin](https://github.com/bmuschko/gradle-docker-plugin) - Gradle plugin for managing Docker images and containers.
 
 ## HTML 
@@ -399,6 +401,7 @@
 - [awesome-go-web-frameworks](https://github.com/speedwheel/awesome-go-web-frameworks) - You may not need a web framework if you design a small application for yourself, but if you're going production then you definitely will need one, a good one.
 - [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) - Proverbs from the programmer
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real world enterprise frontend development
+- [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [openstack-docs](https://github.com/naturalis/openstack-docs) - Documentation resources IT facilities Naturalis
 - [dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
@@ -475,7 +478,7 @@
 - [CommonRegex](https://github.com/madisonmay/CommonRegex) - A collection of common regular expressions bundled with an easy to use interface.
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [prefect](https://github.com/PrefectHQ/prefect) - The Prefect workflow platform
+- [prefect](https://github.com/PrefectHQ/prefect) - A modern data workflow platform
 - [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
 - [dagda](https://github.com/eliasgranderubio/dagda) - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -836,7 +839,6 @@
 - [openstack-helm](https://github.com/openstack/openstack-helm) - Helm charts for deploying OpenStack on Kubernetes
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
-- [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
