@@ -75,7 +75,7 @@
 - [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
-- [digikam](https://github.com/KDE/digikam) - digiKam is an advanced digital photo management application for KDE, which makes importing and organizing digital photos a 'snap'.
+- [digikam](https://github.com/KDE/digikam) - digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
 - [termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -283,6 +283,7 @@
 - [notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [kbe](https://github.com/openshift-evangelists/kbe) - Kubernetes By Example
 - [openstack-doc-migration-burndown](https://github.com/dhellmann/openstack-doc-migration-burndown) - 
+- [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 
 ## Haskell 
@@ -292,6 +293,7 @@
 
 ## Java 
 
+- [centraldogma](https://github.com/line/centraldogma) - Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2
 - [elasticsearch-prometheus-exporter](https://github.com/vvanholl/elasticsearch-prometheus-exporter) - Prometheus exporter plugin for ElasticSearch
 - [helios](https://github.com/spotify/helios) - Docker container orchestration platform
 - [gitpitch](https://github.com/gitpitch/gitpitch) - The Markdown Presentation Service For Developers
@@ -303,6 +305,7 @@
 
 ## JavaScript 
 
+- [grafana-diagram](https://github.com/jdbranham/grafana-diagram) - 
 - [hugo-notepadium](https://github.com/cntrump/hugo-notepadium) - a fast gohugo theme, 100% JavaScript-free.
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -317,7 +320,6 @@
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [prometheus-formatter](https://github.com/fhemberger/prometheus-formatter) - Browser extension which makes plain Prometheus metrics easier to read
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
@@ -345,7 +347,6 @@
 - [IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) - 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus
 - [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [bioinformatics-dashboard](https://github.com/HPCC-Cloud-Computing/bioinformatics-dashboard) - Bioinformatics Dashboard
@@ -560,7 +561,7 @@
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [openstack-connector-k8s](https://github.com/kevin-zhaoshuai/openstack-connector-k8s) - Kubernetes connector for OpenStack Zun project. Make OpenStack as a node in Kubernetes to run workloads
 - [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
-- [pytube](https://github.com/nficano/pytube) - 🎞 A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [pytube](https://github.com/nficano/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [Limnoria](https://github.com/ProgVal/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
 - [jenni](https://github.com/myano/jenni) - jenni was a python IRC bot. Project is closed. Try Sopel instead, https://sopel.chat/
@@ -804,7 +805,8 @@
 
 ## Rust 
 
-- [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed systems and distributed systemes
+- [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
+- [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
 - [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast tool for building observability pipelines
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
@@ -848,7 +850,7 @@
 - [alien-minimal](https://github.com/eendroroy/alien-minimal) - An asynchronous minimal zsh prompt
 - [aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
 - [git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [install-gnome-themes](https://github.com/tliron/install-gnome-themes) - Script to install the latest versions of some fine GNOME 3 themes
 - [docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
@@ -898,8 +900,10 @@
 
 ## TypeScript 
 
+- [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [iam-policy-generator](https://github.com/aletheia/iam-policy-generator) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
@@ -923,6 +927,7 @@
 
 ## Vim script 
 
+- [miramare](https://github.com/franbach/miramare) - :maple_leaf: Comfortable & Pleasant Color Scheme for Vim
 - [lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm
 - [vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark color scheme for Vim
 - [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor
@@ -940,7 +945,7 @@
 ## Vue 
 
 - [faythe-ui](https://github.com/vCloud-DFTBA/faythe-ui) - Interactive UI for faythe
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder used by 60k+ developers (web alternative to Postman) https://postwoman.io
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
