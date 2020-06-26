@@ -28,6 +28,7 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [QML](#qml)
+  - [Reason](#reason)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -94,6 +95,7 @@
 - [United-GNOME](https://github.com/godlyranchdressing/United-GNOME) - GTK2/3 + GNOME Shell theme based on a Ubuntu 18.04 design concept.
 - [macOS](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops
 - [paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) - Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Dart 
 
@@ -136,7 +138,7 @@
 - [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [yaml](https://github.com/ghodss/yaml) - A better way to marshal and unmarshal YAML in Golang
 - [go-syslog](https://github.com/influxdata/go-syslog) - Blazing fast syslog parser
-- [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems
+- [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 - [promviz](https://github.com/nghialv/promviz) - Visualize the traffic of your clusters in realtime from Prometheus data
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
 - [run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
@@ -296,7 +298,7 @@
 - [centraldogma](https://github.com/line/centraldogma) - Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2
 - [elasticsearch-prometheus-exporter](https://github.com/vvanholl/elasticsearch-prometheus-exporter) - Prometheus exporter plugin for ElasticSearch
 - [helios](https://github.com/spotify/helios) - Docker container orchestration platform
-- [gitpitch](https://github.com/gitpitch/gitpitch) - The Markdown Presentation Service For Developers
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
 - [Chord-Implementation](https://github.com/netharis/Chord-Implementation) - Chord Implementation for Distributed Systems Course
 - [sync-service](https://github.com/stacksync/sync-service) - [DISCONTINUED] StackSync's synchronization service
@@ -318,7 +320,6 @@
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
-- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [prometheus-formatter](https://github.com/fhemberger/prometheus-formatter) - Browser extension which makes plain Prometheus metrics easier to read
 - [peer-review-bot](https://github.com/felixrieseberg/peer-review-bot) - A little bot checking GitHub pull requests for peer reviews
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
@@ -347,7 +348,6 @@
 - [IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) - 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus
 - [odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [bioinformatics-dashboard](https://github.com/HPCC-Cloud-Computing/bioinformatics-dashboard) - Bioinformatics Dashboard
 
@@ -357,7 +357,7 @@
 
 ## Jupyter Notebook 
 
-- [basics](https://github.com/madewithml/basics) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
+- [basics](https://github.com/madewithml/basics) - 📚 Learn ML with clean code, simplified math and illustrative visuals.
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
@@ -513,7 +513,7 @@
 - [designing-distributed-systems](https://github.com/brendandburns/designing-distributed-systems) - Sample code and configuration files from the Designing Distributed Systems book.
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [the-monitor](https://github.com/DataDog/the-monitor) - Markdown files for Datadog's long-form blog posts: https://www.datadoghq.com/blog/
-- [autokeras](https://github.com/keras-team/autokeras) - An AutoML system based on Keras
+- [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 - [mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
 - [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
@@ -526,7 +526,7 @@
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [TelegramTUI](https://github.com/vtr0n/TelegramTUI) - Telegram client on your terminal
 - [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [thug-memes](https://github.com/jerry-git/thug-memes) - Command line Thug Meme generator written in Python
@@ -578,7 +578,6 @@
 - [hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [pyformance](https://github.com/omergertel/pyformance) - Performance metrics, based on Coda Hale's Yammer metrics
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework: deprecated
 - [shade](https://github.com/openstack/shade) - Client library for OpenStack containing Infra business logic
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
@@ -661,7 +660,7 @@
 - [scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [deepdiff](https://github.com/seperman/deepdiff) - Deep Difference and search of any Python object/data.
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
-- [elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python low-level client for Elasticsearch.
+- [elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python low-level client for Elasticsearch
 - [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [tbvaccine](https://github.com/skorokithakis/tbvaccine) - A small utility to pretty-print Python tracebacks. ⛺
 - [tinystatus](https://github.com/cathalgarvey/tinystatus) - A peer to peer microstatus system written in 30 lines of pure python. (MOVED to Gitlab)
@@ -783,7 +782,7 @@
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability, correctness and performance at scale.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
@@ -794,6 +793,10 @@
 ## QML 
 
 - [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
+
+## Reason 
+
+- [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
 ## Ruby 
 
@@ -824,6 +827,7 @@
 
 ## Shell 
 
+- [aviary.sh](https://github.com/team-video/aviary.sh) - Minimal distributed configuration management in bash
 - [documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [heat-examples](https://github.com/syseleven/heat-examples) - Heat examples tested against the SysEleven Stack infrastructure cloud.
@@ -856,6 +860,7 @@
 - [docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [httpstat](https://github.com/b4b4r07/httpstat) - It's like curl -v, with graphs and colors
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [n](https://github.com/tj/n) - Node version management
 - [loci](https://github.com/openstack/loci) - Lightweight OCI compatible images for OpenStack Projects
 - [presentations](https://github.com/zaneb/presentations) - Source for various presentations (one per branch)
@@ -883,7 +888,7 @@
 - [zimfw](https://github.com/zimfw/zimfw) - Zsh IMproved FrameWork
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [openstack-ansible-galera_server](https://github.com/openstack/openstack-ansible-galera_server) - Role galera_server for OpenStack-Ansible
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -903,6 +908,7 @@
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [iam-policy-generator](https://github.com/aletheia/iam-policy-generator) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -945,7 +951,7 @@
 ## Vue 
 
 - [faythe-ui](https://github.com/vCloud-DFTBA/faythe-ui) - Interactive UI for faythe
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder used by 60k+ developers (web alternative to Postman) https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 60k+ developers. https://postwoman.io
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
