@@ -108,6 +108,7 @@
 
 ## Go 
 
+- [makisu](https://github.com/uber/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 - [jwt](https://github.com/pascaldekloe/jwt) - JSON Web Token library
 - [bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 - [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
