@@ -108,6 +108,8 @@
 
 ## Go 
 
+- [jwt](https://github.com/pascaldekloe/jwt) - JSON Web Token library
+- [bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 - [dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [kthxbye](https://github.com/prymitive/kthxbye) - Prometheus Alertmanager alert acknowledgement management daemon
@@ -430,7 +432,7 @@
 - [gerritlib](https://github.com/openstack-infra/gerritlib) - MOVED: Now at https://opendev.org/opendev/gerritlib
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
-- [neutron-lbaas](https://github.com/openstack/neutron-lbaas) - Load balancing services for OpenStack Neutron.
+- [neutron-lbaas](https://github.com/openstack/neutron-lbaas) - Load balancing services for OpenStack Neutron. Mirror of code maintained at opendev.org.
 - [python-p2p](https://github.com/pedrotgn/python-p2p) - Implementation of well-known p2p protocols in Python
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
@@ -471,7 +473,7 @@
 
 ## PowerShell 
 
-- [heat-templates](https://github.com/openstack/heat-templates) - OpenStack Orchestration (Heat) Templates
+- [heat-templates](https://github.com/openstack/heat-templates) - OpenStack Orchestration (Heat) Templates. Mirror of code maintained at opendev.org.
 
 ## Python 
 
@@ -484,6 +486,7 @@
 - [dagda](https://github.com/eliasgranderubio/dagda) - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
+- [matter](https://github.com/mateosss/matter) - Material Design Inspired Grub Theme
 - [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [undocker](https://github.com/larsks/undocker) - 
 - [dockerize](https://github.com/larsks/dockerize) - A tool for creating minimal docker images from dynamic ELF binaries.
@@ -565,7 +568,7 @@
 - [apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [Limnoria](https://github.com/ProgVal/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
 - [jenni](https://github.com/myano/jenni) - jenni was a python IRC bot. Project is closed. Try Sopel instead, https://sopel.chat/
-- [rally](https://github.com/openstack/rally) - Rally provides a framework for performance analysis and benchmarking of individual OpenStack components as well as full production OpenStack cloud deployments
+- [rally](https://github.com/openstack/rally) - Rally provides a framework for performance analysis and benchmarking of individual OpenStack components as well as full production OpenStack cloud deployments. Mirror of code maintained at opendev.org.
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [pykube](https://github.com/kelproject/pykube) - Python client library for Kubernetes
 - [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
@@ -578,8 +581,9 @@
 - [hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [pyformance](https://github.com/omergertel/pyformance) - Performance metrics, based on Coda Hale's Yammer metrics
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework: deprecated
-- [shade](https://github.com/openstack/shade) - Client library for OpenStack containing Infra business logic
+- [shade](https://github.com/openstack/shade) - Client library for OpenStack containing Infra business logic. Mirror of code maintained at opendev.org.
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [Text-Search-Engine](https://github.com/logicx24/Text-Search-Engine) - A crappy search engine for text files that I made on one of my many NYC-SF plane flights.
 - [acora](https://github.com/scoder/acora) - Fast multi-keyword search engine for text strings
@@ -592,11 +596,11 @@
 - [reviewtodo](https://github.com/russellb/reviewtodo) - A gerrit code-review to-do list generator.
 - [zabbix_manager](https://github.com/meetbill/zabbix_manager) - 🍀 (1)安装后一键设置 (2)日常管理工具 (3)一键导出常用报表 (4)Zabbix API  二次开发
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
-- [reviewday](https://github.com/openstack/reviewday) - OpenStack code review report generator
-- [reviewstats](https://github.com/openstack/reviewstats) - Scripts for generating OpenStack development community statistics
+- [reviewday](https://github.com/openstack/reviewday) - OpenStack code review report generator. Mirror of code maintained at opendev.org.
+- [reviewstats](https://github.com/openstack/reviewstats) - Scripts for generating OpenStack development community statistics. Mirror of code maintained at opendev.org.
 - [gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing for Python and anything else
 - [praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-- [zun](https://github.com/openstack/zun) - Containers Service for OpenStack
+- [zun](https://github.com/openstack/zun) - Containers Service for OpenStack. Mirror of code maintained at opendev.org.
 - [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
 - [sopel](https://github.com/sopel-irc/sopel) - :robot::speech_balloon: An easy-to-use and highly extensible IRC Bot framework. Formerly Willie.
@@ -618,8 +622,8 @@
 - [PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto. 🐝
 - [securitybot](https://github.com/dropbox/securitybot) - Distributed alerting for the masses!
 - [pywit](https://github.com/wit-ai/pywit) - Python library for Wit.ai
-- [futurist](https://github.com/openstack/futurist) - A collection of async functionality and additions from the future.
-- [taskflow](https://github.com/openstack/taskflow) - A library to complete workflows/tasks in HA manner
+- [futurist](https://github.com/openstack/futurist) - A collection of async functionality and additions from the future. Mirror of code maintained at opendev.org.
+- [taskflow](https://github.com/openstack/taskflow) - A library to complete workflows/tasks in HA manner. Mirror of code maintained at opendev.org.
 - [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
 - [pygerrit2](https://github.com/dpursehouse/pygerrit2) - Python library to interface with Gerrit's REST API
 - [potion](https://github.com/biosustain/potion) - Flask-Potion is a RESTful API framework for Flask and SQLAlchemy, Peewee or MongoEngine
@@ -638,7 +642,7 @@
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [weirdo](https://github.com/rdo-infra/weirdo) - It's not weird if it works.
 - [kazam](https://github.com/hzbd/kazam) - A screencasting program created with design in mind.(https://launchpad.net/kazam)
-- [adjutant](https://github.com/openstack/adjutant) - A simple workflow framework to help automate admin and user tasks in and around OpenStack via a pluggable API exposing tasks made up of easily chainable actions.
+- [adjutant](https://github.com/openstack/adjutant) - A simple workflow framework to help automate admin and user tasks in and around OpenStack via a pluggable API exposing tasks made up of easily chainable actions. Mirror of code maintained at opendev.org.
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [grequests](https://github.com/spyoungtech/grequests) - Requests + Gevent = &lt;3
@@ -656,7 +660,7 @@
 - [zero-downtime-upgrade-scenario](https://github.com/vietstacker/zero-downtime-upgrade-scenario) - zero-downtime-upgrade
 - [Phim-GetLink](https://github.com/khiemdoan/Phim-GetLink) - Tool get link các web xem phim.
 - [baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
-- [heat-translator](https://github.com/openstack/heat-translator) - Translate non-heat templates to Heat Orchestration Template.
+- [heat-translator](https://github.com/openstack/heat-translator) - Translate non-heat templates to Heat Orchestration Template. Mirror of code maintained at opendev.org.
 - [scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [deepdiff](https://github.com/seperman/deepdiff) - Deep Difference and search of any Python object/data.
 - [locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
@@ -713,10 +717,10 @@
 - [cookiecutter-simple-django](https://github.com/marcofucci/cookiecutter-simple-django) - A cookiecutter template for creating reusable Django projects quickly.
 - [pyrsync](https://github.com/isislovecruft/pyrsync) - A pure Python module which implements the rsync algorithm.
 - [PySyncIt](https://github.com/db42/PySyncIt) - File synchronization application written in python to sync devices residing on a LAN.
-- [cookiecutter](https://github.com/openstack/cookiecutter) - Cookiecutter Template for new OpenStack projects
+- [cookiecutter](https://github.com/openstack/cookiecutter) - Cookiecutter Template for new OpenStack projects. Mirror of code maintained at opendev.org.
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
-- [freezer-api](https://github.com/openstack/freezer-api) - REST API interface for Freezer backup, restore and disaster recovery platform
+- [freezer-api](https://github.com/openstack/freezer-api) - REST API interface for Freezer backup, restore and disaster recovery platform. Mirror of code maintained at opendev.org.
 - [crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
 - [ansible-container](https://github.com/ansible/ansible-container) - DEPRECATED -- Ansible Container was a tool to build Docker images and orchestrate containers using only Ansible playbooks.
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
@@ -726,10 +730,10 @@
 - [python-chord](https://github.com/gaston770/python-chord) - Python implementation of Chord DHT
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [pyup](https://github.com/pyupio/pyup) - A tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
-- [searchlight](https://github.com/openstack/searchlight) - OpenStack Search (Searchlight)
+- [searchlight](https://github.com/openstack/searchlight) - OpenStack Search (Searchlight). Mirror of code maintained at opendev.org.
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [packaging.python.org](https://github.com/pypa/packaging.python.org) - Python Packaging User Guide
-- [designate](https://github.com/openstack/designate) - OpenStack DNS As A Service (Designate)
+- [designate](https://github.com/openstack/designate) - OpenStack DNS As A Service (Designate). Mirror of code maintained at opendev.org.
 - [duplicity](https://github.com/hcarvalhoalves/duplicity) - Unnoficial fork of Duplicity - Bandwidth Efficient Encrypted Backup
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [boto_rsync](https://github.com/seedifferently/boto_rsync) - An rsync-like utility using boto's S3 and Google Storage interfaces. [DEPRECATED -- Use awscli instead]
@@ -742,12 +746,12 @@
 - [collectd-iostat-python](https://github.com/deniszh/collectd-iostat-python) - Collectd-iostat-python is an iostat plugin for collectd that allows you to graph Linux iostat metrics in graphite or other output formats that are supported by collectd.
 - [igcollect](https://github.com/innogames/igcollect) - Graphite data collector scripts from InnoGames
 - [pyzabbix](https://github.com/lukecyca/pyzabbix) - Python Zabbix API
-- [monasca-agent](https://github.com/openstack/monasca-agent) - Agent for Monasca
+- [monasca-agent](https://github.com/openstack/monasca-agent) - Agent for Monasca. Mirror of code maintained at opendev.org.
 - [zabbix-searcher](https://github.com/monitoringartist/zabbix-searcher) - Search in 850+ Zabbix projects: templates, integrations, scripts, APIs, modules, ...
-- [kuryr](https://github.com/openstack/kuryr) - Bridge between container framework networking and storage models to OpenStack networking and storage abstractions.
+- [kuryr](https://github.com/openstack/kuryr) - Bridge between container framework networking and storage models to OpenStack networking and storage abstractions. Mirror of code maintained at opendev.org.
 - [skyline](https://github.com/etsy/skyline) - It'll detect your anomalies! Part of the Kale stack.
 - [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - scikit-learn model evaluation made easy: plots, tables and markdown reports.
-- [ec2-api](https://github.com/openstack/ec2-api) - AWS EC2 and VPC API support in standalone service for OpenStack.
+- [ec2-api](https://github.com/openstack/ec2-api) - AWS EC2 and VPC API support in standalone service for OpenStack. Mirror of code maintained at opendev.org.
 - [data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs
 - [bilyric](https://github.com/cuongnb14/bilyric) - dual subtitles for song
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
@@ -777,17 +781,17 @@
 - [PyDrive](https://github.com/gsuitedevs/PyDrive) - Google Drive API Python wrapper library
 - [dockerizing-django](https://github.com/realpython/dockerizing-django) - 
 - [ubuntu-recentquicklists](https://github.com/thirschbuechler/ubuntu-recentquicklists) - This script adds recent files to the right-click on the unity-dash's launchers (taskbar program icons)
-- [magnum](https://github.com/openstack/magnum) - Container Infrastructure Management Service for OpenStack
-- [kolla](https://github.com/openstack/kolla) - Kolla provides production-ready containers and deployment tools for operating OpenStack clouds
+- [magnum](https://github.com/openstack/magnum) - Container Infrastructure Management Service for OpenStack. Mirror of code maintained at opendev.org.
+- [kolla](https://github.com/openstack/kolla) - Kolla provides production-ready containers and deployment tools for operating OpenStack clouds. Mirror of code maintained at opendev.org.
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability, correctness and performance at scale.
-- [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack
+- [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack. Mirror of code maintained at opendev.org.
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [CAL](https://github.com/HPCC-Cloud-Computing/CAL) - CAL - Cloud Abstract Layer framework proto-type
-- [os-loganalyze](https://github.com/openstack/os-loganalyze) - Log analyzer tools for logs.openstack.org
+- [os-loganalyze](https://github.com/openstack/os-loganalyze) - Log analyzer tools for logs.openstack.org. Mirror of code maintained at opendev.org.
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 
 ## QML 
@@ -832,7 +836,6 @@
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [heat-examples](https://github.com/syseleven/heat-examples) - Heat examples tested against the SysEleven Stack infrastructure cloud.
 - [grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
-- [matter](https://github.com/mateosss/matter) - Material Design Inspired Grub Theme
 - [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
 - [rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
@@ -842,7 +845,7 @@
 - [autopass](https://github.com/datle1/autopass) - Pass tests of elearning
 - [polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants
 - [tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
-- [openstack-helm](https://github.com/openstack/openstack-helm) - Helm charts for deploying OpenStack on Kubernetes
+- [openstack-helm](https://github.com/openstack/openstack-helm) - Helm charts for deploying OpenStack on Kubernetes. Mirror of code maintained at opendev.org.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
@@ -860,9 +863,8 @@
 - [docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [httpstat](https://github.com/b4b4r07/httpstat) - It's like curl -v, with graphs and colors
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [n](https://github.com/tj/n) - Node version management
-- [loci](https://github.com/openstack/loci) - Lightweight OCI compatible images for OpenStack Projects
+- [loci](https://github.com/openstack/loci) - Lightweight OCI compatible images for OpenStack Projects. Mirror of code maintained at opendev.org.
 - [presentations](https://github.com/zaneb/presentations) - Source for various presentations (one per branch)
 - [osic-clouds](https://github.com/osic/osic-clouds) - Docs and more about each of the clouds.
 - [docker-systemd](https://github.com/solita/docker-systemd) - systemd-enabled versions of Docker base images
@@ -870,7 +872,7 @@
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
-- [diskimage-builder](https://github.com/openstack/diskimage-builder) - Image building tools for OpenStack
+- [diskimage-builder](https://github.com/openstack/diskimage-builder) - Image building tools for OpenStack. Mirror of code maintained at opendev.org.
 - [trove-image-elements](https://github.com/vkmc/trove-image-elements) - 
 - [openstack-mitaka-installer-centos7](https://github.com/tigerlinux/openstack-mitaka-installer-centos7) - OpenStack MITAKA Semi-Automated installer for Centos 7
 - [microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
@@ -880,7 +882,7 @@
 - [ovsdb-client-transact](https://github.com/daikk115/ovsdb-client-transact) - 
 - [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [openstack-newton-installer-centos7](https://github.com/tigerlinux/openstack-newton-installer-centos7) - Unattended/Semi-Automated OpenStack NEWTON Installer for Centos 7
-- [training-labs](https://github.com/openstack/training-labs) - Deploy multi node OpenStack on Virtual Machines.
+- [training-labs](https://github.com/openstack/training-labs) - Deploy multi node OpenStack on Virtual Machines. Mirror of code maintained at opendev.org.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles (under development, not ready for production)
 - [openstack-disaster-recovery](https://github.com/nec-soft/openstack-disaster-recovery) - 
@@ -890,7 +892,7 @@
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
-- [openstack-ansible-galera_server](https://github.com/openstack/openstack-ansible-galera_server) - Role galera_server for OpenStack-Ansible
+- [openstack-ansible-galera_server](https://github.com/openstack/openstack-ansible-galera_server) - Role galera_server for OpenStack-Ansible. Mirror of code maintained at opendev.org.
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Web-page-classification](https://github.com/kahliloppenheimer/Web-page-classification) - Classifies webpages into categories defined in DMOZ dataset
 - [osp-ha-deploy](https://github.com/beekhof/osp-ha-deploy) - scripts for deploying a HA install of OSP
