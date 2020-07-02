@@ -108,6 +108,7 @@
 
 ## Go 
 
+- [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [makisu](https://github.com/uber/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 - [jwt](https://github.com/pascaldekloe/jwt) - JSON Web Token library
 - [bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
@@ -217,7 +218,7 @@
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [go-git](https://github.com/src-d/go-git) - Projects has been moved to:
-- [linkerd2](https://github.com/linkerd/linkerd2) - A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.
+- [linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
