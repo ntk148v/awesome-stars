@@ -108,6 +108,10 @@
 
 ## Go 
 
+- [go-micro](https://github.com/micro/go-micro) - A distributed systems development framework
+- [font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.
+- [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
+- [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [makisu](https://github.com/uber/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
 - [jwt](https://github.com/pascaldekloe/jwt) - JSON Web Token library
@@ -479,6 +483,7 @@
 
 ## Python 
 
+- [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [CommonRegex](https://github.com/madisonmay/CommonRegex) - A collection of common regular expressions bundled with an easy to use interface.
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
