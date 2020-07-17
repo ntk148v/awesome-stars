@@ -108,9 +108,11 @@
 
 ## Go 
 
+- [agent](https://github.com/grafana/agent) - A lightweight subset of Prometheus and more, optimized for Grafana Cloud
+- [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
-- [go-micro](https://github.com/micro/go-micro) - A distributed systems development framework
+- [go-micro](https://github.com/micro/go-micro) - A Go library for distributed systems development
 - [font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.
 - [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -174,7 +176,6 @@
 - [nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
-- [faythe](https://github.com/vCloud-DFTBA/faythe) - An experimental cluster brings Prometheus and OpenStack together
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [hashring](https://github.com/serialx/hashring) - Consistent hashing "hashring" implementation in golang (using the same algorithm as libketama)
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
@@ -212,7 +213,7 @@
 - [pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-- [dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
+- [dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
@@ -306,7 +307,7 @@
 ## Java 
 
 - [centraldogma](https://github.com/line/centraldogma) - Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2
-- [elasticsearch-prometheus-exporter](https://github.com/vvanholl/elasticsearch-prometheus-exporter) - Prometheus exporter plugin for ElasticSearch
+- [elasticsearch-prometheus-exporter](https://github.com/vvanholl/elasticsearch-prometheus-exporter) - Prometheus exporter plugin for Elasticsearch
 - [helios](https://github.com/spotify/helios) - Docker container orchestration platform
 - [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
@@ -384,6 +385,7 @@
 
 ## Makefile 
 
+- [prometheus-rpm](https://github.com/lest/prometheus-rpm) - Prometheus RPM Packages
 - [ecs-refarch-cloudformation](https://github.com/aws-samples/ecs-refarch-cloudformation) - A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML)
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
@@ -433,6 +435,7 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [nerd-reviewer](https://github.com/openstack-archive/nerd-reviewer) - MOVED: now at https://opendev.org/x/nerd-reviewer
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+- [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [openstack-heat-workshop](https://github.com/opsta/openstack-heat-workshop) - All Heat templates for Opsta OpenStack Administration Workshop
 - [Index-2020](https://github.com/SamPutnam/Index-2020) - The Putnam Company D/B/A Sam Putnam Engineering
 - [bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
@@ -485,6 +488,7 @@
 
 ## Python 
 
+- [openstack-workflow](https://github.com/int32bit/openstack-workflow) - Openstack Sequence Diagrams(Openstack操作序列图)
 - [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [CommonRegex](https://github.com/madisonmay/CommonRegex) - A collection of common regular expressions bundled with an easy to use interface.
@@ -610,7 +614,6 @@
 - [gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing for Python and anything else
 - [praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
 - [zun](https://github.com/openstack/zun) - Containers Service for OpenStack. Mirror of code maintained at opendev.org.
-- [google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [honcho](https://github.com/nickstenning/honcho) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
 - [sopel](https://github.com/sopel-irc/sopel) - :robot::speech_balloon: An easy-to-use and highly extensible IRC Bot framework. Formerly Willie.
 - [zk_shell](https://github.com/rgs1/zk_shell) - A powerful & scriptable shell for Apache ZooKeeper
@@ -642,7 +645,7 @@
 - [TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [django-autofixture](https://github.com/gregmuellegger/django-autofixture) - Can create auto-generated test data.
-- [stackimpact-python](https://github.com/stackimpact/stackimpact-python) - StackImpact Python Profiler - Production-Grade Performance Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more
+- [stackimpact-python](https://github.com/stackimpact/stackimpact-python) - DEPRECATED StackImpact Python Profiler - Production-Grade Performance Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [limbo](https://github.com/llimllib/limbo) - A simple, clean, easy to modify Slack chatbot
@@ -916,6 +919,7 @@
 
 ## TypeScript 
 
+- [CloudFlow](https://github.com/nokia/CloudFlow) - A workflow visualization tool for OpenStack Mistral (https://github.com/openstack/mistral)
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [iam-policy-generator](https://github.com/aletheia/iam-policy-generator) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
@@ -944,6 +948,7 @@
 
 ## Vim script 
 
+- [onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 - [miramare](https://github.com/franbach/miramare) - :maple_leaf: Comfortable & Pleasant Color Scheme for Vim
 - [lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm
 - [vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - A dark color scheme for Vim
@@ -953,7 +958,7 @@
 - [kronos.vim](https://github.com/soywod/kronos.vim) - A simple task and time manager. Project moved here:
 - [vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
-- [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
+- [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [vimrc](https://github.com/nvie/vimrc) - My personal Vim configuration, with a lot of love put into it.
 - [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
@@ -961,8 +966,9 @@
 
 ## Vue 
 
+- [praeco](https://github.com/johnsusek/praeco) - Elasticsearch alerting made simple.
 - [faythe-ui](https://github.com/vCloud-DFTBA/faythe-ui) - Interactive UI for faythe
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 62k+ developers. https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 65k+ developers. https://postwoman.io
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
