@@ -488,6 +488,8 @@
 
 ## Python 
 
+- [rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and tax reporting application that respects your privacy
+- [monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [openstack-workflow](https://github.com/int32bit/openstack-workflow) - Openstack Sequence Diagrams(Openstack操作序列图)
 - [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -516,7 +518,7 @@
 - [ansible-prometheus](https://github.com/cloudalchemy/ansible-prometheus) - Deploy Prometheus monitoring system
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [doorman](https://github.com/mwielgoszewski/doorman) - an osquery fleet manager
-- [zentral](https://github.com/zentralopensource/zentral) - Zentral is an Event Hub to gather, process, and monitor system events and link them to an inventory.
+- [zentral](https://github.com/zentralopensource/zentral) - Zentral is an open-source solution for infrastructure monitoring and endpoint event stream processing. It provides build-in orchestration of macOS security components (Santa, Osquery, et-al.), event correlation and event management. It consolidates its features with various data store backends (ElasticStack, Azure Log Analytics, Splunk, et-al.).
 - [pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's Plugins, Generate Awesome Statistics and Optimize Vim Startup Time
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
@@ -590,7 +592,7 @@
 - [Packt-Publishing-Free-Learning](https://github.com/luk6xff/Packt-Publishing-Free-Learning) - Scripts that automatically claim and download  free daily eBooks from https://www.packtpub.com/packt/offers/free-learning
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [InstaPy](https://github.com/timgrossmann/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
-- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [pyformance](https://github.com/omergertel/pyformance) - Performance metrics, based on Coda Hale's Yammer metrics
@@ -826,7 +828,7 @@
 
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
-- [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast tool for building observability pipelines
+- [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast router for building observability pipelines
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
