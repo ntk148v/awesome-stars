@@ -49,6 +49,7 @@
 
 ## C 
 
+- [2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm.
 - [mmwm](https://github.com/kaugm/mmwm) - Modern Minimalistic Window Manager
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
