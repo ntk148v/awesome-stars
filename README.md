@@ -326,6 +326,7 @@
 
 ## JavaScript 
 
+- [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
 - [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
 - [grafana-diagram](https://github.com/jdbranham/grafana-diagram) - 
 - [hugo-notepadium](https://github.com/cntrump/hugo-notepadium) - a fast gohugo theme, 100% JavaScript-free.
