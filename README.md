@@ -28,7 +28,6 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [QML](#qml)
-  - [Reason](#reason)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -49,8 +48,10 @@
 
 ## C 
 
+- [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm.
 - [mmwm](https://github.com/kaugm/mmwm) - Modern Minimalistic Window Manager
+- [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles) - A dump repository of my dotfiles since the first time I learned ricing. So everything is really messy here.
@@ -73,6 +74,7 @@
 
 ## C++ 
 
+- [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -88,6 +90,7 @@
 
 ## CSS 
 
+- [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
 - [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
@@ -110,12 +113,13 @@
 
 ## Go 
 
+- [installer](https://github.com/openshift/installer) - Install an OpenShift 4.x cluster
 - [promlinter](https://github.com/yeya24/promlinter) - 
 - [agent](https://github.com/grafana/agent) - A lightweight subset of Prometheus and more, optimized for Grafana Cloud
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
-- [go-micro](https://github.com/micro/go-micro) - A Go library for distributed systems development
+- [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
 - [font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.
 - [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -164,7 +168,7 @@
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go Study Guide
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
@@ -183,7 +187,7 @@
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [hashring](https://github.com/serialx/hashring) - Consistent hashing "hashring" implementation in golang (using the same algorithm as libketama)
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
-- [etcd-lock](https://github.com/datawisesystems/etcd-lock) - Distributed lock implementation using etcd
+- [etcd-lock](https://github.com/diamanticom/etcd-lock) - Distributed lock implementation using etcd
 - [lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
 - [telemeter](https://github.com/openshift/telemeter) - Prometheus push federation
@@ -244,7 +248,7 @@
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [ibus-teni](https://github.com/teni-ime/ibus-teni) - Bộ gõ tiếng Việt cho Linux chạy trên IBus
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
-- [origin](https://github.com/openshift/origin) - Images for OpenShift 3 and 4 - see openshift/okd for more
+- [origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [unsee](https://github.com/cloudflare/unsee) - Alert dashboard for Prometheus Alertmanager
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [ceph_exporter](https://github.com/digitalocean/ceph_exporter) - Prometheus exporter that scrapes meta information about a ceph cluster.
@@ -322,6 +326,7 @@
 
 ## JavaScript 
 
+- [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
 - [grafana-diagram](https://github.com/jdbranham/grafana-diagram) - 
 - [hugo-notepadium](https://github.com/cntrump/hugo-notepadium) - a fast gohugo theme, 100% JavaScript-free.
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -332,7 +337,7 @@
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [designing-distributed-systems-labs](https://github.com/brendandburns/designing-distributed-systems-labs) - Labs for the Designing Distributed Systems book.
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [prometheus-formatter](https://github.com/fhemberger/prometheus-formatter) - Browser extension which makes plain Prometheus metrics easier to read
@@ -350,7 +355,6 @@
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [angular-filemanager](https://github.com/joni2back/angular-filemanager) - JavaScript File Manager Material Design Folder Explorer Navigator Browser Manager in AngularJS with CSS3 Responsive (with FTP in PHP / Java / Node)
 - [Messer](https://github.com/mjkaufer/Messer) - :speech_balloon: Command-line messaging for Facebook Messenger
-- [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [openup03_07](https://github.com/Open-Up/openup03_07) - MogoDb presentation and practice
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
@@ -398,6 +402,8 @@
 
 ## Others 
 
+- [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
+- [base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [til](https://github.com/tieubao/til) - Today I Learned. These are what I've learned everyday, organized. #til.
@@ -494,6 +500,7 @@
 
 ## Python 
 
+- [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and tax reporting application that respects your privacy
 - [monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [openstack-workflow](https://github.com/int32bit/openstack-workflow) - Openstack Sequence Diagrams(Openstack操作序列图)
@@ -502,7 +509,7 @@
 - [CommonRegex](https://github.com/madisonmay/CommonRegex) - A collection of common regular expressions bundled with an easy to use interface.
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [prefect](https://github.com/PrefectHQ/prefect) - A modern data workflow platform
+- [prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
 - [dagda](https://github.com/eliasgranderubio/dagda) - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -541,7 +548,7 @@
 - [mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
 - [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
-- [kcli](https://github.com/karmab/kcli) - Wrapper around libvirt/aws/gcp/kubevirt/openstack/ovirt/vsphere
+- [kcli](https://github.com/karmab/kcli) - Management tool for libvirt/aws/gcp/kubevirt/openstack/ovirt/vsphere/packet
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
@@ -550,7 +557,7 @@
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [TelegramTUI](https://github.com/vtr0n/TelegramTUI) - Telegram client on your terminal
 - [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [thug-memes](https://github.com/jerry-git/thug-memes) - Command line Thug Meme generator written in Python
@@ -743,12 +750,12 @@
 - [freezer-api](https://github.com/openstack/freezer-api) - REST API interface for Freezer backup, restore and disaster recovery platform. Mirror of code maintained at opendev.org.
 - [crudini](https://github.com/pixelb/crudini) - A utility for manipulating ini files
 - [ansible-container](https://github.com/ansible/ansible-container) - DEPRECATED -- Ansible Container was a tool to build Docker images and orchestrate containers using only Ansible playbooks.
-- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
+- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [gosync](https://github.com/hschauhan/gosync) - An Opensource Google Drive client written in Python
 - [pootle](https://github.com/translate/pootle) - Online translation tool
 - [dropbox-sdk-python](https://github.com/dropbox/dropbox-sdk-python) - Python SDK for Dropbox API v2.
 - [python-chord](https://github.com/gaston770/python-chord) - Python implementation of Chord DHT
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [pyup](https://github.com/pyupio/pyup) - A tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
 - [searchlight](https://github.com/openstack/searchlight) - OpenStack Search (Searchlight). Mirror of code maintained at opendev.org.
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
@@ -791,7 +798,7 @@
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
-- [cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) - Cookiecutter template for a Python package.
+- [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
@@ -818,10 +825,6 @@
 
 - [arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 
-## Reason 
-
-- [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
-
 ## Ruby 
 
 - [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -832,6 +835,7 @@
 
 ## Rust 
 
+- [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
 - [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast router for building observability pipelines
@@ -887,7 +891,7 @@
 - [presentations](https://github.com/zaneb/presentations) - Source for various presentations (one per branch)
 - [osic-clouds](https://github.com/osic/osic-clouds) - Docs and more about each of the clouds.
 - [docker-systemd](https://github.com/solita/docker-systemd) - systemd-enabled versions of Docker base images
-- [fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell.
+- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for fish—the friendly interactive shell.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
@@ -926,6 +930,8 @@
 
 ## TypeScript 
 
+- [mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
+- [vscode-promql](https://github.com/redhat-developer/vscode-promql) - This is supposed to become a PromQL extension for vs code.
 - [CloudFlow](https://github.com/nokia/CloudFlow) - A workflow visualization tool for OpenStack Mistral (https://github.com/openstack/mistral)
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [iam-policy-generator](https://github.com/aletheia/iam-policy-generator) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
@@ -938,6 +944,7 @@
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 
@@ -955,6 +962,7 @@
 
 ## Vim script 
 
+- [bluewery.vim](https://github.com/relastle/bluewery.vim) - :small_blue_diamond: Blue-based vim colorscheme :beer:
 - [onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 - [miramare](https://github.com/franbach/miramare) - :maple_leaf: Comfortable & Pleasant Color Scheme for Vim
 - [lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm
@@ -975,7 +983,7 @@
 
 - [praeco](https://github.com/johnsusek/praeco) - Elasticsearch alerting made simple.
 - [faythe-ui](https://github.com/vCloud-DFTBA/faythe-ui) - Interactive UI for faythe
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
