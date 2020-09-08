@@ -508,6 +508,7 @@
 
 ## Python 
 
+- [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and tax reporting application that respects your privacy
 - [monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
