@@ -14,6 +14,7 @@
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
+  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -82,7 +83,7 @@
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [digikam](https://github.com/KDE/digikam) - digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
 - [termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
-- [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
@@ -113,6 +114,7 @@
 
 ## Go 
 
+- [gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
 - [installer](https://github.com/openshift/installer) - Install an OpenShift 4.x cluster
 - [promlinter](https://github.com/yeya24/promlinter) - 
 - [agent](https://github.com/grafana/agent) - A lightweight subset of Prometheus and more, optimized for Grafana Cloud
@@ -168,7 +170,7 @@
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go Study Guide
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
@@ -243,7 +245,7 @@
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
-- [dep](https://github.com/golang/dep) - Go dependency management tool
+- [dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 - [ibus-teni](https://github.com/teni-ime/ibus-teni) - Bộ gõ tiếng Việt cho Linux chạy trên IBus
@@ -304,8 +306,13 @@
 - [notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [kbe](https://github.com/openshift-evangelists/kbe) - Kubernetes By Example
 - [openstack-doc-migration-burndown](https://github.com/dhellmann/openstack-doc-migration-burndown) - 
-- [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+- [kolla](https://github.com/openstack/kolla) - Kolla provides production-ready containers and deployment tools for operating OpenStack clouds. Mirror of code maintained at opendev.org.
+
+## Handlebars 
+
+- [electronjs.org](https://github.com/electron/electronjs.org) - Electron website
 
 ## Haskell 
 
@@ -610,7 +617,6 @@
 - [hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [pyformance](https://github.com/omergertel/pyformance) - Performance metrics, based on Coda Hale's Yammer metrics
-- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework: deprecated
 - [shade](https://github.com/openstack/shade) - Client library for OpenStack containing Infra business logic. Mirror of code maintained at opendev.org.
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
@@ -810,7 +816,6 @@
 - [dockerizing-django](https://github.com/realpython/dockerizing-django) - 
 - [ubuntu-recentquicklists](https://github.com/thirschbuechler/ubuntu-recentquicklists) - This script adds recent files to the right-click on the unity-dash's launchers (taskbar program icons)
 - [magnum](https://github.com/openstack/magnum) - Container Infrastructure Management Service for OpenStack. Mirror of code maintained at opendev.org.
-- [kolla](https://github.com/openstack/kolla) - Kolla provides production-ready containers and deployment tools for operating OpenStack clouds. Mirror of code maintained at opendev.org.
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -839,7 +844,7 @@
 - [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
-- [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast router for building observability pipelines
+- [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast binary for building observability pipelines
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -856,6 +861,7 @@
 
 ## Shell 
 
+- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [aviary.sh](https://github.com/team-video/aviary.sh) - Minimal distributed configuration management in bash
 - [documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
