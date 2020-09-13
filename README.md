@@ -35,7 +35,6 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Smarty](#smarty)
-  - [TSQL](#tsql)
   - [TypeScript](#typescript)
   - [V](#v)
   - [Vala](#vala)
@@ -109,6 +108,7 @@
 
 ## Dockerfile 
 
+- [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [termite-install](https://github.com/Corwind/termite-install) - A termite installation script for Ubuntu users (and other Ubuntu-based distributions)
 
@@ -178,7 +178,6 @@
 - [fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [bomb-squad](https://github.com/open-fresh/bomb-squad) - Automatic detection and silencing of high cardinality series in Prometheus.
-- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
@@ -234,7 +233,7 @@
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [go-git](https://github.com/src-d/go-git) - Projects has been moved to:
+- [go-git](https://github.com/src-d/go-git) - Project has been moved to: https://github.com/go-git/go-git
 - [linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
@@ -329,7 +328,7 @@
 - [Chord-Implementation](https://github.com/netharis/Chord-Implementation) - Chord Implementation for Distributed Systems Course
 - [sync-service](https://github.com/stacksync/sync-service) - [DISCONTINUED] StackSync's synchronization service
 - [cloudify](https://github.com/CloudifySource/cloudify) - Cloud-enablement platform that on-boards applications to public and private clouds without architectural or code changes
-- [che](https://github.com/eclipse/che) - Eclipse Che: Next-generation Eclipse IDE.  Open source workspace server and cloud IDE.
+- [che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 
 ## JavaScript 
 
@@ -387,7 +386,6 @@
 - [basics](https://github.com/madewithml/basics) - 📚 Learn ML with clean code, simplified math and illustrative visuals.
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
-- [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
 - [TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos
 - [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
 - [100days](https://github.com/coells/100days) - 100 days of algorithms
@@ -508,6 +506,8 @@
 
 ## Python 
 
+- [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
+- [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python
 - [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and tax reporting application that respects your privacy
@@ -583,6 +583,7 @@
 - [topy](https://github.com/intgr/topy) - Python script to fix typos in text, based on the RegExTypoFix project from Wikipedia and AutoWikiBrowser
 - [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
 - [shinken](https://github.com/naparuba/shinken) - Flexible and scalable monitoring framework
 - [rpc-maas](https://github.com/rcbops/rpc-maas) - Ansible playbooks for deploying Rackspace Monitoring-as-a-Service within Openstack Environments
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
@@ -931,10 +932,6 @@
 ## Smarty 
 
 - [containerum](https://github.com/containerum/containerum) - Web UI for Kubernetes with teamwork and CI/CD support
-
-## TSQL 
-
-- [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 
 ## TypeScript 
 
