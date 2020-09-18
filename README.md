@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
 - [installer](https://github.com/openshift/installer) - Install an OpenShift 4.x cluster
 - [promlinter](https://github.com/yeya24/promlinter) - 
@@ -253,7 +254,7 @@
 - [unsee](https://github.com/cloudflare/unsee) - Alert dashboard for Prometheus Alertmanager
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [ceph_exporter](https://github.com/digitalocean/ceph_exporter) - Prometheus exporter that scrapes meta information about a ceph cluster.
-- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
 - [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -416,7 +417,6 @@
 - [til](https://github.com/thoughtbot/til) - Today I Learned
 - [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [prometheus-config](https://github.com/alerta/prometheus-config) - Prometheus config for Alerta
-- [rainbowie](https://github.com/druskus20/rainbowie) - My personal theme for oh-my-zsh
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
 - [prometheus-example-queries](https://github.com/infinityworks/prometheus-example-queries) - Simple place for people to provide examples of queries they've found useful.
@@ -506,6 +506,7 @@
 
 ## Python 
 
+- [flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python
 - [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -762,7 +763,7 @@
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [gosync](https://github.com/hschauhan/gosync) - An Opensource Google Drive client written in Python
 - [pootle](https://github.com/translate/pootle) - Online translation tool
-- [dropbox-sdk-python](https://github.com/dropbox/dropbox-sdk-python) - Python SDK for Dropbox API v2.
+- [dropbox-sdk-python](https://github.com/dropbox/dropbox-sdk-python) - The Official Dropbox API V2 SDK for Python
 - [python-chord](https://github.com/gaston770/python-chord) - Python implementation of Chord DHT
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [pyup](https://github.com/pyupio/pyup) - A tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
@@ -846,7 +847,7 @@
 - [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
-- [vector](https://github.com/timberio/vector) - A lightweight and ultra-fast binary for building observability pipelines
+- [vector](https://github.com/timberio/vector) - High-performance, vendor-neutral observability pipelines.
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
