@@ -31,6 +31,7 @@
   - [QML](#qml)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -100,7 +101,6 @@
 - [United-GNOME](https://github.com/godlyranchdressing/United-GNOME) - GTK2/3 + GNOME Shell theme based on a Ubuntu 18.04 design concept.
 - [macOS](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops
 - [paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) - Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Dart 
 
@@ -111,18 +111,21 @@
 - [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [termite-install](https://github.com/Corwind/termite-install) - A termite installation script for Ubuntu users (and other Ubuntu-based distributions)
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 
 ## Go 
 
+- [govcl](https://github.com/ying32/govcl) - Cross-platform Golang GUI library.
+- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
 - [installer](https://github.com/openshift/installer) - Install an OpenShift 4.x cluster
 - [promlinter](https://github.com/yeya24/promlinter) - 
 - [agent](https://github.com/grafana/agent) - A lightweight subset of Prometheus and more, optimized for Grafana Cloud
-- [fiber](https://github.com/gofiber/fiber) - ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
+- [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
-- [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
 - [font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.
 - [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -162,7 +165,7 @@
 - [go-syslog](https://github.com/influxdata/go-syslog) - Blazing fast syslog parser
 - [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 - [promviz](https://github.com/nghialv/promviz) - Visualize the traffic of your clusters in realtime from Prometheus data
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
 - [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data
@@ -197,7 +200,7 @@
 - [retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 - [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
 - [easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
-- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [circuit](https://github.com/cep21/circuit) - An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -254,7 +257,7 @@
 - [unsee](https://github.com/cloudflare/unsee) - Alert dashboard for Prometheus Alertmanager
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) - Bot for Prometheus' Alertmanager
 - [ceph_exporter](https://github.com/digitalocean/ceph_exporter) - Prometheus exporter that scrapes meta information about a ceph cluster.
-- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -301,12 +304,13 @@
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [swarmstack](https://github.com/swarmstack/swarmstack) - A Docker swarm-based starting point for operating highly-available containerized applications.
 - [KeepIt](https://github.com/Fastbyte01/KeepIt) - The most powerful minimal Hugo theme.
-- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
+- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [notes](https://github.com/shichao-an/notes) - Shichao's Notes
 - [kbe](https://github.com/openshift-evangelists/kbe) - Kubernetes By Example
 - [openstack-doc-migration-burndown](https://github.com/dhellmann/openstack-doc-migration-burndown) - 
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+- [browbeat](https://github.com/cloud-bulldozer/browbeat) - Performance monitoring and testing of OpenStack
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [kolla](https://github.com/openstack/kolla) - Kolla provides production-ready containers and deployment tools for operating OpenStack clouds. Mirror of code maintained at opendev.org.
 
@@ -324,7 +328,6 @@
 - [centraldogma](https://github.com/line/centraldogma) - Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2
 - [elasticsearch-prometheus-exporter](https://github.com/vvanholl/elasticsearch-prometheus-exporter) - Prometheus exporter plugin for Elasticsearch
 - [helios](https://github.com/spotify/helios) - Docker container orchestration platform
-- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
 - [Chord-Implementation](https://github.com/netharis/Chord-Implementation) - Chord Implementation for Distributed Systems Course
 - [sync-service](https://github.com/stacksync/sync-service) - [DISCONTINUED] StackSync's synchronization service
@@ -333,9 +336,9 @@
 
 ## JavaScript 
 
+- [themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
 - [elasticsearch-head](https://github.com/mobz/elasticsearch-head) - A web front end for an elastic search cluster
-- [grafana-diagram](https://github.com/jdbranham/grafana-diagram) - 
 - [hugo-notepadium](https://github.com/cntrump/hugo-notepadium) - a fast gohugo theme, 100% JavaScript-free.
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -343,6 +346,7 @@
 - [codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [prometheus-for-developers](https://github.com/danielfm/prometheus-for-developers) - Practical introduction to Prometheus for developers.
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -481,6 +485,7 @@
 - [hpcc-know-how](https://github.com/HPCC-Cloud-Computing/hpcc-know-how) - Đây là repository chứa các tìm hiểu về OpenStack của nhóm Cloud Bách Khoa Hà Nội.
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ansible-pacemaker](https://github.com/nguyenduybinh/ansible-pacemaker) - 
+- [os-loganalyze](https://github.com/openstack-archive/os-loganalyze) - Log analyzer tools for logs.openstack.org. Mirror of code maintained at opendev.org.
 
 ## PHP 
 
@@ -496,6 +501,7 @@
 
 ## Perl 
 
+- [the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
 - [sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 - [weed](https://github.com/ronilaukkarinen/weed) - Heavily Xchat inspired beautiful irssi theme.
@@ -506,6 +512,9 @@
 
 ## Python 
 
+- [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) - The Paperplane userbot project - a Telegram userbot helping to improve your Telegram experience. https://t.me/tgpaperplane
+- [UniBorg](https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon
+- [Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
 - [flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python
@@ -520,11 +529,11 @@
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
-- [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
+- [zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
 - [dagda](https://github.com/eliasgranderubio/dagda) - a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
-- [matter](https://github.com/mateosss/matter) - Material Design Inspired Grub Theme
+- [matter](https://github.com/mateosss/matter) - Customizable GRUB theme inspired by Material Design
 - [pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [undocker](https://github.com/larsks/undocker) - 
 - [dockerize](https://github.com/larsks/dockerize) - A tool for creating minimal docker images from dynamic ELF binaries.
@@ -543,7 +552,7 @@
 - [doorman](https://github.com/mwielgoszewski/doorman) - an osquery fleet manager
 - [zentral](https://github.com/zentralopensource/zentral) - Zentral is an open-source solution for infrastructure monitoring and endpoint event stream processing. It provides build-in orchestration of macOS security components (Santa, Osquery, et-al.), event correlation and event management. It consolidates its features with various data store backends (ElasticStack, Azure Log Analytics, Splunk, et-al.).
 - [pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
-- [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's Plugins, Generate Awesome Statistics and Optimize Vim Startup Time
+- [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's plugins, generate awesome statistics and optimize Vim startup time
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio
@@ -556,10 +565,11 @@
 - [the-monitor](https://github.com/DataDog/the-monitor) - Markdown files for Datadog's long-form blog posts: https://www.datadoghq.com/blog/
 - [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 - [mu](https://github.com/mu-editor/mu) - A small, simple editor for beginner Python programmers. Written in Python and Qt5.
-- [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
+- [pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [kcli](https://github.com/karmab/kcli) - Management tool for libvirt/aws/gcp/kubevirt/openstack/ovirt/vsphere/packet
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
@@ -567,7 +577,8 @@
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [TelegramTUI](https://github.com/vtr0n/TelegramTUI) - Telegram client on your terminal
 - [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [thug-memes](https://github.com/jerry-git/thug-memes) - Command line Thug Meme generator written in Python
@@ -666,7 +677,6 @@
 - [potion](https://github.com/biosustain/potion) - Flask-Potion is a RESTful API framework for Flask and SQLAlchemy, Peewee or MongoEngine
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [django-autofixture](https://github.com/gregmuellegger/django-autofixture) - Can create auto-generated test data.
@@ -675,7 +685,7 @@
 - [errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [limbo](https://github.com/llimllib/limbo) - A simple, clean, easy to modify Slack chatbot
 - [slacker-asyncio](https://github.com/gfreezy/slacker-asyncio) - Full-featured Python interface for the Slack API
-- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Developer Kit for Python
+- [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [slacker](https://github.com/os/slacker) - Full-featured Python interface for the Slack API
 - [weirdo](https://github.com/rdo-infra/weirdo) - It's not weird if it works.
 - [kazam](https://github.com/hzbd/kazam) - A screencasting program created with design in mind.(https://launchpad.net/kazam)
@@ -685,7 +695,6 @@
 - [grequests](https://github.com/spyoungtech/grequests) - Requests + Gevent = &lt;3
 - [requests-futures](https://github.com/ross/requests-futures) - Asynchronous Python HTTP Requests for Humans using Futures
 - [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack (https://slack.com).
-- [browbeat](https://github.com/cloud-bulldozer/browbeat) - Performance monitoring and testing of OpenStack
 - [kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
 - [heat-convergence-prototype](https://github.com/zaneb/heat-convergence-prototype) - A Prototype for Heat's new "convergence" architecture
 - [python-daemon](https://github.com/serverdensity/python-daemon) - Python daemonizer for Unix, Linux and OS X
@@ -741,7 +750,7 @@
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [eventlet](https://github.com/eventlet/eventlet) - Concurrent networking library for Python
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python
-- [django-filer](https://github.com/divio/django-filer) - File and Image Management Application for django
+- [django-filer](https://github.com/django-cms/django-filer) - File and Image Management Application for django
 - [vort-larb](https://github.com/sarahhagstrom/vort-larb) - The sample code for my django-allauth tutorial: http://www.sarahhagstrom.com/2013/09/the-missing-django-allauth-tutorial/
 - [django-activeurl](https://github.com/hellysmile/django-activeurl) - Easy-to-use active URL highlighting for Django
 - [demo-allauth-bootstrap](https://github.com/aellerton/demo-allauth-bootstrap) - Django sample app with users including social auth via Django-AllAuth
@@ -815,19 +824,18 @@
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [gdrivesync](https://github.com/socrateslee/gdrivesync) - A python tools to sync files in local directory to google drive.
 - [google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
-- [PyDrive](https://github.com/gsuitedevs/PyDrive) - Google Drive API Python wrapper library
+- [PyDrive](https://github.com/googleworkspace/PyDrive) - Google Drive API Python wrapper library
 - [dockerizing-django](https://github.com/realpython/dockerizing-django) - 
 - [ubuntu-recentquicklists](https://github.com/thirschbuechler/ubuntu-recentquicklists) - This script adds recent files to the right-click on the unity-dash's launchers (taskbar program icons)
 - [magnum](https://github.com/openstack/magnum) - Container Infrastructure Management Service for OpenStack. Mirror of code maintained at opendev.org.
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack. Mirror of code maintained at opendev.org.
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [CAL](https://github.com/HPCC-Cloud-Computing/CAL) - CAL - Cloud Abstract Layer framework proto-type
-- [os-loganalyze](https://github.com/openstack/os-loganalyze) - Log analyzer tools for logs.openstack.org. Mirror of code maintained at opendev.org.
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 
 ## QML 
@@ -853,6 +861,10 @@
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [codedaily-v3](https://github.com/huytd/codedaily-v3) - 
+
+## SCSS 
+
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Scala 
 
@@ -917,7 +929,7 @@
 - [openstack-newton-installer-centos7](https://github.com/tigerlinux/openstack-newton-installer-centos7) - Unattended/Semi-Automated OpenStack NEWTON Installer for Centos 7
 - [training-labs](https://github.com/openstack/training-labs) - Deploy multi node OpenStack on Virtual Machines. Mirror of code maintained at opendev.org.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-- [zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles (under development, not ready for production)
+- [zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
 - [openstack-disaster-recovery](https://github.com/nec-soft/openstack-disaster-recovery) - 
 - [ghichep-OpenStack](https://github.com/hocchudong/ghichep-OpenStack) - 
 - [zimfw](https://github.com/zimfw/zimfw) - Zsh IMproved FrameWork
@@ -939,11 +951,10 @@
 - [mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
 - [vscode-promql](https://github.com/redhat-developer/vscode-promql) - This is supposed to become a PromQL extension for vs code.
 - [CloudFlow](https://github.com/nokia/CloudFlow) - A workflow visualization tool for OpenStack Mistral (https://github.com/openstack/mistral)
+- [grafana-diagram](https://github.com/jdbranham/grafana-diagram) - A Grafana plugin to visualize metrics in a diagram using flow charts, gantt charts, sequence diagrams, or class diagrams
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [iam-policy-generator](https://github.com/aletheia/iam-policy-generator) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
@@ -989,7 +1000,7 @@
 
 - [praeco](https://github.com/johnsusek/praeco) - Elasticsearch alerting made simple.
 - [faythe-ui](https://github.com/vCloud-DFTBA/faythe-ui) - Interactive UI for faythe
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
