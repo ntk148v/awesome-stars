@@ -116,7 +116,7 @@
 ## Go 
 
 - [govcl](https://github.com/ying32/govcl) - Cross-platform Golang GUI library.
-- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
+- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Read the content of your torrent files before fully download them!
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
 - [installer](https://github.com/openshift/installer) - Install an OpenShift 4.x cluster
