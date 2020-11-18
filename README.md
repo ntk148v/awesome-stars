@@ -514,6 +514,7 @@
 
 ## Python 
 
+- [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
 - [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) - The Paperplane userbot project - a Telegram userbot helping to improve your Telegram experience. https://t.me/tgpaperplane
