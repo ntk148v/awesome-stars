@@ -115,8 +115,9 @@
 
 ## Go 
 
+- [comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
 - [govcl](https://github.com/ying32/govcl) - Cross-platform Golang GUI library.
-- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Read the content of your torrent files before fully download them!
+- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
 - [installer](https://github.com/openshift/installer) - Install an OpenShift 4.x cluster
@@ -125,7 +126,7 @@
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
-- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development, IoT, edge and p2p.
 - [font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.
 - [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -176,7 +177,7 @@
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
-- [bild](https://github.com/anthonynsimon/bild) - A collection of parallel image processing algorithms in pure Go
+- [bild](https://github.com/anthonynsimon/bild) - Image processing algorithms in pure Go
 - [go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
@@ -512,6 +513,8 @@
 
 ## Python 
 
+- [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
 - [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) - The Paperplane userbot project - a Telegram userbot helping to improve your Telegram experience. https://t.me/tgpaperplane
 - [UniBorg](https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon
 - [Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
@@ -798,6 +801,7 @@
 - [skyline](https://github.com/etsy/skyline) - It'll detect your anomalies! Part of the Kale stack.
 - [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - scikit-learn model evaluation made easy: plots, tables and markdown reports.
 - [ec2-api](https://github.com/openstack/ec2-api) - AWS EC2 and VPC API support in standalone service for OpenStack. Mirror of code maintained at opendev.org.
+- [openstack-ansible-galera_server](https://github.com/openstack/openstack-ansible-galera_server) - Role galera_server for OpenStack-Ansible. Mirror of code maintained at opendev.org.
 - [data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs
 - [bilyric](https://github.com/cuongnb14/bilyric) - dual subtitles for song
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
@@ -831,7 +835,7 @@
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [tripleo-heat-templates](https://github.com/openstack/tripleo-heat-templates) - Heat templates for deploying OpenStack. Mirror of code maintained at opendev.org.
 - [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
@@ -855,7 +859,7 @@
 - [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systemes
-- [vector](https://github.com/timberio/vector) - High-performance, vendor-neutral observability pipelines.
+- [vector](https://github.com/timberio/vector) - A high-performance, end-to-end observability data platform.
 - [habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -913,7 +917,7 @@
 - [presentations](https://github.com/zaneb/presentations) - Source for various presentations (one per branch)
 - [osic-clouds](https://github.com/osic/osic-clouds) - Docs and more about each of the clouds.
 - [docker-systemd](https://github.com/solita/docker-systemd) - systemd-enabled versions of Docker base images
-- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for fish—the friendly interactive shell.
+- [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish—the friendly interactive shell.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
@@ -937,7 +941,6 @@
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
-- [openstack-ansible-galera_server](https://github.com/openstack/openstack-ansible-galera_server) - Role galera_server for OpenStack-Ansible. Mirror of code maintained at opendev.org.
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Web-page-classification](https://github.com/kahliloppenheimer/Web-page-classification) - Classifies webpages into categories defined in DMOZ dataset
 - [osp-ha-deploy](https://github.com/beekhof/osp-ha-deploy) - scripts for deploying a HA install of OSP
@@ -948,6 +951,8 @@
 
 ## TypeScript 
 
+- [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
+- [dockta](https://github.com/stencila/dockta) - 🐳 A Docker image builder for researchers
 - [mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
 - [vscode-promql](https://github.com/redhat-developer/vscode-promql) - This is supposed to become a PromQL extension for vs code.
 - [CloudFlow](https://github.com/nokia/CloudFlow) - A workflow visualization tool for OpenStack Mistral (https://github.com/openstack/mistral)
@@ -979,6 +984,7 @@
 
 ## Vim script 
 
+- [vim-colors-plain](https://github.com/andreypopp/vim-colors-plain) - Minimal colorscheme for vim
 - [bluewery.vim](https://github.com/relastle/bluewery.vim) - :small_blue_diamond: Blue-based vim colorscheme :beer:
 - [onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 - [miramare](https://github.com/franbach/miramare) - :maple_leaf: Comfortable & Pleasant Color Scheme for Vim
