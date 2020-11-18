@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [crowdsec](https://github.com/crowdsecurity/crowdsec) - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
 - [comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
 - [govcl](https://github.com/ying32/govcl) - Cross-platform Golang GUI library.
 - [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
