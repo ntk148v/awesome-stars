@@ -70,7 +70,7 @@
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
-- [snoopy](https://github.com/a2o/snoopy) - Log every executed command to syslog (a.k.a. Snoopy Logger).
+- [snoopy](https://github.com/a2o/snoopy) - Snoopy is a small library that logs all program executions on your Linux/BSD system (a.k.a. Snoopy Logger).
 - [MT7630E](https://github.com/neurobin/MT7630E) - Modified easy installation package
 
 ## C++ 
@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [crowdsec](https://github.com/crowdsecurity/crowdsec) - Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.
 - [comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
 - [govcl](https://github.com/ying32/govcl) - Cross-platform Golang GUI library.
@@ -331,7 +332,7 @@
 - [elasticsearch-prometheus-exporter](https://github.com/vvanholl/elasticsearch-prometheus-exporter) - Prometheus exporter plugin for Elasticsearch
 - [helios](https://github.com/spotify/helios) - Docker container orchestration platform
 - [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
-- [Chord-Implementation](https://github.com/netharis/Chord-Implementation) - Chord Implementation for Distributed Systems Course
+- [Chord-Implementation](https://github.com/hfokas/Chord-Implementation) - Chord Implementation for Distributed Systems Course
 - [sync-service](https://github.com/stacksync/sync-service) - [DISCONTINUED] StackSync's synchronization service
 - [cloudify](https://github.com/CloudifySource/cloudify) - Cloud-enablement platform that on-boards applications to public and private clouds without architectural or code changes
 - [che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
