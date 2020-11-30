@@ -49,6 +49,7 @@
 
 ## C 
 
+- [fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm.
 - [mmwm](https://github.com/kaugm/mmwm) - Modern Minimalistic Window Manager
@@ -115,6 +116,7 @@
 
 ## Go 
 
+- [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [gatus](https://github.com/TwinProduction/gatus) - ⛑ Gatus - Automated service health dashboard
 - [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
@@ -130,7 +132,7 @@
 - [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
-- [nitro](https://github.com/asim/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
+- [nitro](https://github.com/gonitro/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
 - [font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.
 - [upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -330,6 +332,7 @@
 
 ## Java 
 
+- [bitsnpicas](https://github.com/kreativekorp/bitsnpicas) - Bits'N'Picas - Bitmap & Emoji Font Creation & Conversion Tools
 - [centraldogma](https://github.com/line/centraldogma) - Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2
 - [elasticsearch-prometheus-exporter](https://github.com/vvanholl/elasticsearch-prometheus-exporter) - Prometheus exporter plugin for Elasticsearch
 - [helios](https://github.com/spotify/helios) - Docker container orchestration platform
@@ -417,6 +420,7 @@
 
 ## Others 
 
+- [python-parsing-tools](https://github.com/webmaven/python-parsing-tools) - A list of Python parsing tools
 - [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 - [base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -528,7 +532,7 @@
 - [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python
 - [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and tax reporting application that respects your privacy
+- [rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and tax reporting application that protects your privacy
 - [monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [openstack-workflow](https://github.com/int32bit/openstack-workflow) - Openstack Sequence Diagrams(Openstack操作序列图)
 - [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
@@ -885,6 +889,7 @@
 
 ## Shell 
 
+- [gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [aviary.sh](https://github.com/team-video/aviary.sh) - Minimal distributed configuration management in bash
 - [documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
