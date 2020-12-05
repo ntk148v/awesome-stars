@@ -43,13 +43,13 @@
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
-## Batchfile 
+## Batchfile (2)
 
 | Index |     Name     |               Repository URL               |                     Description                      |
 |------:|--------------|--------------------------------------------|------------------------------------------------------|
 |     1 | python-guide | https://github.com/realpython/python-guide | Python best practices guidebook, written for humans. |
 
-## C 
+## C (25)
 
 | Index |                  Name                   |                            Repository URL                            |                                                                                                 Description                                                                                                  |
 |------:|-----------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -78,7 +78,7 @@
 |    23 | snoopy                                  | https://github.com/a2o/snoopy                                        | Snoopy is a small library that logs all program executions on your Linux/BSD system (a.k.a. Snoopy Logger).                                                                                                  |
 |    24 | MT7630E                                 | https://github.com/neurobin/MT7630E                                  | Modified easy installation package                                                                                                                                                                           |
 
-## C++ 
+## C++ (14)
 
 | Index |            Name             |                     Repository URL                      |                                                                                                                Description                                                                                                                |
 |------:|-----------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -96,7 +96,7 @@
 |    12 | cmder                       | https://github.com/cmderdev/cmder                       | Lovely console emulator package for Windows                                                                                                                                                                                               |
 |    13 | Natural-Processing-Language | https://github.com/LamLuong/Natural-Processing-Language | Word Predict                                                                                                                                                                                                                              |
 
-## CSS 
+## CSS (11)
 
 | Index |        Name         |                     Repository URL                     |                                                                                      Description                                                                                      |
 |------:|---------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -111,13 +111,13 @@
 |     9 | macOS               | https://github.com/B00merang-Project/macOS             | macOS theme for Gnome and GTK-based desktops                                                                                                                                          |
 |    10 | paper-dashboard     | https://github.com/creativetimofficial/paper-dashboard | Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.                                                      |
 
-## Dart 
+## Dart (2)
 
 | Index |  Name   |           Repository URL           |                                  Description                                  |
 |------:|---------|------------------------------------|-------------------------------------------------------------------------------|
 |     1 | flutter | https://github.com/flutter/flutter | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
 
-## Dockerfile 
+## Dockerfile (5)
 
 | Index |      Name       |               Repository URL               |                                      Description                                       |
 |------:|-----------------|--------------------------------------------|----------------------------------------------------------------------------------------|
@@ -126,7 +126,7 @@
 |     3 | termite-install | https://github.com/Corwind/termite-install | A termite installation script for Ubuntu users (and other Ubuntu-based distributions)  |
 |     4 | keras           | https://github.com/keras-team/keras        | Deep Learning for humans                                                               |
 
-## Go 
+## Go (186)
 
 | Index |          Name          |                      Repository URL                      |                                                                                                                                 Description                                                                                                                                  |
 |------:|------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -316,14 +316,14 @@
 |   184 | vault                  | https://github.com/hashicorp/vault                       | A tool for secrets management, encryption as a service, and privileged access management                                                                                                                                                                                     |
 |   185 | weave                  | https://github.com/weaveworks/weave                      | Simple, resilient multi-host containers networking and more.                                                                                                                                                                                                                 |
 
-## Groovy 
+## Groovy (3)
 
 | Index |         Name         |                  Repository URL                  |                                               Description                                                |
 |------:|----------------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 |     1 | rundeck              | https://github.com/rundeck/rundeck               | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
 |     2 | gradle-docker-plugin | https://github.com/bmuschko/gradle-docker-plugin | Gradle plugin for managing Docker images and containers.                                                 |
 
-## HTML 
+## HTML (14)
 
 | Index |               Name               |                        Repository URL                         |                                                                Description                                                                |
 |------:|----------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -341,20 +341,20 @@
 |    12 | electron-api-demos               | https://github.com/electron/electron-api-demos                | Explore the Electron APIs                                                                                                                 |
 |    13 | kolla                            | https://github.com/openstack/kolla                            | Kolla provides production-ready containers and deployment tools for operating OpenStack clouds. Mirror of code maintained at opendev.org. |
 
-## Handlebars 
+## Handlebars (2)
 
 | Index |      Name      |               Repository URL               |   Description    |
 |------:|----------------|--------------------------------------------|------------------|
 |     1 | electronjs.org | https://github.com/electron/electronjs.org | Electron website |
 
-## Haskell 
+## Haskell (3)
 
 | Index |    Name    |             Repository URL             |                             Description                             |
 |------:|------------|----------------------------------------|---------------------------------------------------------------------|
 |     1 | shellcheck | https://github.com/koalaman/shellcheck | ShellCheck, a static analysis tool for shell scripts                |
 |     2 | semantic   | https://github.com/github/semantic     | Parsing, analyzing, and comparing source code across many languages |
 
-## Java 
+## Java (10)
 
 | Index |               Name                |                        Repository URL                         |                                                       Description                                                        |
 |------:|-----------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
@@ -368,7 +368,7 @@
 |     8 | cloudify                          | https://github.com/CloudifySource/cloudify                    | Cloud-enablement platform that on-boards applications to public and private clouds without architectural or code changes |
 |     9 | che                               | https://github.com/eclipse/che                                | The Kubernetes-Native IDE for Developer Teams                                                                            |
 
-## JavaScript 
+## JavaScript (45)
 
 | Index |                Name                |                           Repository URL                            |                                                                     Description                                                                     |
 |------:|------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -417,13 +417,13 @@
 |    43 | algorithm-visualizer               | https://github.com/algorithm-visualizer/algorithm-visualizer        | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code                                                                         |
 |    44 | bioinformatics-dashboard           | https://github.com/HPCC-Cloud-Computing/bioinformatics-dashboard    | Bioinformatics Dashboard                                                                                                                            |
 
-## Jsonnet 
+## Jsonnet (2)
 
 | Index |   Name   |            Repository URL            |               Description               |
 |------:|----------|--------------------------------------|-----------------------------------------|
 |     1 | kubeflow | https://github.com/kubeflow/kubeflow | Machine Learning Toolkit for Kubernetes |
 
-## Jupyter Notebook 
+## Jupyter Notebook (9)
 
 | Index |             Name             |                    Repository URL                     |                                                 Description                                                 |
 |------:|------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -436,14 +436,14 @@
 |     7 | python3-in-one-pic           | https://github.com/coodict/python3-in-one-pic         | Learn python3 in one picture.                                                                               |
 |     8 | pydata-book                  | https://github.com/wesm/pydata-book                   | Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media |
 
-## Lua 
+## Lua (3)
 
 | Index |   Name   |            Repository URL            |                                   Description                                   |
 |------:|----------|--------------------------------------|---------------------------------------------------------------------------------|
 |     1 | articles | https://github.com/jaypipes/articles | Collection of articles written for publication on my blog or elsewhere          |
 |     2 | lsyncd   | https://github.com/axkibe/lsyncd     | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets |
 
-## Makefile 
+## Makefile (7)
 
 | Index |            Name            |                      Repository URL                       |                                                   Description                                                    |
 |------:|----------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -454,7 +454,7 @@
 |     5 | provision_docker           | https://github.com/chrismeyersfsu/provision_docker        | Test Ansible roles and playbooks using Docker                                                                    |
 |     6 | python-regex-cheatsheet    | https://github.com/tartley/python-regex-cheatsheet        | Python 2.7 Regular Expression cheatsheet, as a restructured text document and Makefile to convert it to PDF      |
 
-## Others 
+## Others (76)
 
 | Index |                         Name                          |                                   Repository URL                                    |                                                                                                                                                                                      Description                                                                                                                                                                                       |
 |------:|-------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -534,7 +534,7 @@
 |    74 | ansible-pacemaker                                     | https://github.com/nguyenduybinh/ansible-pacemaker                                  |                                                                                                                                                                                                                                                                                                                                                                                        |
 |    75 | os-loganalyze                                         | https://github.com/openstack-archive/os-loganalyze                                  | Log analyzer tools for logs.openstack.org. Mirror of code maintained at opendev.org.                                                                                                                                                                                                                                                                                                   |
 
-## PHP 
+## PHP (6)
 
 | Index |        Name        |               Repository URL                |                                                 Description                                                 |
 |------:|--------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -544,13 +544,13 @@
 |     4 | astral             | https://github.com/astralapp/astral         | Organize Your GitHub Stars With Ease                                                                        |
 |     5 | labs               | https://github.com/docker/labs              | This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome. |
 
-## Pascal 
+## Pascal (2)
 
 | Index |  Name   |           Repository URL            |     Description     |
 |------:|---------|-------------------------------------|---------------------|
 |     1 | rdpwrap | https://github.com/stascorp/rdpwrap | RDP Wrapper Library |
 
-## Perl 
+## Perl (5)
 
 | Index |      Name      |                Repository URL                 |                                                        Description                                                        |
 |------:|----------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -559,13 +559,13 @@
 |     3 | sysadmin-util  | https://github.com/skx/sysadmin-util          | Tools for Linux/Unix sysadmins.                                                                                           |
 |     4 | weed           | https://github.com/ronilaukkarinen/weed       | Heavily Xchat inspired beautiful irssi theme.                                                                             |
 
-## PowerShell 
+## PowerShell (2)
 
 | Index |      Name      |               Repository URL                |                                     Description                                     |
 |------:|----------------|---------------------------------------------|-------------------------------------------------------------------------------------|
 |     1 | heat-templates | https://github.com/openstack/heat-templates | OpenStack Orchestration (Heat) Templates. Mirror of code maintained at opendev.org. |
 
-## Python 
+## Python (334)
 
 | Index |                         Name                          |                                   Repository URL                                   |                                                                                                                                                                         Description                                                                                                                                                                         |
 |------:|-------------------------------------------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -903,13 +903,13 @@
 |   332 | CAL                                                   | https://github.com/HPCC-Cloud-Computing/CAL                                        | CAL - Cloud Abstract Layer framework proto-type                                                                                                                                                                                                                                                                                                             |
 |   333 | aiohttp                                               | https://github.com/aio-libs/aiohttp                                                | Asynchronous HTTP client/server framework for asyncio and Python                                                                                                                                                                                                                                                                                            |
 
-## QML 
+## QML (2)
 
 | Index |  Name   |                  Repository URL                   |      Description      |
 |------:|---------|---------------------------------------------------|-----------------------|
 |     1 | arc-kde | https://github.com/PapirusDevelopmentTeam/arc-kde | Arc KDE customization |
 
-## Ruby 
+## Ruby (6)
 
 | Index |        Name         |                 Repository URL                  |                                                      Description                                                      |
 |------:|---------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -919,7 +919,7 @@
 |     4 | fake-s3             | https://github.com/jubos/fake-s3                | A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies |
 |     5 | awesome-awesomeness | https://github.com/bayandin/awesome-awesomeness | A curated list of awesome awesomeness                                                                                 |
 
-## Rust 
+## Rust (10)
 
 | Index |     Name     |             Repository URL             |                                         Description                                         |
 |------:|--------------|----------------------------------------|---------------------------------------------------------------------------------------------|
@@ -933,25 +933,25 @@
 |     8 | fd           | https://github.com/sharkdp/fd          | A simple, fast and user-friendly alternative to 'find'                                      |
 |     9 | codedaily-v3 | https://github.com/huytd/codedaily-v3  |                                                                                             |
 
-## SCSS 
+## SCSS (2)
 
 | Index | Name  |           Repository URL           |                 Description                 |
 |------:|-------|------------------------------------|---------------------------------------------|
 |     1 | slate | https://github.com/slatedocs/slate | Beautiful static documentation for your API |
 
-## Scala 
+## Scala (2)
 
 | Index |  Name  |          Repository URL          |                 Description                 |
 |------:|--------|----------------------------------|---------------------------------------------|
 |     1 | FiloDB | https://github.com/filodb/FiloDB | Distributed Prometheus time series database |
 
-## Scheme 
+## Scheme (2)
 
 | Index |     Name      |               Repository URL                |                                                  Description                                                  |
 |------:|---------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 |     1 | LinuxMint18i3 | https://github.com/erikdubois/LinuxMint18i3 | How to install i3 on Linux Mint 18 Cinnamon and copy all my settings in the process to have a awesome desktop |
 
-## Shell 
+## Shell (66)
 
 | Index |                Name                |                          Repository URL                          |                                                                                                                                                                       Description                                                                                                                                                                        |
 |------:|------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1021,13 +1021,13 @@
 |    64 | Web-page-classification            | https://github.com/kahliloppenheimer/Web-page-classification     | Classifies webpages into categories defined in DMOZ dataset                                                                                                                                                                                                                                                                                              |
 |    65 | osp-ha-deploy                      | https://github.com/beekhof/osp-ha-deploy                         | scripts for deploying a HA install of OSP                                                                                                                                                                                                                                                                                                                |
 
-## Smarty 
+## Smarty (2)
 
 | Index |    Name     |               Repository URL               |                      Description                      |
 |------:|-------------|--------------------------------------------|-------------------------------------------------------|
 |     1 | containerum | https://github.com/containerum/containerum | Web UI for Kubernetes with teamwork and CI/CD support |
 
-## TypeScript 
+## TypeScript (19)
 
 | Index |         Name         |                  Repository URL                   |                                                                                                        Description                                                                                                         |
 |------:|----------------------|---------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1050,25 +1050,25 @@
 |    17 | grafana              | https://github.com/grafana/grafana                | The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More                                                                                                             |
 |    18 | etcher               | https://github.com/balena-io/etcher               | Flash OS images to SD cards & USB drives, safely and easily.                                                                                                                                                               |
 
-## V 
+## V (2)
 
 | Index | Name |       Repository URL       |                                                                      Description                                                                       |
 |------:|------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     1 | v    | https://github.com/vlang/v | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io |
 
-## Vala 
+## Vala (2)
 
 | Index |   Name   |            Repository URL            |               Description               |
 |------:|----------|--------------------------------------|-----------------------------------------|
 |     1 | bookworm | https://github.com/babluboy/bookworm | A simple ebook reader for Elementary OS |
 
-## Vim Snippet 
+## Vim Snippet (2)
 
 | Index |  Name  |         Repository URL          | Description |
 |------:|--------|---------------------------------|-------------|
 |     1 | hpclab | https://github.com/tu-pm/hpclab |             |
 
-## Vim script 
+## Vim script (18)
 
 | Index |        Name        |                 Repository URL                  |                                                           Description                                                           |
 |------:|--------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -1090,7 +1090,7 @@
 |    16 | vim-plug           | https://github.com/junegunn/vim-plug            | :hibiscus: Minimalist Vim Plugin Manager                                                                                        |
 |    17 | neovim             | https://github.com/neovim/neovim                | Vim-fork focused on extensibility and usability                                                                                 |
 
-## Vue 
+## Vue (6)
 
 | Index |            Name            |                   Repository URL                    |                                                             Description                                                             |
 |------:|----------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
