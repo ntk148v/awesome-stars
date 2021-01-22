@@ -452,7 +452,8 @@
 
 | Index |   Name   |            Repository URL            |               Description               |
 |------:|----------|--------------------------------------|-----------------------------------------|
-|     1 | kubeflow | https://github.com/kubeflow/kubeflow | Machine Learning Toolkit for Kubernetes |
+|     1 | jsonnet  | https://github.com/google/jsonnet    | Jsonnet - The data templating language  |
+|     2 | kubeflow | https://github.com/kubeflow/kubeflow | Machine Learning Toolkit for Kubernetes |
 
 
 ## Jupyter Notebook 
