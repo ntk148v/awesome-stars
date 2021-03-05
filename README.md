@@ -14,7 +14,6 @@
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
-  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -381,13 +380,6 @@
 |    13 | kolla                            | https://github.com/openstack/kolla                            | Kolla provides production-ready containers and deployment tools for operating OpenStack clouds. Mirror of code maintained at opendev.org. |
 
 
-## Handlebars 
-
-| Index |      Name      |               Repository URL               |   Description    |
-|------:|----------------|--------------------------------------------|------------------|
-|     1 | electronjs.org | https://github.com/electron/electronjs.org | Electron website |
-
-
 ## Haskell 
 
 | Index |    Name    |             Repository URL             |                             Description                             |
@@ -460,8 +452,9 @@
 |    42 | IAMDinosaur                        | https://github.com/ivanseidel/IAMDinosaur                           | 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus                                                                              |
 |    43 | odoo                               | https://github.com/odoo/odoo                                        | Odoo. Open Source Apps To Grow Your Business.                                                                                                       |
 |    44 | hacker-scripts                     | https://github.com/NARKOZ/hacker-scripts                            | Based on a true story                                                                                                                               |
-|    45 | algorithm-visualizer               | https://github.com/algorithm-visualizer/algorithm-visualizer        | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code                                                                         |
-|    46 | bioinformatics-dashboard           | https://github.com/HPCC-Cloud-Computing/bioinformatics-dashboard    | Bioinformatics Dashboard                                                                                                                            |
+|    45 | electronjs.org                     | https://github.com/electron/electronjs.org                          | Electron website                                                                                                                                    |
+|    46 | algorithm-visualizer               | https://github.com/algorithm-visualizer/algorithm-visualizer        | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code                                                                         |
+|    47 | bioinformatics-dashboard           | https://github.com/HPCC-Cloud-Computing/bioinformatics-dashboard    | Bioinformatics Dashboard                                                                                                                            |
 
 
 ## Jsonnet 
