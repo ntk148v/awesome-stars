@@ -14,6 +14,7 @@
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
+  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -381,12 +382,20 @@
 |    14 | kolla                            | https://github.com/openstack/kolla                            | Kolla provides production-ready containers and deployment tools for operating OpenStack clouds. Mirror of code maintained at opendev.org. |
 
 
+## Handlebars 
+
+| Index |      Name      |               Repository URL               |   Description    |
+|------:|----------------|--------------------------------------------|------------------|
+|     1 | electronjs.org | https://github.com/electron/electronjs.org | Electron website |
+
+
 ## Haskell 
 
 | Index |    Name    |             Repository URL             |                             Description                             |
 |------:|------------|----------------------------------------|---------------------------------------------------------------------|
-|     1 | shellcheck | https://github.com/koalaman/shellcheck | ShellCheck, a static analysis tool for shell scripts                |
-|     2 | semantic   | https://github.com/github/semantic     | Parsing, analyzing, and comparing source code across many languages |
+|     1 | hadolint   | https://github.com/hadolint/hadolint   | Dockerfile linter, validate inline bash, written in Haskell         |
+|     2 | shellcheck | https://github.com/koalaman/shellcheck | ShellCheck, a static analysis tool for shell scripts                |
+|     3 | semantic   | https://github.com/github/semantic     | Parsing, analyzing, and comparing source code across many languages |
 
 
 ## Java 
@@ -454,9 +463,8 @@
 |    43 | IAMDinosaur                        | https://github.com/ivanseidel/IAMDinosaur                           | 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus                                                                                          |
 |    44 | odoo                               | https://github.com/odoo/odoo                                        | Odoo. Open Source Apps To Grow Your Business.                                                                                                                   |
 |    45 | hacker-scripts                     | https://github.com/NARKOZ/hacker-scripts                            | Based on a true story                                                                                                                                           |
-|    46 | electronjs.org                     | https://github.com/electron/electronjs.org                          | Electron website                                                                                                                                                |
-|    47 | algorithm-visualizer               | https://github.com/algorithm-visualizer/algorithm-visualizer        | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code                                                                                     |
-|    48 | bioinformatics-dashboard           | https://github.com/HPCC-Cloud-Computing/bioinformatics-dashboard    | Bioinformatics Dashboard                                                                                                                                        |
+|    46 | algorithm-visualizer               | https://github.com/algorithm-visualizer/algorithm-visualizer        | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code                                                                                     |
+|    47 | bioinformatics-dashboard           | https://github.com/HPCC-Cloud-Computing/bioinformatics-dashboard    | Bioinformatics Dashboard                                                                                                                                        |
 
 
 ## Jsonnet 
@@ -1012,7 +1020,7 @@
 |     3 | sudo_pair    | https://github.com/square/sudo_pair    | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions |
 |     4 | gitui        | https://github.com/extrawurst/gitui    | Blazing 💥 fast terminal-ui for git written in rust 🦀                                      |
 |     5 | talent-plan  | https://github.com/pingcap/talent-plan | open source training courses about distributed database and distributed systemes            |
-|     6 | vector       | https://github.com/timberio/vector     | Ultra performant, highly reliable observability data pipeline.                              |
+|     6 | vector       | https://github.com/timberio/vector     | High-performance, high-reliability observability data pipeline.                             |
 |     7 | habitat      | https://github.com/habitat-sh/habitat  | Modern applications with built-in automation                                                |
 |     8 | py-spy       | https://github.com/benfred/py-spy      | Sampling profiler for Python programs                                                       |
 |     9 | bat          | https://github.com/sharkdp/bat         | A cat(1) clone with wings.                                                                  |
