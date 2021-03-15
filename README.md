@@ -1214,7 +1214,7 @@
 |------:|----------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |     1 | praeco                     | https://github.com/johnsusek/praeco                 | Elasticsearch alerting made simple.                                                                                                 |
 |     2 | faythe-ui                  | https://github.com/vCloud-DFTBA/faythe-ui           | Interactive UI for faythe                                                                                                           |
-|     3 | hoppscotch                 | https://github.com/hoppscotch/hoppscotch            | 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io                                   |
+|     3 | hoppscotch                 | https://github.com/hoppscotch/hoppscotch            | 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io                                            |
 |     4 | profile-summary-for-github | https://github.com/tipsy/profile-summary-for-github | Tool for visualizing GitHub profiles                                                                                                |
 |     5 | best-resume-ever           | https://github.com/salomonelli/best-resume-ever     | :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS. |
 
