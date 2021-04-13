@@ -18,6 +18,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Jsonnet](#jsonnet)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
@@ -373,23 +374,21 @@
 
 ## HTML 
 
-| Index |               Name               |                        Repository URL                         |                                                                Description                                                                |
-|------:|----------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-|     1 | distsysbook                      | https://github.com/mixu/distsysbook                           | The book Distributed systems: for fun and profit                                                                                          |
-|     2 | awesome-compose                  | https://github.com/docker/awesome-compose                     | Awesome Docker Compose samples                                                                                                            |
-|     3 | swarmstack                       | https://github.com/swarmstack/swarmstack                      | A Docker swarm-based starting point for operating highly-available containerized applications.                                            |
-|     4 | KeepIt                           | https://github.com/Fastbyte01/KeepIt                          | The most powerful minimal Hugo theme.                                                                                                     |
-|     5 | go101                            | https://github.com/go101/go101                                | An online book focusing on Go syntax/semantics and runtime related things                                                                 |
-|     6 | free-for-dev                     | https://github.com/ripienaar/free-for-dev                     | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev                                           |
-|     7 | notes                            | https://github.com/shichao-an/notes                           | Shichao's Notes                                                                                                                           |
-|     8 | k8s-on-openstack                 | https://github.com/infraly/k8s-on-openstack                   | An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud.                                                           |
-|     9 | kbe                              | https://github.com/openshift-evangelists/kbe                  | Kubernetes By Example                                                                                                                     |
-|    10 | openstack-doc-migration-burndown | https://github.com/dhellmann/openstack-doc-migration-burndown |                                                                                                                                           |
-|    11 | kubespray                        | https://github.com/kubernetes-sigs/kubespray                  | Deploy a Production Ready Kubernetes Cluster                                                                                              |
-|    12 | browbeat                         | https://github.com/cloud-bulldozer/browbeat                   | Performance monitoring and testing of OpenStack                                                                                           |
-|    13 | zimfw                            | https://github.com/zimfw/zimfw                                | Zsh IMproved FrameWork                                                                                                                    |
-|    14 | electron-api-demos               | https://github.com/electron/electron-api-demos                | Explore the Electron APIs                                                                                                                 |
-|    15 | kolla                            | https://github.com/openstack/kolla                            | Kolla provides production-ready containers and deployment tools for operating OpenStack clouds. Mirror of code maintained at opendev.org. |
+| Index |               Name               |                        Repository URL                         |                                           Description                                           |
+|------:|----------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|     1 | distsysbook                      | https://github.com/mixu/distsysbook                           | The book Distributed systems: for fun and profit                                                |
+|     2 | awesome-compose                  | https://github.com/docker/awesome-compose                     | Awesome Docker Compose samples                                                                  |
+|     3 | swarmstack                       | https://github.com/swarmstack/swarmstack                      | A Docker swarm-based starting point for operating highly-available containerized applications.  |
+|     4 | KeepIt                           | https://github.com/Fastbyte01/KeepIt                          | The most powerful minimal Hugo theme.                                                           |
+|     5 | go101                            | https://github.com/go101/go101                                | An online book focusing on Go syntax/semantics and runtime related things                       |
+|     6 | free-for-dev                     | https://github.com/ripienaar/free-for-dev                     | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+|     7 | notes                            | https://github.com/shichao-an/notes                           | Shichao's Notes                                                                                 |
+|     8 | k8s-on-openstack                 | https://github.com/infraly/k8s-on-openstack                   | An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud.                 |
+|     9 | kbe                              | https://github.com/openshift-evangelists/kbe                  | Kubernetes By Example                                                                           |
+|    10 | openstack-doc-migration-burndown | https://github.com/dhellmann/openstack-doc-migration-burndown |                                                                                                 |
+|    11 | browbeat                         | https://github.com/cloud-bulldozer/browbeat                   | Performance monitoring and testing of OpenStack                                                 |
+|    12 | zimfw                            | https://github.com/zimfw/zimfw                                | Zsh IMproved FrameWork                                                                          |
+|    13 | electron-api-demos               | https://github.com/electron/electron-api-demos                | Explore the Electron APIs                                                                       |
 
 
 ## Handlebars 
@@ -475,6 +474,14 @@
 |    45 | hacker-scripts                     | https://github.com/NARKOZ/hacker-scripts                            | Based on a true story                                                                                                                                           |
 |    46 | algorithm-visualizer               | https://github.com/algorithm-visualizer/algorithm-visualizer        | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code                                                                                     |
 |    47 | bioinformatics-dashboard           | https://github.com/HPCC-Cloud-Computing/bioinformatics-dashboard    | Bioinformatics Dashboard                                                                                                                                        |
+
+
+## Jinja 
+
+| Index |   Name    |                Repository URL                |                                                                Description                                                                |
+|------:|-----------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | kubespray | https://github.com/kubernetes-sigs/kubespray | Deploy a Production Ready Kubernetes Cluster                                                                                              |
+|     2 | kolla     | https://github.com/openstack/kolla           | Kolla provides production-ready containers and deployment tools for operating OpenStack clouds. Mirror of code maintained at opendev.org. |
 
 
 ## Jsonnet 
@@ -1232,7 +1239,7 @@
 |------:|----------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |     1 | praeco                     | https://github.com/johnsusek/praeco                 | Elasticsearch alerting made simple.                                                                                                 |
 |     2 | faythe-ui                  | https://github.com/vCloud-DFTBA/faythe-ui           | Interactive UI for faythe                                                                                                           |
-|     3 | hoppscotch                 | https://github.com/hoppscotch/hoppscotch            | 👽 Open source API development ecosystem https://hoppscotch.io                                                                      |
+|     3 | hoppscotch                 | https://github.com/hoppscotch/hoppscotch            | 👽 Open source API development ecosystem used by 200k+ developers https://hoppscotch.io                                             |
 |     4 | profile-summary-for-github | https://github.com/tipsy/profile-summary-for-github | Tool for visualizing GitHub profiles                                                                                                |
 |     5 | best-resume-ever           | https://github.com/salomonelli/best-resume-ever     | :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS. |
 
