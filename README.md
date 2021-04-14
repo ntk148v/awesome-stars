@@ -387,7 +387,7 @@
 |     9 | kbe                              | https://github.com/openshift-evangelists/kbe                  | Kubernetes By Example                                                                           |
 |    10 | openstack-doc-migration-burndown | https://github.com/dhellmann/openstack-doc-migration-burndown |                                                                                                 |
 |    11 | browbeat                         | https://github.com/cloud-bulldozer/browbeat                   | Performance monitoring and testing of OpenStack                                                 |
-|    12 | zimfw                            | https://github.com/zimfw/zimfw                                | Zsh IMproved FrameWork                                                                          |
+|    12 | zimfw                            | https://github.com/zimfw/zimfw                                | Zim: Modular, customizable, and blazing fast Zsh framework                                      |
 |    13 | electron-api-demos               | https://github.com/electron/electron-api-demos                | Explore the Electron APIs                                                                       |
 
 
@@ -1239,7 +1239,7 @@
 |------:|----------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |     1 | praeco                     | https://github.com/johnsusek/praeco                 | Elasticsearch alerting made simple.                                                                                                 |
 |     2 | faythe-ui                  | https://github.com/vCloud-DFTBA/faythe-ui           | Interactive UI for faythe                                                                                                           |
-|     3 | hoppscotch                 | https://github.com/hoppscotch/hoppscotch            | 👽 Open source API development ecosystem used by 200k+ developers https://hoppscotch.io                                             |
+|     3 | hoppscotch                 | https://github.com/hoppscotch/hoppscotch            | 👽 Open source API development ecosystem https://hoppscotch.io                                                                      |
 |     4 | profile-summary-for-github | https://github.com/tipsy/profile-summary-for-github | Tool for visualizing GitHub profiles                                                                                                |
 |     5 | best-resume-ever           | https://github.com/salomonelli/best-resume-ever     | :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS. |
 
