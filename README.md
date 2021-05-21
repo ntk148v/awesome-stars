@@ -426,7 +426,6 @@
 |     7 | Chord-Implementation              | https://github.com/hfokas/Chord-Implementation                | Chord Implementation for Distributed Systems Course                                                                      |
 |     8 | sync-service                      | https://github.com/stacksync/sync-service                     | [DISCONTINUED] StackSync's synchronization service                                                                       |
 |     9 | cloudify                          | https://github.com/CloudifySource/cloudify                    | Cloud-enablement platform that on-boards applications to public and private clouds without architectural or code changes |
-|    10 | che                               | https://github.com/eclipse/che                                | The Kubernetes-Native IDE for Developer Teams                                                                            |
 
 
 ## JavaScript 
@@ -1052,7 +1051,7 @@
 |     3 | sudo_pair    | https://github.com/square/sudo_pair    | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions |
 |     4 | gitui        | https://github.com/extrawurst/gitui    | Blazing 💥 fast terminal-ui for git written in rust 🦀                                      |
 |     5 | talent-plan  | https://github.com/pingcap/talent-plan | open source training courses about distributed database and distributed systemes            |
-|     6 | vector       | https://github.com/timberio/vector     | A high-performance, highly reliable, observability data pipeline.                           |
+|     6 | vector       | https://github.com/timberio/vector     | High-performance observability data pipelines.                                              |
 |     7 | habitat      | https://github.com/habitat-sh/habitat  | Modern applications with built-in automation                                                |
 |     8 | py-spy       | https://github.com/benfred/py-spy      | Sampling profiler for Python programs                                                       |
 |     9 | bat          | https://github.com/sharkdp/bat         | A cat(1) clone with wings.                                                                  |
@@ -1189,7 +1188,8 @@
 |    14 | terminus             | https://github.com/Eugeny/terminus                | A terminal for a more modern age                                                                                                                                                                                           |
 |    15 | gdbgui               | https://github.com/cs01/gdbgui                    | Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser. |
 |    16 | grafana              | https://github.com/grafana/grafana                | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.                   |
-|    17 | etcher               | https://github.com/balena-io/etcher               | Flash OS images to SD cards & USB drives, safely and easily.                                                                                                                                                               |
+|    17 | che                  | https://github.com/eclipse/che                    | The Kubernetes-Native IDE for Developer Teams                                                                                                                                                                              |
+|    18 | etcher               | https://github.com/balena-io/etcher               | Flash OS images to SD cards & USB drives, safely and easily.                                                                                                                                                               |
 
 
 ## V 
