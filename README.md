@@ -915,7 +915,7 @@
 |   222 | scapy                                                 | https://github.com/secdev/scapy                                                    | Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.                                                                                                                                                                                                                                                    |
 |   223 | deepdiff                                              | https://github.com/seperman/deepdiff                                               | Deep Difference and search of any Python object/data.                                                                                                                                                                                                                                                                                                       |
 |   224 | locust                                                | https://github.com/locustio/locust                                                 | Scalable user load testing tool written in Python                                                                                                                                                                                                                                                                                                           |
-|   225 | elasticsearch-py                                      | https://github.com/elastic/elasticsearch-py                                        | Official Python low-level client for Elasticsearch                                                                                                                                                                                                                                                                                                          |
+|   225 | elasticsearch-py                                      | https://github.com/elastic/elasticsearch-py                                        | Official Elasticsearch client library for Python                                                                                                                                                                                                                                                                                                            |
 |   226 | watchdog                                              | https://github.com/gorakhargosh/watchdog                                           | Python library and shell utilities to monitor filesystem events.                                                                                                                                                                                                                                                                                            |
 |   227 | tbvaccine                                             | https://github.com/skorokithakis/tbvaccine                                         | A small utility to pretty-print Python tracebacks. ⛺                                                                                                                                                                                                                                                                                                       |
 |   228 | tinystatus                                            | https://github.com/cathalgarvey/tinystatus                                         | A peer to peer microstatus system written in 30 lines of pure python. (MOVED to Gitlab)                                                                                                                                                                                                                                                                     |
@@ -1071,20 +1071,20 @@
 
 ## Rust 
 
-| Index |     Name     |             Repository URL             |                                              Description                                              |
-|------:|--------------|----------------------------------------|-------------------------------------------------------------------------------------------------------|
-|     1 | ockam        | https://github.com/ockam-network/ockam | Tools for mutually authenticated and end-to-end encrypted messaging between distributed applications. |
-|     2 | hyperfine    | https://github.com/sharkdp/hyperfine   | A command-line benchmarking tool                                                                      |
-|     3 | connectr     | https://github.com/mrmekon/connectr    | A super lightweight Spotify controller                                                                |
-|     4 | sudo_pair    | https://github.com/square/sudo_pair    | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions           |
-|     5 | gitui        | https://github.com/extrawurst/gitui    | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                |
-|     6 | talent-plan  | https://github.com/pingcap/talent-plan | open source training courses about distributed database and distributed systemes                      |
-|     7 | vector       | https://github.com/timberio/vector     | A high-performance, highly reliable, observability data pipeline.                                     |
-|     8 | habitat      | https://github.com/habitat-sh/habitat  | Modern applications with built-in automation                                                          |
-|     9 | py-spy       | https://github.com/benfred/py-spy      | Sampling profiler for Python programs                                                                 |
-|    10 | bat          | https://github.com/sharkdp/bat         | A cat(1) clone with wings.                                                                            |
-|    11 | fd           | https://github.com/sharkdp/fd          | A simple, fast and user-friendly alternative to 'find'                                                |
-|    12 | codedaily-v3 | https://github.com/huytd/codedaily-v3  |                                                                                                       |
+| Index |     Name     |             Repository URL             |                                         Description                                         |
+|------:|--------------|----------------------------------------|---------------------------------------------------------------------------------------------|
+|     1 | ockam        | https://github.com/ockam-network/ockam | End-to-end encryption and mutual authentication for distributed applications.               |
+|     2 | hyperfine    | https://github.com/sharkdp/hyperfine   | A command-line benchmarking tool                                                            |
+|     3 | connectr     | https://github.com/mrmekon/connectr    | A super lightweight Spotify controller                                                      |
+|     4 | sudo_pair    | https://github.com/square/sudo_pair    | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions |
+|     5 | gitui        | https://github.com/extrawurst/gitui    | Blazing 💥 fast terminal-ui for git written in rust 🦀                                      |
+|     6 | talent-plan  | https://github.com/pingcap/talent-plan | open source training courses about distributed database and distributed systemes            |
+|     7 | vector       | https://github.com/timberio/vector     | A high-performance, highly reliable, observability data pipeline.                           |
+|     8 | habitat      | https://github.com/habitat-sh/habitat  | Modern applications with built-in automation                                                |
+|     9 | py-spy       | https://github.com/benfred/py-spy      | Sampling profiler for Python programs                                                       |
+|    10 | bat          | https://github.com/sharkdp/bat         | A cat(1) clone with wings.                                                                  |
+|    11 | fd           | https://github.com/sharkdp/fd          | A simple, fast and user-friendly alternative to 'find'                                      |
+|    12 | codedaily-v3 | https://github.com/huytd/codedaily-v3  |                                                                                             |
 
 
 ## SCSS 
