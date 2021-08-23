@@ -17,6 +17,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install git+https://github.com/ntk148v/starred.git
+        which -a starred
     - name: Update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
