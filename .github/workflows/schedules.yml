@@ -18,7 +18,7 @@ jobs:
         python -m pip install --upgrade pip
         git clone https://github.com/ntk148v/starred.git
         cd starred
-        pip install .
+        python setup.py install
     - name: Update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
