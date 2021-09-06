@@ -1089,20 +1089,22 @@
 
 ## Rust 
 
-| Index |     Name     |             Repository URL             |                                         Description                                         |
-|------:|--------------|----------------------------------------|---------------------------------------------------------------------------------------------|
-|     1 | ockam        | https://github.com/ockam-network/ockam | End-to-end encryption and mutual authentication for distributed applications.               |
-|     2 | hyperfine    | https://github.com/sharkdp/hyperfine   | A command-line benchmarking tool                                                            |
-|     3 | connectr     | https://github.com/mrmekon/connectr    | A super lightweight Spotify controller                                                      |
-|     4 | sudo_pair    | https://github.com/square/sudo_pair    | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions |
-|     5 | gitui        | https://github.com/extrawurst/gitui    | Blazing 💥 fast terminal-ui for git written in rust 🦀                                      |
-|     6 | talent-plan  | https://github.com/pingcap/talent-plan | open source training courses about distributed database and distributed systemes            |
-|     7 | vector       | https://github.com/timberio/vector     | A high-performance, highly reliable, observability data pipeline.                           |
-|     8 | habitat      | https://github.com/habitat-sh/habitat  | Modern applications with built-in automation                                                |
-|     9 | py-spy       | https://github.com/benfred/py-spy      | Sampling profiler for Python programs                                                       |
-|    10 | bat          | https://github.com/sharkdp/bat         | A cat(1) clone with wings.                                                                  |
-|    11 | fd           | https://github.com/sharkdp/fd          | A simple, fast and user-friendly alternative to 'find'                                      |
-|    12 | codedaily-v3 | https://github.com/huytd/codedaily-v3  |                                                                                             |
+| Index |     Name     |             Repository URL             |                                         Description                                          |
+|------:|--------------|----------------------------------------|----------------------------------------------------------------------------------------------|
+|     1 | kmon         | https://github.com/orhun/kmon          | Linux Kernel Manager and Activity Monitor 🐧💻                                               |
+|     2 | git-cliff    | https://github.com/orhun/git-cliff     | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |
+|     3 | ockam        | https://github.com/ockam-network/ockam | End-to-end encryption and mutual authentication for distributed applications.                |
+|     4 | hyperfine    | https://github.com/sharkdp/hyperfine   | A command-line benchmarking tool                                                             |
+|     5 | connectr     | https://github.com/mrmekon/connectr    | A super lightweight Spotify controller                                                       |
+|     6 | sudo_pair    | https://github.com/square/sudo_pair    | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions  |
+|     7 | gitui        | https://github.com/extrawurst/gitui    | Blazing 💥 fast terminal-ui for git written in rust 🦀                                       |
+|     8 | talent-plan  | https://github.com/pingcap/talent-plan | open source training courses about distributed database and distributed systemes             |
+|     9 | vector       | https://github.com/timberio/vector     | A high-performance, highly reliable, observability data pipeline.                            |
+|    10 | habitat      | https://github.com/habitat-sh/habitat  | Modern applications with built-in automation                                                 |
+|    11 | py-spy       | https://github.com/benfred/py-spy      | Sampling profiler for Python programs                                                        |
+|    12 | bat          | https://github.com/sharkdp/bat         | A cat(1) clone with wings.                                                                   |
+|    13 | fd           | https://github.com/sharkdp/fd          | A simple, fast and user-friendly alternative to 'find'                                       |
+|    14 | codedaily-v3 | https://github.com/huytd/codedaily-v3  |                                                                                              |
 
 
 ## SCSS 
