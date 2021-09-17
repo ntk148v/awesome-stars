@@ -458,17 +458,18 @@
 
 ## Java 
 
-| Index |               Name                |                        Repository URL                         |                                                       Description                                                        |
-|------:|-----------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-|     1 | bazel                             | https://github.com/bazelbuild/bazel                           | a fast, scalable, multi-language and extensible build system                                                             |
-|     2 | bitsnpicas                        | https://github.com/kreativekorp/bitsnpicas                    | Bits'N'Picas - Bitmap & Emoji Font Creation & Conversion Tools                                                           |
-|     3 | centraldogma                      | https://github.com/line/centraldogma                          | Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2                  |
-|     4 | elasticsearch-prometheus-exporter | https://github.com/vvanholl/elasticsearch-prometheus-exporter | Prometheus exporter plugin for Elasticsearch                                                                             |
-|     5 | helios                            | https://github.com/spotify/helios                             | Docker container orchestration platform                                                                                  |
-|     6 | vn.vitk                           | https://github.com/phuonglh/vn.vitk                           | A Vietnamese Text Processing Toolkit                                                                                     |
-|     7 | Chord-Implementation              | https://github.com/hfokas/Chord-Implementation                | Chord Implementation for Distributed Systems Course                                                                      |
-|     8 | sync-service                      | https://github.com/stacksync/sync-service                     | [DISCONTINUED] StackSync's synchronization service                                                                       |
-|     9 | cloudify                          | https://github.com/CloudifySource/cloudify                    | Cloud-enablement platform that on-boards applications to public and private clouds without architectural or code changes |
+| Index |               Name                |                        Repository URL                         |                                                           Description                                                           |
+|------:|-----------------------------------|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|     1 | lettuce-core                      | https://github.com/lettuce-io/lettuce-core                    | Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs. |
+|     2 | bazel                             | https://github.com/bazelbuild/bazel                           | a fast, scalable, multi-language and extensible build system                                                                    |
+|     3 | bitsnpicas                        | https://github.com/kreativekorp/bitsnpicas                    | Bits'N'Picas - Bitmap & Emoji Font Creation & Conversion Tools                                                                  |
+|     4 | centraldogma                      | https://github.com/line/centraldogma                          | Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2                         |
+|     5 | elasticsearch-prometheus-exporter | https://github.com/vvanholl/elasticsearch-prometheus-exporter | Prometheus exporter plugin for Elasticsearch                                                                                    |
+|     6 | helios                            | https://github.com/spotify/helios                             | Docker container orchestration platform                                                                                         |
+|     7 | vn.vitk                           | https://github.com/phuonglh/vn.vitk                           | A Vietnamese Text Processing Toolkit                                                                                            |
+|     8 | Chord-Implementation              | https://github.com/hfokas/Chord-Implementation                | Chord Implementation for Distributed Systems Course                                                                             |
+|     9 | sync-service                      | https://github.com/stacksync/sync-service                     | [DISCONTINUED] StackSync's synchronization service                                                                              |
+|    10 | cloudify                          | https://github.com/CloudifySource/cloudify                    | Cloud-enablement platform that on-boards applications to public and private clouds without architectural or code changes        |
 
 
 ## JavaScript 
