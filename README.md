@@ -1155,7 +1155,7 @@
 |     9 | sudo_pair    | https://github.com/square/sudo_pair    | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions  |
 |    10 | gitui        | https://github.com/extrawurst/gitui    | Blazing 💥 fast terminal-ui for git written in rust 🦀                                       |
 |    11 | talent-plan  | https://github.com/pingcap/talent-plan | open source training courses about distributed database and distributed systemes             |
-|    12 | vector       | https://github.com/vectordotdev/vector | A high-performance observability data pipeline.                                              |
+|    12 | vector       | https://github.com/vectordotdev/vector | A reliable, high-performance tool for building observability data pipelines.                 |
 |    13 | habitat      | https://github.com/habitat-sh/habitat  | Modern applications with built-in automation                                                 |
 |    14 | py-spy       | https://github.com/benfred/py-spy      | Sampling profiler for Python programs                                                        |
 |    15 | bat          | https://github.com/sharkdp/bat         | A cat(1) clone with wings.                                                                   |
