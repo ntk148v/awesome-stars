@@ -741,9 +741,10 @@
 
 | Index |      Name      |                Repository URL                 |                                                        Description                                                        |
 |------:|----------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-|     1 | the-bastion    | https://github.com/ovh/the-bastion            | Authentication, authorization, traceability and auditability for SSH accesses.                                            |
-|     2 | i3-starterpack | https://github.com/addy-dclxvi/i3-starterpack | A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy. |
-|     3 | sysadmin-util  | https://github.com/skx/sysadmin-util          | Tools for Linux/Unix sysadmins.                                                                                           |
+|     1 | cloc           | https://github.com/AlDanial/cloc              | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.                  |
+|     2 | the-bastion    | https://github.com/ovh/the-bastion            | Authentication, authorization, traceability and auditability for SSH accesses.                                            |
+|     3 | i3-starterpack | https://github.com/addy-dclxvi/i3-starterpack | A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy. |
+|     4 | sysadmin-util  | https://github.com/skx/sysadmin-util          | Tools for Linux/Unix sysadmins.                                                                                           |
 
 
 ## PowerShell 
