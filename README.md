@@ -1383,7 +1383,7 @@
 |     1 | zinc                       | https://github.com/prabhatsharma/zinc               | Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.                      |
 |     2 | praeco                     | https://github.com/johnsusek/praeco                 | Elasticsearch alerting made simple.                                                                                                 |
 |     3 | faythe-ui                  | https://github.com/vCloud-DFTBA/faythe-ui           | Interactive UI for faythe                                                                                                           |
-|     4 | hoppscotch                 | https://github.com/hoppscotch/hoppscotch            | 👽 Open source API development ecosystem https://hoppscotch.io                                                                      |
+|     4 | hoppscotch                 | https://github.com/hoppscotch/hoppscotch            | 🛸 Open source API development ecosystem https://hoppscotch.io                                                                      |
 |     5 | profile-summary-for-github | https://github.com/tipsy/profile-summary-for-github | Tool for visualizing GitHub profiles                                                                                                |
 |     6 | best-resume-ever           | https://github.com/salomonelli/best-resume-ever     | :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS. |
 
