@@ -606,9 +606,10 @@
 
 | Index |      Name      |              Repository URL              |                                                                              Description                                                                              |
 |------:|----------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     1 | vim-illuminate | https://github.com/RRethy/vim-illuminate | illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting. |
-|     2 | articles       | https://github.com/jaypipes/articles     | Collection of articles written for publication on my blog or elsewhere                                                                                                |
-|     3 | lsyncd         | https://github.com/lsyncd/lsyncd         | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets                                                                                       |
+|     1 | koreader       | https://github.com/koreader/koreader     | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices                 |
+|     2 | vim-illuminate | https://github.com/RRethy/vim-illuminate | illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting. |
+|     3 | articles       | https://github.com/jaypipes/articles     | Collection of articles written for publication on my blog or elsewhere                                                                                                |
+|     4 | lsyncd         | https://github.com/lsyncd/lsyncd         | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets                                                                                       |
 
 
 ## Makefile 
