@@ -1192,25 +1192,26 @@
 
 | Index |     Name     |             Repository URL             |                                                Description                                                 |
 |------:|--------------|----------------------------------------|------------------------------------------------------------------------------------------------------------|
-|     1 | wezterm      | https://github.com/wez/wezterm         | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust |
-|     2 | gping        | https://github.com/orf/gping           | Ping, but with a graph                                                                                     |
-|     3 | eww          | https://github.com/elkowar/eww         | ElKowars wacky widgets                                                                                     |
-|     4 | gobang       | https://github.com/TaKO8Ki/gobang      | A cross-platform TUI database management tool written in Rust                                              |
-|     5 | htmlq        | https://github.com/mgdm/htmlq          | Like jq, but for HTML.                                                                                     |
-|     6 | kmon         | https://github.com/orhun/kmon          | Linux Kernel Manager and Activity Monitor 🐧💻                                                             |
-|     7 | git-cliff    | https://github.com/orhun/git-cliff     | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️               |
-|     8 | ockam        | https://github.com/ockam-network/ockam | End-to-end encryption and mutual authentication for distributed applications.                              |
-|     9 | hyperfine    | https://github.com/sharkdp/hyperfine   | A command-line benchmarking tool                                                                           |
-|    10 | connectr     | https://github.com/mrmekon/connectr    | A super lightweight Spotify controller                                                                     |
-|    11 | sudo_pair    | https://github.com/square/sudo_pair    | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions                |
-|    12 | gitui        | https://github.com/extrawurst/gitui    | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                     |
-|    13 | talent-plan  | https://github.com/pingcap/talent-plan | open source training courses about distributed database and distributed systemes                           |
-|    14 | vector       | https://github.com/vectordotdev/vector | A high-performance observability data pipeline.                                                            |
-|    15 | habitat      | https://github.com/habitat-sh/habitat  | Modern applications with built-in automation                                                               |
-|    16 | py-spy       | https://github.com/benfred/py-spy      | Sampling profiler for Python programs                                                                      |
-|    17 | bat          | https://github.com/sharkdp/bat         | A cat(1) clone with wings.                                                                                 |
-|    18 | fd           | https://github.com/sharkdp/fd          | A simple, fast and user-friendly alternative to 'find'                                                     |
-|    19 | codedaily-v3 | https://github.com/huytd/codedaily-v3  |                                                                                                            |
+|     1 | convey       | https://github.com/bparli/convey       | Layer 4 load balancer with dynamic configuration loading                                                   |
+|     2 | wezterm      | https://github.com/wez/wezterm         | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust |
+|     3 | gping        | https://github.com/orf/gping           | Ping, but with a graph                                                                                     |
+|     4 | eww          | https://github.com/elkowar/eww         | ElKowars wacky widgets                                                                                     |
+|     5 | gobang       | https://github.com/TaKO8Ki/gobang      | A cross-platform TUI database management tool written in Rust                                              |
+|     6 | htmlq        | https://github.com/mgdm/htmlq          | Like jq, but for HTML.                                                                                     |
+|     7 | kmon         | https://github.com/orhun/kmon          | Linux Kernel Manager and Activity Monitor 🐧💻                                                             |
+|     8 | git-cliff    | https://github.com/orhun/git-cliff     | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️               |
+|     9 | ockam        | https://github.com/ockam-network/ockam | End-to-end encryption and mutual authentication for distributed applications.                              |
+|    10 | hyperfine    | https://github.com/sharkdp/hyperfine   | A command-line benchmarking tool                                                                           |
+|    11 | connectr     | https://github.com/mrmekon/connectr    | A super lightweight Spotify controller                                                                     |
+|    12 | sudo_pair    | https://github.com/square/sudo_pair    | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions                |
+|    13 | gitui        | https://github.com/extrawurst/gitui    | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                     |
+|    14 | talent-plan  | https://github.com/pingcap/talent-plan | open source training courses about distributed database and distributed systemes                           |
+|    15 | vector       | https://github.com/vectordotdev/vector | A high-performance observability data pipeline.                                                            |
+|    16 | habitat      | https://github.com/habitat-sh/habitat  | Modern applications with built-in automation                                                               |
+|    17 | py-spy       | https://github.com/benfred/py-spy      | Sampling profiler for Python programs                                                                      |
+|    18 | bat          | https://github.com/sharkdp/bat         | A cat(1) clone with wings.                                                                                 |
+|    19 | fd           | https://github.com/sharkdp/fd          | A simple, fast and user-friendly alternative to 'find'                                                     |
+|    20 | codedaily-v3 | https://github.com/huytd/codedaily-v3  |                                                                                                            |
 
 
 ## SCSS 
