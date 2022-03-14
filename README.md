@@ -147,9 +147,9 @@
 
 ## Elixir 
 
-| Index |   Name   |            Repository URL            |               Description               |
-|------:|----------|--------------------------------------|-----------------------------------------|
-|     1 | firezone | https://github.com/firezone/firezone | WireGuard-based VPN server and firewall |
+| Index |   Name   |            Repository URL            |               Description                |
+|------:|----------|--------------------------------------|------------------------------------------|
+|     1 | firezone | https://github.com/firezone/firezone | WireGuard®-based VPN server and firewall |
 
 
 ## Go 
