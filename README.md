@@ -1226,7 +1226,7 @@
 |    12 | connectr     | https://github.com/mrmekon/connectr     | A super lightweight Spotify controller                                                                                            |
 |    13 | sudo_pair    | https://github.com/square/sudo_pair     | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions                                       |
 |    14 | gitui        | https://github.com/extrawurst/gitui     | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                                            |
-|    15 | talent-plan  | https://github.com/pingcap/talent-plan  | open source training courses about distributed database and distributed systemes                                                  |
+|    15 | talent-plan  | https://github.com/pingcap/talent-plan  | open source training courses about distributed database and distributed systems                                                   |
 |    16 | vector       | https://github.com/vectordotdev/vector  | A high-performance observability data pipeline.                                                                                   |
 |    17 | habitat      | https://github.com/habitat-sh/habitat   | Modern applications with built-in automation                                                                                      |
 |    18 | py-spy       | https://github.com/benfred/py-spy       | Sampling profiler for Python programs                                                                                             |
