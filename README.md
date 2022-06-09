@@ -1449,14 +1449,14 @@
 
 ## Vue 
 
-| Index |            Name            |                   Repository URL                    |                                                             Description                                                             |
-|------:|----------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|     1 | dashy                      | https://github.com/Lissy93/dashy                    | 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!              |
-|     2 | praeco                     | https://github.com/johnsusek/praeco                 | Elasticsearch alerting made simple.                                                                                                 |
-|     3 | faythe-ui                  | https://github.com/vCloud-DFTBA/faythe-ui           | Interactive UI for faythe                                                                                                           |
-|     4 | hoppscotch                 | https://github.com/hoppscotch/hoppscotch            | 👽 Open source API development ecosystem - https://hoppscotch.io                                                                    |
-|     5 | profile-summary-for-github | https://github.com/tipsy/profile-summary-for-github | Tool for visualizing GitHub profiles                                                                                                |
-|     6 | best-resume-ever           | https://github.com/salomonelli/best-resume-ever     | :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS. |
+| Index |            Name            |                   Repository URL                    |                                                              Description                                                               |
+|------:|----------------------------|-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | dashy                      | https://github.com/Lissy93/dashy                    | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
+|     2 | praeco                     | https://github.com/johnsusek/praeco                 | Elasticsearch alerting made simple.                                                                                                    |
+|     3 | faythe-ui                  | https://github.com/vCloud-DFTBA/faythe-ui           | Interactive UI for faythe                                                                                                              |
+|     4 | hoppscotch                 | https://github.com/hoppscotch/hoppscotch            | 👽 Open source API development ecosystem - https://hoppscotch.io                                                                       |
+|     5 | profile-summary-for-github | https://github.com/tipsy/profile-summary-for-github | Tool for visualizing GitHub profiles                                                                                                   |
+|     6 | best-resume-ever           | https://github.com/salomonelli/best-resume-ever     | :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.    |
 
 
 
