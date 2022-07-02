@@ -1406,9 +1406,9 @@
 
 ## V 
 
-| Index | Name |       Repository URL       |                                                                      Description                                                                       |
-|------:|------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     1 | v    | https://github.com/vlang/v | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io |
+| Index | Name |       Repository URL       |                                                                                           Description                                                                                            |
+|------:|------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | v    | https://github.com/vlang/v | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io |
 
 
 ## Vala 
