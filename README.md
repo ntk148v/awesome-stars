@@ -773,14 +773,15 @@
 
 | Index |        Name        |                   Repository URL                   |                                                             Description                                                              |
 |------:|--------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|     1 | diskover-community | https://github.com/diskoverdata/diskover-community | Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch |
-|     2 | Cachet             | https://github.com/CachetHQ/Cachet                 | 📛 An open source status page system for everyone.                                                                                   |
-|     3 | docker-compose-viz | https://github.com/pmsipilot/docker-compose-viz    | Docker compose graph visualization                                                                                                   |
-|     4 | github-now         | https://github.com/beyondcode/github-now           | Automatically generate your GitHub user profile page                                                                                 |
-|     5 | Training           | https://github.com/56kcloud/Training               | Container, Monitoring & Logging, Cloud & DevOps Tutorials and Labs                                                                   |
-|     6 | stratostack-portal | https://github.com/1stel/stratostack-portal        | StratoSTACK Billing Portal                                                                                                           |
-|     7 | astral             | https://github.com/astralapp/astral                | Organize Your GitHub Stars With Ease                                                                                                 |
-|     8 | labs               | https://github.com/docker/labs                     | This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.                          |
+|     1 | framework          | https://github.com/flarum/framework                | Simple forum software for building great communities.                                                                                |
+|     2 | diskover-community | https://github.com/diskoverdata/diskover-community | Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch |
+|     3 | Cachet             | https://github.com/CachetHQ/Cachet                 | 📛 An open source status page system for everyone.                                                                                   |
+|     4 | docker-compose-viz | https://github.com/pmsipilot/docker-compose-viz    | Docker compose graph visualization                                                                                                   |
+|     5 | github-now         | https://github.com/beyondcode/github-now           | Automatically generate your GitHub user profile page                                                                                 |
+|     6 | Training           | https://github.com/56kcloud/Training               | Container, Monitoring & Logging, Cloud & DevOps Tutorials and Labs                                                                   |
+|     7 | stratostack-portal | https://github.com/1stel/stratostack-portal        | StratoSTACK Billing Portal                                                                                                           |
+|     8 | astral             | https://github.com/astralapp/astral                | Organize Your GitHub Stars With Ease                                                                                                 |
+|     9 | labs               | https://github.com/docker/labs                     | This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.                          |
 
 
 ## Pascal 
