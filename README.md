@@ -1248,7 +1248,7 @@
 |     7 | htmlq        | https://github.com/mgdm/htmlq           | Like jq, but for HTML.                                                                                                            |
 |     8 | kmon         | https://github.com/orhun/kmon           | Linux Kernel Manager and Activity Monitor 🐧💻                                                                                    |
 |     9 | git-cliff    | https://github.com/orhun/git-cliff      | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️                                      |
-|    10 | ockam        | https://github.com/build-trust/ockam    | Orchestrate end-to-end encryption, mutual authentication, key management and authorization policy enforcement — at scale.         |
+|    10 | ockam        | https://github.com/build-trust/ockam    | Orchestrate end-to-end encryption, mutual authentication, key management & authorization policy enforcement — at scale.           |
 |    11 | hyperfine    | https://github.com/sharkdp/hyperfine    | A command-line benchmarking tool                                                                                                  |
 |    12 | connectr     | https://github.com/mrmekon/connectr     | A super lightweight Spotify controller                                                                                            |
 |    13 | sudo_pair    | https://github.com/square/sudo_pair     | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions                                       |
