@@ -651,13 +651,13 @@
 
 ## Lua 
 
-| Index |      Name       |               Repository URL               |                                                                              Description                                                                              |
-|------:|-----------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     1 | termcolors.nvim | https://github.com/psliwka/termcolors.nvim | generate colors for your terminal from any Neovim colorscheme 🌈                                                                                                      |
-|     2 | koreader        | https://github.com/koreader/koreader       | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices                 |
-|     3 | vim-illuminate  | https://github.com/RRethy/vim-illuminate   | illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting. |
-|     4 | articles        | https://github.com/jaypipes/articles       | Collection of articles written for publication on my blog or elsewhere                                                                                                |
-|     5 | lsyncd          | https://github.com/lsyncd/lsyncd           | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets                                                                                       |
+| Index |      Name       |               Repository URL               |                                                                        Description                                                                        |
+|------:|-----------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | termcolors.nvim | https://github.com/psliwka/termcolors.nvim | generate colors for your terminal from any Neovim colorscheme 🌈                                                                                          |
+|     2 | koreader        | https://github.com/koreader/koreader       | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices     |
+|     3 | vim-illuminate  | https://github.com/RRethy/vim-illuminate   | illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching. |
+|     4 | articles        | https://github.com/jaypipes/articles       | Collection of articles written for publication on my blog or elsewhere                                                                                    |
+|     5 | lsyncd          | https://github.com/lsyncd/lsyncd           | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets                                                                           |
 
 
 ## Makefile 
