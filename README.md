@@ -1448,7 +1448,8 @@
 |     1 | vim-startuptime   | https://github.com/dstein64/vim-startuptime     | ⏲️ A Vim plugin for profiling Vim's startup time. |
 |     2 | vim-sensible      | https://github.com/tpope/vim-sensible           | sensible.vim: Defaults everyone can agree on      |
 |     3 | vim-colortemplate | https://github.com/lifepillar/vim-colortemplate | The Toolkit for Vim Color Scheme Designers!       |
-|     4 | neovim            | https://github.com/neovim/neovim                | Vim-fork focused on extensibility and usability   |
+|     4 | vim-plug          | https://github.com/junegunn/vim-plug            | :hibiscus: Minimalist Vim Plugin Manager          |
+|     5 | neovim            | https://github.com/neovim/neovim                | Vim-fork focused on extensibility and usability   |
 
 
 ## Vim Snippet 
@@ -1479,7 +1480,6 @@
 |    15 | vimrc              | https://github.com/amix/vimrc                  | The ultimate Vim configuration (vimrc)                                                                                          |
 |    16 | vimrc              | https://github.com/nvie/vimrc                  | My personal Neovim configuration, with a lot of love put into it.                                                               |
 |    17 | vim-galore         | https://github.com/mhinz/vim-galore            | :mortar_board: All things Vim!                                                                                                  |
-|    18 | vim-plug           | https://github.com/junegunn/vim-plug           | :hibiscus: Minimalist Vim Plugin Manager                                                                                        |
 
 
 ## Vue 
