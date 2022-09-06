@@ -516,19 +516,20 @@
 
 | Index |               Name               |                        Repository URL                         |                                           Description                                           |
 |------:|----------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|     1 | distsysbook                      | https://github.com/mixu/distsysbook                           | The book Distributed systems: for fun and profit                                                |
-|     2 | awesome-compose                  | https://github.com/docker/awesome-compose                     | Awesome Docker Compose samples                                                                  |
-|     3 | swarmstack                       | https://github.com/swarmstack/swarmstack                      | A Docker swarm-based starting point for operating highly-available containerized applications.  |
-|     4 | KeepIt                           | https://github.com/Fastbyte01/KeepIt                          | The most powerful minimal Hugo theme.                                                           |
-|     5 | go101                            | https://github.com/go101/go101                                | An online book focusing on Go syntax/semantics and runtime related things                       |
-|     6 | free-for-dev                     | https://github.com/ripienaar/free-for-dev                     | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-|     7 | notes                            | https://github.com/shichao-an/notes                           | Shichao's Notes                                                                                 |
-|     8 | k8s-on-openstack                 | https://github.com/infraly/k8s-on-openstack                   | An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud.                 |
-|     9 | kbe                              | https://github.com/openshift-evangelists/kbe                  | Kubernetes By Example                                                                           |
-|    10 | openstack-doc-migration-burndown | https://github.com/dhellmann/openstack-doc-migration-burndown |                                                                                                 |
-|    11 | zimfw                            | https://github.com/zimfw/zimfw                                | Zim: Modular, customizable, and blazing fast Zsh framework                                      |
-|    12 | OctoLinker                       | https://github.com/OctoLinker/OctoLinker                      | OctoLinker — Links together, what belongs together                                              |
-|    13 | electron-api-demos               | https://github.com/electron/electron-api-demos                | Explore the Electron APIs                                                                       |
+|     1 | tabler                           | https://github.com/tabler/tabler                              | Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap                         |
+|     2 | distsysbook                      | https://github.com/mixu/distsysbook                           | The book Distributed systems: for fun and profit                                                |
+|     3 | awesome-compose                  | https://github.com/docker/awesome-compose                     | Awesome Docker Compose samples                                                                  |
+|     4 | swarmstack                       | https://github.com/swarmstack/swarmstack                      | A Docker swarm-based starting point for operating highly-available containerized applications.  |
+|     5 | KeepIt                           | https://github.com/Fastbyte01/KeepIt                          | The most powerful minimal Hugo theme.                                                           |
+|     6 | go101                            | https://github.com/go101/go101                                | An online book focusing on Go syntax/semantics and runtime related things                       |
+|     7 | free-for-dev                     | https://github.com/ripienaar/free-for-dev                     | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+|     8 | notes                            | https://github.com/shichao-an/notes                           | Shichao's Notes                                                                                 |
+|     9 | k8s-on-openstack                 | https://github.com/infraly/k8s-on-openstack                   | An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud.                 |
+|    10 | kbe                              | https://github.com/openshift-evangelists/kbe                  | Kubernetes By Example                                                                           |
+|    11 | openstack-doc-migration-burndown | https://github.com/dhellmann/openstack-doc-migration-burndown |                                                                                                 |
+|    12 | zimfw                            | https://github.com/zimfw/zimfw                                | Zim: Modular, customizable, and blazing fast Zsh framework                                      |
+|    13 | OctoLinker                       | https://github.com/OctoLinker/OctoLinker                      | OctoLinker — Links together, what belongs together                                              |
+|    14 | electron-api-demos               | https://github.com/electron/electron-api-demos                | Explore the Electron APIs                                                                       |
 
 
 ## Handlebars 
