@@ -643,7 +643,7 @@
 |------:|------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 |     1 | tensorflow_cookbook          | https://github.com/nfmcclure/tensorflow_cookbook      | Code for Tensorflow Machine Learning Cookbook                                                               |
 |     2 | ArtLine                      | https://github.com/vijishmadhavan/ArtLine             | A Deep Learning based project for creating line art portraits.                                              |
-|     3 | Made-With-ML                 | https://github.com/GokuMohandas/Made-With-ML          | Learn how to responsibly deliver value with ML.                                                             |
+|     3 | Made-With-ML                 | https://github.com/GokuMohandas/Made-With-ML          | Learn how to responsibly deliver value with machine learning.                                               |
 |     4 | PythonDataScienceHandbook    | https://github.com/jakevdp/PythonDataScienceHandbook  | Python Data Science Handbook: full text in Jupyter Notebooks                                                |
 |     5 | TensorFlow-Examples          | https://github.com/aymericdamien/TensorFlow-Examples  | TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)                                         |
 |     6 | TensorFlow-Tutorials         | https://github.com/Hvass-Labs/TensorFlow-Tutorials    | TensorFlow Tutorials with YouTube Videos                                                                    |
