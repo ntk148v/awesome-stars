@@ -1337,7 +1337,7 @@
 |    36 | awesome-zsh-plugins                | https://github.com/unixorn/awesome-zsh-plugins                   | A collection of ZSH frameworks, plugins, themes and tutorials.                                                                                                                                                                                                                                                                                             |
 |    37 | t3mujinpack                        | https://github.com/t3mujin/t3mujinpack                           | Collection of film emulation presets for open-source RAW developer software Darktable.                                                                                                                                                                                                                                                                     |
 |    38 | awesome-terminal-fonts             | https://github.com/gabrielelana/awesome-terminal-fonts           | Tools and instructions on how to have awesome symbols in a terminal with a monospace font                                                                                                                                                                                                                                                                  |
-|    39 | spaceship-prompt                   | https://github.com/spaceship-prompt/spaceship-prompt             | :rocket::star: A Zsh prompt for Astronauts                                                                                                                                                                                                                                                                                                                 |
+|    39 | spaceship-prompt                   | https://github.com/spaceship-prompt/spaceship-prompt             | :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt                                                                                                                                                                                                                                                                                |
 |    40 | alien-minimal                      | https://github.com/eendroroy/alien-minimal                       | An asynchronous minimal zsh prompt                                                                                                                                                                                                                                                                                                                         |
 |    41 | aliasme                            | https://github.com/Jintin/aliasme                                | A shell script to memorize your command in command line.                                                                                                                                                                                                                                                                                                   |
 |    42 | git-open                           | https://github.com/paulirish/git-open                            | Type `git open` to open the GitHub page or website for a repository in your browser.                                                                                                                                                                                                                                                                       |
@@ -1448,14 +1448,15 @@
 
 ## Vim Script 
 
-| Index |        Name        |                 Repository URL                  |                    Description                    |
-|------:|--------------------|-------------------------------------------------|---------------------------------------------------|
-|     1 | vim-startuptime    | https://github.com/dstein64/vim-startuptime     | ⏲️ A Vim plugin for profiling Vim's startup time. |
-|     2 | vim-sensible       | https://github.com/tpope/vim-sensible           | sensible.vim: Defaults everyone can agree on      |
-|     3 | vim-moonfly-colors | https://github.com/bluz71/vim-moonfly-colors    | A dark color scheme for Vim & Neovim              |
-|     4 | vim-colortemplate  | https://github.com/lifepillar/vim-colortemplate | The Toolkit for Vim Color Scheme Designers!       |
-|     5 | vim-plug           | https://github.com/junegunn/vim-plug            | :hibiscus: Minimalist Vim Plugin Manager          |
-|     6 | neovim             | https://github.com/neovim/neovim                | Vim-fork focused on extensibility and usability   |
+| Index |        Name        |                 Repository URL                  |                                                        Description                                                         |
+|------:|--------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+|     1 | vim-startuptime    | https://github.com/dstein64/vim-startuptime     | ⏲️ A Vim plugin for profiling Vim's startup time.                                                                          |
+|     2 | vim-sensible       | https://github.com/tpope/vim-sensible           | sensible.vim: Defaults everyone can agree on                                                                               |
+|     3 | lucario            | https://github.com/raphamorim/lucario           | The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm |
+|     4 | vim-moonfly-colors | https://github.com/bluz71/vim-moonfly-colors    | A dark color scheme for Vim & Neovim                                                                                       |
+|     5 | vim-colortemplate  | https://github.com/lifepillar/vim-colortemplate | The Toolkit for Vim Color Scheme Designers!                                                                                |
+|     6 | vim-plug           | https://github.com/junegunn/vim-plug            | :hibiscus: Minimalist Vim Plugin Manager                                                                                   |
+|     7 | neovim             | https://github.com/neovim/neovim                | Vim-fork focused on extensibility and usability                                                                            |
 
 
 ## Vim Snippet 
@@ -1477,14 +1478,13 @@
 |     6 | bluewery.vim     | https://github.com/relastle/bluewery.vim       | :small_blue_diamond: Blue-based vim colorscheme :beer:                                                                          |
 |     7 | onehalf          | https://github.com/sonph/onehalf               | Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.                                |
 |     8 | miramare         | https://github.com/franbach/miramare           | :maple_leaf: Comfortable & Pleasant Color Scheme for Vim                                                                        |
-|     9 | lucario          | https://github.com/raphamorim/lucario          | The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm      |
-|    10 | i3config.vim     | https://github.com/mboughaba/i3config.vim      | Vim syntax highlighting for i3 config :point_left:                                                                              |
-|    11 | kronos.vim       | https://github.com/soywod/kronos.vim           | A simple task and time manager. Project moved here:                                                                             |
-|    12 | vim-python-ide   | https://github.com/jarolrod/vim-python-ide     | Python development config                                                                                                       |
-|    13 | vim-devicons     | https://github.com/ryanoasis/vim-devicons      | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more |
-|    14 | vimrc            | https://github.com/amix/vimrc                  | The ultimate Vim configuration (vimrc)                                                                                          |
-|    15 | vimrc            | https://github.com/nvie/vimrc                  | My personal Neovim configuration, with a lot of love put into it.                                                               |
-|    16 | vim-galore       | https://github.com/mhinz/vim-galore            | :mortar_board: All things Vim!                                                                                                  |
+|     9 | i3config.vim     | https://github.com/mboughaba/i3config.vim      | Vim syntax highlighting for i3 config :point_left:                                                                              |
+|    10 | kronos.vim       | https://github.com/soywod/kronos.vim           | A simple task and time manager. Project moved here:                                                                             |
+|    11 | vim-python-ide   | https://github.com/jarolrod/vim-python-ide     | Python development config                                                                                                       |
+|    12 | vim-devicons     | https://github.com/ryanoasis/vim-devicons      | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more |
+|    13 | vimrc            | https://github.com/amix/vimrc                  | The ultimate Vim configuration (vimrc)                                                                                          |
+|    14 | vimrc            | https://github.com/nvie/vimrc                  | My personal Neovim configuration, with a lot of love put into it.                                                               |
+|    15 | vim-galore       | https://github.com/mhinz/vim-galore            | :mortar_board: All things Vim!                                                                                                  |
 
 
 ## Vue 
