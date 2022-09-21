@@ -1455,8 +1455,9 @@
 |     3 | lucario            | https://github.com/raphamorim/lucario           | The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm |
 |     4 | vim-moonfly-colors | https://github.com/bluz71/vim-moonfly-colors    | A dark color scheme for Vim & Neovim                                                                                       |
 |     5 | vim-colortemplate  | https://github.com/lifepillar/vim-colortemplate | The Toolkit for Vim Color Scheme Designers!                                                                                |
-|     6 | vim-plug           | https://github.com/junegunn/vim-plug            | :hibiscus: Minimalist Vim Plugin Manager                                                                                   |
-|     7 | neovim             | https://github.com/neovim/neovim                | Vim-fork focused on extensibility and usability                                                                            |
+|     6 | vimrc              | https://github.com/amix/vimrc                   | The ultimate Vim configuration (vimrc)                                                                                     |
+|     7 | vim-plug           | https://github.com/junegunn/vim-plug            | :hibiscus: Minimalist Vim Plugin Manager                                                                                   |
+|     8 | neovim             | https://github.com/neovim/neovim                | Vim-fork focused on extensibility and usability                                                                            |
 
 
 ## Vim Snippet 
@@ -1482,9 +1483,8 @@
 |    10 | kronos.vim       | https://github.com/soywod/kronos.vim           | A simple task and time manager. Project moved here:                                                                             |
 |    11 | vim-python-ide   | https://github.com/jarolrod/vim-python-ide     | Python development config                                                                                                       |
 |    12 | vim-devicons     | https://github.com/ryanoasis/vim-devicons      | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more |
-|    13 | vimrc            | https://github.com/amix/vimrc                  | The ultimate Vim configuration (vimrc)                                                                                          |
-|    14 | vimrc            | https://github.com/nvie/vimrc                  | My personal Neovim configuration, with a lot of love put into it.                                                               |
-|    15 | vim-galore       | https://github.com/mhinz/vim-galore            | :mortar_board: All things Vim!                                                                                                  |
+|    13 | vimrc            | https://github.com/nvie/vimrc                  | My personal Neovim configuration, with a lot of love put into it.                                                               |
+|    14 | vim-galore       | https://github.com/mhinz/vim-galore            | :mortar_board: All things Vim!                                                                                                  |
 
 
 ## Vue 
