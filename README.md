@@ -660,12 +660,13 @@
 
 | Index |      Name       |               Repository URL               |                                                                        Description                                                                        |
 |------:|-----------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     1 | lush.nvim       | https://github.com/rktjmp/lush.nvim        | Create Neovim themes with real-time feedback, export anywhere.                                                                                            |
-|     2 | termcolors.nvim | https://github.com/psliwka/termcolors.nvim | generate colors for your terminal from any Neovim colorscheme 🌈                                                                                          |
-|     3 | koreader        | https://github.com/koreader/koreader       | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices     |
-|     4 | vim-illuminate  | https://github.com/RRethy/vim-illuminate   | illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching. |
-|     5 | articles        | https://github.com/jaypipes/articles       | Collection of articles written for publication on my blog or elsewhere                                                                                    |
-|     6 | lsyncd          | https://github.com/lsyncd/lsyncd           | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets                                                                           |
+|     1 | nvim-config     | https://github.com/jdhao/nvim-config       | A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...                                                             |
+|     2 | lush.nvim       | https://github.com/rktjmp/lush.nvim        | Create Neovim themes with real-time feedback, export anywhere.                                                                                            |
+|     3 | termcolors.nvim | https://github.com/psliwka/termcolors.nvim | generate colors for your terminal from any Neovim colorscheme 🌈                                                                                          |
+|     4 | koreader        | https://github.com/koreader/koreader       | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices     |
+|     5 | vim-illuminate  | https://github.com/RRethy/vim-illuminate   | illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching. |
+|     6 | articles        | https://github.com/jaypipes/articles       | Collection of articles written for publication on my blog or elsewhere                                                                                    |
+|     7 | lsyncd          | https://github.com/lsyncd/lsyncd           | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets                                                                           |
 
 
 ## Makefile 
@@ -976,7 +977,7 @@
 |   133 | shinken                                               | https://github.com/naparuba/shinken                                                | Flexible and scalable monitoring framework                                                                                                                                                                                                                                                                                                                         |
 |   134 | rpc-maas                                              | https://github.com/rcbops/rpc-maas                                                 | Ansible playbooks for deploying Rackspace Monitoring-as-a-Service within Openstack Environments                                                                                                                                                                                                                                                                    |
 |   135 | fsociety                                              | https://github.com/Manisso/fsociety                                                | fsociety Hacking Tools Pack – A Penetration Testing Framework                                                                                                                                                                                                                                                                                                      |
-|   136 | Eel                                                   | https://github.com/ChrisKnott/Eel                                                  | A little Python library for making simple Electron-like HTML/JS GUI apps                                                                                                                                                                                                                                                                                           |
+|   136 | Eel                                                   | https://github.com/python-eel/Eel                                                  | A little Python library for making simple Electron-like HTML/JS GUI apps                                                                                                                                                                                                                                                                                           |
 |   137 | pyTelegramBotAPI                                      | https://github.com/eternnoir/pyTelegramBotAPI                                      | Python Telegram bot api.                                                                                                                                                                                                                                                                                                                                           |
 |   138 | telepot                                               | https://github.com/nickoala/telepot                                                | Python framework for Telegram Bot API                                                                                                                                                                                                                                                                                                                              |
 |   139 | convnet-benchmarks                                    | https://github.com/soumith/convnet-benchmarks                                      | Easy benchmarking of all publicly accessible implementations of convnets                                                                                                                                                                                                                                                                                           |
@@ -1451,17 +1452,18 @@
 
 ## Vim Script 
 
-| Index |        Name        |                 Repository URL                  |                                                        Description                                                         |
-|------:|--------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-|     1 | komau.vim          | https://github.com/ntk148v/komau.vim            | Yet another minimal colorscheme for Vim/Neovim                                                                             |
-|     2 | vim-startuptime    | https://github.com/dstein64/vim-startuptime     | ⏲️ A Vim plugin for profiling Vim's startup time.                                                                          |
-|     3 | vim-sensible       | https://github.com/tpope/vim-sensible           | sensible.vim: Defaults everyone can agree on                                                                               |
-|     4 | lucario            | https://github.com/raphamorim/lucario           | The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm |
-|     5 | vim-moonfly-colors | https://github.com/bluz71/vim-moonfly-colors    | A dark color scheme for Vim & Neovim                                                                                       |
-|     6 | vim-colortemplate  | https://github.com/lifepillar/vim-colortemplate | The Toolkit for Vim Color Scheme Designers!                                                                                |
-|     7 | vimrc              | https://github.com/amix/vimrc                   | The ultimate Vim configuration (vimrc)                                                                                     |
-|     8 | vim-plug           | https://github.com/junegunn/vim-plug            | :hibiscus: Minimalist Vim Plugin Manager                                                                                   |
-|     9 | neovim             | https://github.com/neovim/neovim                | Vim-fork focused on extensibility and usability                                                                            |
+| Index |        Name        |                 Repository URL                  |                                                           Description                                                           |
+|------:|--------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|     1 | komau.vim          | https://github.com/ntk148v/komau.vim            | Yet another minimal colorscheme for Vim/Neovim                                                                                  |
+|     2 | vim-startuptime    | https://github.com/dstein64/vim-startuptime     | ⏲️ A Vim plugin for profiling Vim's startup time.                                                                               |
+|     3 | vim-sensible       | https://github.com/tpope/vim-sensible           | sensible.vim: Defaults everyone can agree on                                                                                    |
+|     4 | lucario            | https://github.com/raphamorim/lucario           | The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm      |
+|     5 | vim-moonfly-colors | https://github.com/bluz71/vim-moonfly-colors    | A dark color scheme for Vim & Neovim                                                                                            |
+|     6 | vim-colortemplate  | https://github.com/lifepillar/vim-colortemplate | The Toolkit for Vim Color Scheme Designers!                                                                                     |
+|     7 | vim-devicons       | https://github.com/ryanoasis/vim-devicons       | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more |
+|     8 | vimrc              | https://github.com/amix/vimrc                   | The ultimate Vim configuration (vimrc)                                                                                          |
+|     9 | vim-plug           | https://github.com/junegunn/vim-plug            | :hibiscus: Minimalist Vim Plugin Manager                                                                                        |
+|    10 | neovim             | https://github.com/neovim/neovim                | Vim-fork focused on extensibility and usability                                                                                 |
 
 
 ## Vim Snippet 
@@ -1473,21 +1475,20 @@
 
 ## Vim script 
 
-| Index |       Name       |                 Repository URL                 |                                                           Description                                                           |
-|------:|------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|     1 | vim-grammarous   | https://github.com/rhysd/vim-grammarous        | A powerful grammar checker for Vim using LanguageTool.                                                                          |
-|     2 | nerdtree         | https://github.com/preservim/nerdtree          | A tree explorer plugin for vim.                                                                                                 |
-|     3 | gina.vim         | https://github.com/lambdalisue/gina.vim        | 👣  Asynchronously control git repositories in Neovim/Vim 8                                                                     |
-|     4 | vim-colors-plain | https://github.com/andreypopp/vim-colors-plain | Minimal colorscheme for vim                                                                                                     |
-|     5 | bluewery.vim     | https://github.com/relastle/bluewery.vim       | :small_blue_diamond: Blue-based vim colorscheme :beer:                                                                          |
-|     6 | onehalf          | https://github.com/sonph/onehalf               | Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.                                |
-|     7 | miramare         | https://github.com/franbach/miramare           | :maple_leaf: Comfortable & Pleasant Color Scheme for Vim                                                                        |
-|     8 | i3config.vim     | https://github.com/mboughaba/i3config.vim      | Vim syntax highlighting for i3 config :point_left:                                                                              |
-|     9 | kronos.vim       | https://github.com/soywod/kronos.vim           | A simple task and time manager. Project moved here:                                                                             |
-|    10 | vim-python-ide   | https://github.com/jarolrod/vim-python-ide     | Python development config                                                                                                       |
-|    11 | vim-devicons     | https://github.com/ryanoasis/vim-devicons      | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more |
-|    12 | vimrc            | https://github.com/nvie/vimrc                  | My personal Neovim configuration, with a lot of love put into it.                                                               |
-|    13 | vim-galore       | https://github.com/mhinz/vim-galore            | :mortar_board: All things Vim!                                                                                                  |
+| Index |       Name       |                 Repository URL                 |                                           Description                                            |
+|------:|------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|     1 | vim-grammarous   | https://github.com/rhysd/vim-grammarous        | A powerful grammar checker for Vim using LanguageTool.                                           |
+|     2 | nerdtree         | https://github.com/preservim/nerdtree          | A tree explorer plugin for vim.                                                                  |
+|     3 | gina.vim         | https://github.com/lambdalisue/gina.vim        | 👣  Asynchronously control git repositories in Neovim/Vim 8                                      |
+|     4 | vim-colors-plain | https://github.com/andreypopp/vim-colors-plain | Minimal colorscheme for vim                                                                      |
+|     5 | bluewery.vim     | https://github.com/relastle/bluewery.vim       | :small_blue_diamond: Blue-based vim colorscheme :beer:                                           |
+|     6 | onehalf          | https://github.com/sonph/onehalf               | Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more. |
+|     7 | miramare         | https://github.com/franbach/miramare           | :maple_leaf: Comfortable & Pleasant Color Scheme for Vim                                         |
+|     8 | i3config.vim     | https://github.com/mboughaba/i3config.vim      | Vim syntax highlighting for i3 config :point_left:                                               |
+|     9 | kronos.vim       | https://github.com/soywod/kronos.vim           | A simple task and time manager. Project moved here:                                              |
+|    10 | vim-python-ide   | https://github.com/jarolrod/vim-python-ide     | Python development config                                                                        |
+|    11 | vimrc            | https://github.com/nvie/vimrc                  | My personal Neovim configuration, with a lot of love put into it.                                |
+|    12 | vim-galore       | https://github.com/mhinz/vim-galore            | :mortar_board: All things Vim!                                                                   |
 
 
 ## Vue 
