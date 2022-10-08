@@ -1471,8 +1471,9 @@
 |     7 | vim-colortemplate  | https://github.com/lifepillar/vim-colortemplate | The Toolkit for Vim Color Scheme Designers!                                                                                     |
 |     8 | vim-devicons       | https://github.com/ryanoasis/vim-devicons       | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more |
 |     9 | vimrc              | https://github.com/amix/vimrc                   | The ultimate Vim configuration (vimrc)                                                                                          |
-|    10 | vim-plug           | https://github.com/junegunn/vim-plug            | :hibiscus: Minimalist Vim Plugin Manager                                                                                        |
-|    11 | neovim             | https://github.com/neovim/neovim                | Vim-fork focused on extensibility and usability                                                                                 |
+|    10 | vimrc              | https://github.com/nvie/vimrc                   | My personal Neovim configuration, with a lot of love put into it.                                                               |
+|    11 | vim-plug           | https://github.com/junegunn/vim-plug            | :hibiscus: Minimalist Vim Plugin Manager                                                                                        |
+|    12 | neovim             | https://github.com/neovim/neovim                | Vim-fork focused on extensibility and usability                                                                                 |
 
 
 ## Vim Snippet 
@@ -1495,8 +1496,7 @@
 |     7 | i3config.vim     | https://github.com/mboughaba/i3config.vim      | Vim syntax highlighting for i3 config :point_left:                                               |
 |     8 | kronos.vim       | https://github.com/soywod/kronos.vim           | A simple task and time manager. Project moved here:                                              |
 |     9 | vim-python-ide   | https://github.com/jarolrod/vim-python-ide     | Python development config                                                                        |
-|    10 | vimrc            | https://github.com/nvie/vimrc                  | My personal Neovim configuration, with a lot of love put into it.                                |
-|    11 | vim-galore       | https://github.com/mhinz/vim-galore            | :mortar_board: All things Vim!                                                                   |
+|    10 | vim-galore       | https://github.com/mhinz/vim-galore            | :mortar_board: All things Vim!                                                                   |
 
 
 ## Vue 
