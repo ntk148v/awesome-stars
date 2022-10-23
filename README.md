@@ -121,14 +121,13 @@
 |     1 | [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts)     | This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!                                                          |
 |     2 | [arcticicestudio/nord](https://github.com/arcticicestudio/nord)                               | An arctic, north-bluish color palette.                                                                                                                                                |
 |     3 | [appbaseio/dejavu](https://github.com/appbaseio/dejavu)                                       | The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.                                                     |
-|     4 | [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal)                       | A simple, retro theme for Hugo                                                                                                                                                        |
-|     5 | [mut-ex/my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles)                             | Dotfiles for my i3 setup                                                                                                                                                              |
-|     6 | [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)                   | A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli                                                        |
-|     7 | [widget-/slack-black-theme](https://github.com/widget-/slack-black-theme)                     | A darker, more contrasty, Slack theme.                                                                                                                                                |
-|     8 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)                               | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more |
-|     9 | [godlyranchdressing/United-GNOME](https://github.com/godlyranchdressing/United-GNOME)         | GTK2/3 + GNOME Shell theme based on a Ubuntu 18.04 design concept.                                                                                                                    |
-|    10 | [B00merang-Project/macOS](https://github.com/B00merang-Project/macOS)                         | macOS theme for Gnome and GTK-based desktops                                                                                                                                          |
-|    11 | [creativetimofficial/paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) | Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.                                                      |
+|     4 | [mut-ex/my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles)                             | Dotfiles for my i3 setup                                                                                                                                                              |
+|     5 | [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)                   | A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli                                                        |
+|     6 | [widget-/slack-black-theme](https://github.com/widget-/slack-black-theme)                     | A darker, more contrasty, Slack theme.                                                                                                                                                |
+|     7 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)                               | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more |
+|     8 | [godlyranchdressing/United-GNOME](https://github.com/godlyranchdressing/United-GNOME)         | GTK2/3 + GNOME Shell theme based on a Ubuntu 18.04 design concept.                                                                                                                    |
+|     9 | [B00merang-Project/macOS](https://github.com/B00merang-Project/macOS)                         | macOS theme for Gnome and GTK-based desktops                                                                                                                                          |
+|    10 | [creativetimofficial/paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) | Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.                                                      |
 
 
 ## Dart 
@@ -1299,9 +1298,10 @@
 
 ## SCSS 
 
-| Index |                         Name                          |                 Description                 |
-| ----: | ----------------------------------------------------- | ------------------------------------------- |
-|     1 | [slatedocs/slate](https://github.com/slatedocs/slate) | Beautiful static documentation for your API |
+| Index |                                  Name                                   |                 Description                 |
+| ----: | ----------------------------------------------------------------------- | ------------------------------------------- |
+|     1 | [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) | A simple, retro theme for Hugo              |
+|     2 | [slatedocs/slate](https://github.com/slatedocs/slate)                   | Beautiful static documentation for your API |
 
 
 ## Scala 
