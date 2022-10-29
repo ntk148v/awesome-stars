@@ -533,7 +533,7 @@
 |     4 | [docker/awesome-compose](https://github.com/docker/awesome-compose)                                         | Awesome Docker Compose samples                                                                  |
 |     5 | [swarmstack/swarmstack](https://github.com/swarmstack/swarmstack)                                           | A Docker swarm-based starting point for operating highly-available containerized applications.  |
 |     6 | [Fastbyte01/KeepIt](https://github.com/Fastbyte01/KeepIt)                                                   | The most powerful minimal Hugo theme.                                                           |
-|     7 | [go101/go101](https://github.com/go101/go101)                                                               | An online book focusing on Go syntax/semantics and runtime related things                       |
+|     7 | [go101/go101](https://github.com/go101/go101)                                                               | An up-to-date (unofficial) knowledge base for Go programming self learning                      |
 |     8 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)                                         | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 |     9 | [shichao-an/notes](https://github.com/shichao-an/notes)                                                     | Shichao's Notes                                                                                 |
 |    10 | [infraly/k8s-on-openstack](https://github.com/infraly/k8s-on-openstack)                                     | An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud.                 |
