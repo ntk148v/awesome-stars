@@ -131,9 +131,10 @@
 
 ## Dart 
 
-| Index |                         Name                          |                                 Description                                  |
-| ----: | ----------------------------------------------------- | ---------------------------------------------------------------------------- |
-|     1 | [flutter/flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| Index |                              Name                               |                                                            Description                                                            |
+| ----: | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
+|     2 | [flutter/flutter](https://github.com/flutter/flutter)           | Flutter makes it easy and fast to build beautiful apps for mobile and beyond                                                      |
 
 
 ## Dockerfile 
@@ -1280,27 +1281,26 @@
 |     2 | [bvaisvil/zenith](https://github.com/bvaisvil/zenith)                   | Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage                                                 |
 |     3 | [charliermarsh/ruff](https://github.com/charliermarsh/ruff)             | An extremely fast Python linter, written in Rust.                                                                                              |
 |     4 | [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.                        |
-|     5 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)         | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.              |
-|     6 | [bparli/convey](https://github.com/bparli/convey)                       | Layer 4 load balancer with dynamic configuration loading                                                                                       |
-|     7 | [wez/wezterm](https://github.com/wez/wezterm)                           | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust                                     |
-|     8 | [orf/gping](https://github.com/orf/gping)                               | Ping, but with a graph                                                                                                                         |
-|     9 | [elkowar/eww](https://github.com/elkowar/eww)                           | ElKowars wacky widgets                                                                                                                         |
-|    10 | [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang)                     | A cross-platform TUI database management tool written in Rust                                                                                  |
-|    11 | [mgdm/htmlq](https://github.com/mgdm/htmlq)                             | Like jq, but for HTML.                                                                                                                         |
-|    12 | [orhun/kmon](https://github.com/orhun/kmon)                             | Linux Kernel Manager and Activity Monitor 🐧💻                                                                                                 |
-|    13 | [orhun/git-cliff](https://github.com/orhun/git-cliff)                   | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️                                                   |
-|    14 | [build-trust/ockam](https://github.com/build-trust/ockam)               | Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale. |
-|    15 | [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)               | A command-line benchmarking tool                                                                                                               |
-|    16 | [mrmekon/connectr](https://github.com/mrmekon/connectr)                 | A super lightweight Spotify controller                                                                                                         |
-|    17 | [square/sudo_pair](https://github.com/square/sudo_pair)                 | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions                                                    |
-|    18 | [extrawurst/gitui](https://github.com/extrawurst/gitui)                 | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                                                         |
-|    19 | [pingcap/talent-plan](https://github.com/pingcap/talent-plan)           | open source training courses about distributed database and distributed systems                                                                |
-|    20 | [vectordotdev/vector](https://github.com/vectordotdev/vector)           | A high-performance observability data pipeline.                                                                                                |
-|    21 | [habitat-sh/habitat](https://github.com/habitat-sh/habitat)             | Modern applications with built-in automation                                                                                                   |
-|    22 | [benfred/py-spy](https://github.com/benfred/py-spy)                     | Sampling profiler for Python programs                                                                                                          |
-|    23 | [sharkdp/bat](https://github.com/sharkdp/bat)                           | A cat(1) clone with wings.                                                                                                                     |
-|    24 | [sharkdp/fd](https://github.com/sharkdp/fd)                             | A simple, fast and user-friendly alternative to 'find'                                                                                         |
-|    25 | [huytd/codedaily-v3](https://github.com/huytd/codedaily-v3)             |                                                                                                                                                |
+|     5 | [bparli/convey](https://github.com/bparli/convey)                       | Layer 4 load balancer with dynamic configuration loading                                                                                       |
+|     6 | [wez/wezterm](https://github.com/wez/wezterm)                           | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust                                     |
+|     7 | [orf/gping](https://github.com/orf/gping)                               | Ping, but with a graph                                                                                                                         |
+|     8 | [elkowar/eww](https://github.com/elkowar/eww)                           | ElKowars wacky widgets                                                                                                                         |
+|     9 | [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang)                     | A cross-platform TUI database management tool written in Rust                                                                                  |
+|    10 | [mgdm/htmlq](https://github.com/mgdm/htmlq)                             | Like jq, but for HTML.                                                                                                                         |
+|    11 | [orhun/kmon](https://github.com/orhun/kmon)                             | Linux Kernel Manager and Activity Monitor 🐧💻                                                                                                 |
+|    12 | [orhun/git-cliff](https://github.com/orhun/git-cliff)                   | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️                                                   |
+|    13 | [build-trust/ockam](https://github.com/build-trust/ockam)               | Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale. |
+|    14 | [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)               | A command-line benchmarking tool                                                                                                               |
+|    15 | [mrmekon/connectr](https://github.com/mrmekon/connectr)                 | A super lightweight Spotify controller                                                                                                         |
+|    16 | [square/sudo_pair](https://github.com/square/sudo_pair)                 | Plugin for sudo that requires another human to approve and monitor privileged sudo sessions                                                    |
+|    17 | [extrawurst/gitui](https://github.com/extrawurst/gitui)                 | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                                                         |
+|    18 | [pingcap/talent-plan](https://github.com/pingcap/talent-plan)           | open source training courses about distributed database and distributed systems                                                                |
+|    19 | [vectordotdev/vector](https://github.com/vectordotdev/vector)           | A high-performance observability data pipeline.                                                                                                |
+|    20 | [habitat-sh/habitat](https://github.com/habitat-sh/habitat)             | Modern applications with built-in automation                                                                                                   |
+|    21 | [benfred/py-spy](https://github.com/benfred/py-spy)                     | Sampling profiler for Python programs                                                                                                          |
+|    22 | [sharkdp/bat](https://github.com/sharkdp/bat)                           | A cat(1) clone with wings.                                                                                                                     |
+|    23 | [sharkdp/fd](https://github.com/sharkdp/fd)                             | A simple, fast and user-friendly alternative to 'find'                                                                                         |
+|    24 | [huytd/codedaily-v3](https://github.com/huytd/codedaily-v3)             |                                                                                                                                                |
 
 
 ## SCSS 
