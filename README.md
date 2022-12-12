@@ -671,16 +671,17 @@
 
 ## Lua 
 
-| Index |                                   Name                                    |                                                                        Description                                                                        |
-| ----: | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | [AlphaTechnolog/pywal.nvim](https://github.com/AlphaTechnolog/pywal.nvim) | pywal.nvim is a reimplementation of pywal.vim to support a few lua plugins like nvim-tree, telescope, bufferline, etc                                     |
-|     2 | [jdhao/nvim-config](https://github.com/jdhao/nvim-config)                 | A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...                                                        |
-|     3 | [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim)                   | Create Neovim themes with real-time feedback, export anywhere.                                                                                            |
-|     4 | [psliwka/termcolors.nvim](https://github.com/psliwka/termcolors.nvim)     | generate colors for your terminal from any Neovim colorscheme 🌈                                                                                          |
-|     5 | [koreader/koreader](https://github.com/koreader/koreader)                 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices     |
-|     6 | [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)         | illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching. |
-|     7 | [jaypipes/articles](https://github.com/jaypipes/articles)                 | Collection of articles written for publication on my blog or elsewhere                                                                                    |
-|     8 | [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd)                         | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets                                                                           |
+| Index |                                   Name                                    |                                                                            Description                                                                             |
+| ----: | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|     1 | [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim)   | Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow |
+|     2 | [AlphaTechnolog/pywal.nvim](https://github.com/AlphaTechnolog/pywal.nvim) | pywal.nvim is a reimplementation of pywal.vim to support a few lua plugins like nvim-tree, telescope, bufferline, etc                                              |
+|     3 | [jdhao/nvim-config](https://github.com/jdhao/nvim-config)                 | A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...                                                                 |
+|     4 | [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim)                   | Create Neovim themes with real-time feedback, export anywhere.                                                                                                     |
+|     5 | [psliwka/termcolors.nvim](https://github.com/psliwka/termcolors.nvim)     | generate colors for your terminal from any Neovim colorscheme 🌈                                                                                                   |
+|     6 | [koreader/koreader](https://github.com/koreader/koreader)                 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices              |
+|     7 | [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)         | illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.          |
+|     8 | [jaypipes/articles](https://github.com/jaypipes/articles)                 | Collection of articles written for publication on my blog or elsewhere                                                                                             |
+|     9 | [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd)                         | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets                                                                                    |
 
 
 ## Makefile 
