@@ -695,7 +695,7 @@
 
 | Index |                                   Name                                    |                                                                            Description                                                                             |
 | ----: | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|     1 | [m4xshen/autoclose.nvim](https://github.com/m4xshen/autoclose.nvim)       | A minimalist autoclose plugin for Neovim written in 100% Lua.                                                                                                      |
+|     1 | [m4xshen/autoclose.nvim](https://github.com/m4xshen/autoclose.nvim)       | A minimalist Neovim plugin that auto pairs & closes brackets written in 100% Lua.                                                                                  |
 |     2 | [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby)         | Gruvbox theme for neovim with full 🎄TreeSitter support.                                                                                                           |
 |     3 | [feline-nvim/feline.nvim](https://github.com/feline-nvim/feline.nvim)     | A minimal, stylish and customizable statusline for Neovim written in Lua                                                                                           |
 |     4 | [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)         | Library of 20+ independent Lua modules improving overall Neovim (version 0.6 and higher) experience with minimal effort                                            |
