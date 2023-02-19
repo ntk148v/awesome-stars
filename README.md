@@ -1361,7 +1361,7 @@
 
 | Index |                                  Name                                   |                 Description                 |
 | ----: | ----------------------------------------------------------------------- | ------------------------------------------- |
-|     1 | [arcticicestudio/nord](https://github.com/arcticicestudio/nord)         | An arctic, north-bluish color palette.      |
+|     1 | [nordtheme/nord](https://github.com/nordtheme/nord)                     | An arctic, north-bluish color palette.      |
 |     2 | [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) | A simple, retro theme for Hugo              |
 |     3 | [slatedocs/slate](https://github.com/slatedocs/slate)                   | Beautiful static documentation for your API |
 
