@@ -10,6 +10,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
@@ -139,6 +140,13 @@
 |     9 | [creativetimofficial/paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) | Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.                                                                          |
 
 
+## Clojure 
+
+| Index |                           Name                            |                                              Description                                               |
+| ----: | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+|     1 | [metabase/metabase](https://github.com/metabase/metabase) | The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: |
+
+
 ## Dart 
 
 | Index |                              Name                               |                                                            Description                                                            |
@@ -249,7 +257,7 @@
 |    79 | [safing/portmaster](https://github.com/safing/portmaster)                                                     | 🏔 Love Freedom - ❌ Block Mass Surveillance                                                                                                                                                                                            |
 |    80 | [wader/fq](https://github.com/wader/fq)                                                                       | jq for binary formats - tool, language and decoders for working with binary and text formats                                                                                                                                           |
 |    81 | [TimothyYe/skm](https://github.com/TimothyYe/skm)                                                             | A simple and powerful SSH keys manager                                                                                                                                                                                                 |
-|    82 | [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope)                                           | Continuous Profiling Platform. Debug performance issues down to a single line of code                                                                                                                                                  |
+|    82 | [grafana/pyroscope](https://github.com/grafana/pyroscope)                                                     | Continuous Profiling Platform. Debug performance issues down to a single line of code                                                                                                                                                  |
 |    83 | [ofek/csi-gcs](https://github.com/ofek/csi-gcs)                                                               | Kubernetes CSI driver for Google Cloud Storage                                                                                                                                                                                         |
 |    84 | [antonmedv/expr](https://github.com/antonmedv/expr)                                                           | Expression language and expression evaluation for Go                                                                                                                                                                                   |
 |    85 | [syncthing/syncthing](https://github.com/syncthing/syncthing)                                                 | Open Source Continuous File Synchronization                                                                                                                                                                                            |
@@ -311,7 +319,7 @@
 |   141 | [derailed/k9s](https://github.com/derailed/k9s)                                                               | 🐶 Kubernetes CLI To Manage Your Clusters In Style!                                                                                                                                                                                    |
 |   142 | [esnet/gdg](https://github.com/esnet/gdg)                                                                     | Grafana Dashboard Manager                                                                                                                                                                                                              |
 |   143 | [tailscale/tailscale](https://github.com/tailscale/tailscale)                                                 | The easiest, most secure way to use WireGuard and 2FA.                                                                                                                                                                                 |
-|   144 | [fyne-io/fyne](https://github.com/fyne-io/fyne)                                                               | Cross platform GUI in Go inspired by Material Design                                                                                                                                                                                   |
+|   144 | [fyne-io/fyne](https://github.com/fyne-io/fyne)                                                               | Cross platform GUI toolkit in Go inspired by Material Design                                                                                                                                                                           |
 |   145 | [jafarlihi/rconn](https://github.com/jafarlihi/rconn)                                                         | rconn is a multiplatform program for creating generic reverse connections. Lets you consume services that are behind firewall or NAT without opening ports or port-forwarding.                                                         |
 |   146 | [foolin/goview](https://github.com/foolin/goview)                                                             | Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application.                                                                                                      |
 |   147 | [amacneil/dbmate](https://github.com/amacneil/dbmate)                                                         | :rocket: A lightweight, framework-agnostic database migration tool.                                                                                                                                                                    |
