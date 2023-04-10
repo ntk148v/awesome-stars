@@ -721,9 +721,10 @@
 |     8 | [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim)                   | Create Neovim themes with real-time feedback, export anywhere.                                                                                                     |
 |     9 | [psliwka/termcolors.nvim](https://github.com/psliwka/termcolors.nvim)     | generate colors for your terminal from any Neovim colorscheme 🌈                                                                                                   |
 |    10 | [koreader/koreader](https://github.com/koreader/koreader)                 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices              |
-|    11 | [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)         | illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.          |
-|    12 | [jaypipes/articles](https://github.com/jaypipes/articles)                 | Collection of articles written for publication on my blog or elsewhere                                                                                             |
-|    13 | [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd)                         | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets                                                                                    |
+|    11 | [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) | A dark charcoal theme for modern Neovim & classic Vim                                                                                                              |
+|    12 | [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)         | illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.          |
+|    13 | [jaypipes/articles](https://github.com/jaypipes/articles)                 | Collection of articles written for publication on my blog or elsewhere                                                                                             |
+|    14 | [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd)                         | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets                                                                                    |
 
 
 ## Makefile 
@@ -1571,17 +1572,16 @@
 |     9 | [sonph/onehalf](https://github.com/sonph/onehalf)                               | Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.                                |
 |    10 | [franbach/miramare](https://github.com/franbach/miramare)                       | :maple_leaf: Comfortable & Pleasant Color Scheme for Vim                                                                        |
 |    11 | [raphamorim/lucario](https://github.com/raphamorim/lucario)                     | The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm      |
-|    12 | [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors)       | A dark charcoal theme for classic Vim & modern Neovim                                                                           |
-|    13 | [mboughaba/i3config.vim](https://github.com/mboughaba/i3config.vim)             | Vim syntax highlighting for i3 config :point_left:                                                                              |
-|    14 | [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) | The Toolkit for Vim Color Scheme Designers!                                                                                     |
-|    15 | [soywod/kronos.vim](https://github.com/soywod/kronos.vim)                       | A simple task and time manager. Project moved here:                                                                             |
-|    16 | [jarolrod/vim-python-ide](https://github.com/jarolrod/vim-python-ide)           | Python development config                                                                                                       |
-|    17 | [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)             | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more |
-|    18 | [amix/vimrc](https://github.com/amix/vimrc)                                     | The ultimate Vim configuration (vimrc)                                                                                          |
-|    19 | [nvie/vimrc](https://github.com/nvie/vimrc)                                     | My personal Neovim configuration, with a lot of love put into it.                                                               |
-|    20 | [mhinz/vim-galore](https://github.com/mhinz/vim-galore)                         | :mortar_board: All things Vim!                                                                                                  |
-|    21 | [junegunn/vim-plug](https://github.com/junegunn/vim-plug)                       | :hibiscus: Minimalist Vim Plugin Manager                                                                                        |
-|    22 | [neovim/neovim](https://github.com/neovim/neovim)                               | Vim-fork focused on extensibility and usability                                                                                 |
+|    12 | [mboughaba/i3config.vim](https://github.com/mboughaba/i3config.vim)             | Vim syntax highlighting for i3 config :point_left:                                                                              |
+|    13 | [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) | The Toolkit for Vim Color Scheme Designers!                                                                                     |
+|    14 | [soywod/kronos.vim](https://github.com/soywod/kronos.vim)                       | A simple task and time manager. Project moved here:                                                                             |
+|    15 | [jarolrod/vim-python-ide](https://github.com/jarolrod/vim-python-ide)           | Python development config                                                                                                       |
+|    16 | [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons)             | Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more |
+|    17 | [amix/vimrc](https://github.com/amix/vimrc)                                     | The ultimate Vim configuration (vimrc)                                                                                          |
+|    18 | [nvie/vimrc](https://github.com/nvie/vimrc)                                     | My personal Neovim configuration, with a lot of love put into it.                                                               |
+|    19 | [mhinz/vim-galore](https://github.com/mhinz/vim-galore)                         | :mortar_board: All things Vim!                                                                                                  |
+|    20 | [junegunn/vim-plug](https://github.com/junegunn/vim-plug)                       | :hibiscus: Minimalist Vim Plugin Manager                                                                                        |
+|    21 | [neovim/neovim](https://github.com/neovim/neovim)                               | Vim-fork focused on extensibility and usability                                                                                 |
 
 
 ## Vim Snippet 
