@@ -5,7 +5,6 @@
 
 ## Contents
 
-  - [Astro](#astro)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C++](#c++)
@@ -51,13 +50,6 @@
   - [Vim Script](#vim-script)
   - [Vim Snippet](#vim-snippet)
   - [Vue](#vue)
-
-## Astro 
-
-| Index |                                         Name                                          |                                             Description                                              |
-| ----: | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-|     1 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
-
 
 ## Batchfile 
 
@@ -1541,11 +1533,12 @@
 |    37 | [onivim/oni](https://github.com/onivim/oni)                                                 | Oni: Modern Modal Editing - powered by Neovim                                                                                                                                                              |
 |    38 | [schickling/chromeless](https://github.com/schickling/chromeless)                           | 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.                                                                                                                                  |
 |    39 | [Eugeny/tabby](https://github.com/Eugeny/tabby)                                             | A terminal for a more modern age                                                                                                                                                                           |
-|    40 | [cs01/gdbgui](https://github.com/cs01/gdbgui)                                               | Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope   |
-|    41 | [grafana/grafana](https://github.com/grafana/grafana)                                       | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.   |
-|    42 | [eclipse/che](https://github.com/eclipse/che)                                               | The Kubernetes-Native IDE for Developer Teams                                                                                                                                                              |
-|    43 | [vuejs/vue](https://github.com/vuejs/vue)                                                   | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core                                                                                                                                 |
-|    44 | [balena-io/etcher](https://github.com/balena-io/etcher)                                     | Flash OS images to SD cards & USB drives, safely and easily.                                                                                                                                               |
+|    40 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)       | Interactive roadmaps, guides and other educational content to help developers grow in their careers.                                                                                                       |
+|    41 | [cs01/gdbgui](https://github.com/cs01/gdbgui)                                               | Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope   |
+|    42 | [grafana/grafana](https://github.com/grafana/grafana)                                       | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.   |
+|    43 | [eclipse/che](https://github.com/eclipse/che)                                               | The Kubernetes-Native IDE for Developer Teams                                                                                                                                                              |
+|    44 | [vuejs/vue](https://github.com/vuejs/vue)                                                   | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core                                                                                                                                 |
+|    45 | [balena-io/etcher](https://github.com/balena-io/etcher)                                     | Flash OS images to SD cards & USB drives, safely and easily.                                                                                                                                               |
 
 
 ## V 
