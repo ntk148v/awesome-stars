@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Astro](#astro)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C++](#c++)
@@ -50,6 +51,13 @@
   - [Vim Script](#vim-script)
   - [Vim Snippet](#vim-snippet)
   - [Vue](#vue)
+
+## Astro 
+
+| Index |                                         Name                                          |                                             Description                                              |
+| ----: | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+|     1 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+
 
 ## Batchfile 
 
@@ -940,7 +948,7 @@
 |    29 | [swar/nba_api](https://github.com/swar/nba_api)                                                                                                       | An API Client package to access the APIs for NBA.com                                                                                                                                                     |
 |    30 | [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp)                                                                                         | The BGP swiss army knife of networking                                                                                                                                                                   |
 |    31 | [samuelcolvin/dirty-equals](https://github.com/samuelcolvin/dirty-equals)                                                                             | Doing dirty (but extremely useful) things with equals.                                                                                                                                                   |
-|    32 | [xonsh/xonsh](https://github.com/xonsh/xonsh)                                                                                                         | :shell: Python-powered, cross-platform, Unix-gazing shell                                                                                                                                                |
+|    32 | [xonsh/xonsh](https://github.com/xonsh/xonsh)                                                                                                         | :shell: Python-powered, cross-platform, Unix-gazing shell.                                                                                                                                               |
 |    33 | [Textualize/textual](https://github.com/Textualize/textual)                                                                                           | Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!           |
 |    34 | [openrca/orca](https://github.com/openrca/orca)                                                                                                       | Root Cause Analysis for Kubernetes                                                                                                                                                                       |
 |    35 | [trailofbits/it-depends](https://github.com/trailofbits/it-depends)                                                                                   | A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.                                                              |
@@ -1337,7 +1345,7 @@
 
 | Index |                                  Name                                   |                                                                                               Description                                                                                                |
 | ----: | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | [mitsuhiko/rye](https://github.com/mitsuhiko/rye)                       | an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…                                                                                                                       |
+|     1 | [mitsuhiko/rye](https://github.com/mitsuhiko/rye)                       | An Experimental Package Management Solution for Python                                                                                                                                                   |
 |     2 | [infinyon/fluvio](https://github.com/infinyon/fluvio)                   | An intelligent event streaming platform                                                                                                                                                                  |
 |     3 | [fathyb/carbonyl](https://github.com/fathyb/carbonyl)                   | Chromium running inside your terminal                                                                                                                                                                    |
 |     4 | [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim)     | :rocket: Blazingly fast colorscheme generator for Neovim written in Rust :crab:                                                                                                                          |
@@ -1533,12 +1541,11 @@
 |    37 | [onivim/oni](https://github.com/onivim/oni)                                                 | Oni: Modern Modal Editing - powered by Neovim                                                                                                                                                              |
 |    38 | [schickling/chromeless](https://github.com/schickling/chromeless)                           | 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.                                                                                                                                  |
 |    39 | [Eugeny/tabby](https://github.com/Eugeny/tabby)                                             | A terminal for a more modern age                                                                                                                                                                           |
-|    40 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)       | Interactive roadmaps, guides and other educational content to help developers grow in their careers.                                                                                                       |
-|    41 | [cs01/gdbgui](https://github.com/cs01/gdbgui)                                               | Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope   |
-|    42 | [grafana/grafana](https://github.com/grafana/grafana)                                       | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.   |
-|    43 | [eclipse/che](https://github.com/eclipse/che)                                               | The Kubernetes-Native IDE for Developer Teams                                                                                                                                                              |
-|    44 | [vuejs/vue](https://github.com/vuejs/vue)                                                   | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core                                                                                                                                 |
-|    45 | [balena-io/etcher](https://github.com/balena-io/etcher)                                     | Flash OS images to SD cards & USB drives, safely and easily.                                                                                                                                               |
+|    40 | [cs01/gdbgui](https://github.com/cs01/gdbgui)                                               | Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope   |
+|    41 | [grafana/grafana](https://github.com/grafana/grafana)                                       | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.   |
+|    42 | [eclipse/che](https://github.com/eclipse/che)                                               | The Kubernetes-Native IDE for Developer Teams                                                                                                                                                              |
+|    43 | [vuejs/vue](https://github.com/vuejs/vue)                                                   | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core                                                                                                                                 |
+|    44 | [balena-io/etcher](https://github.com/balena-io/etcher)                                     | Flash OS images to SD cards & USB drives, safely and easily.                                                                                                                                               |
 
 
 ## V 
