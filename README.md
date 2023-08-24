@@ -55,9 +55,10 @@
 
 ## Batchfile 
 
-| Index |                                 Name                                  |                     Description                      |
-| ----: | --------------------------------------------------------------------- | ---------------------------------------------------- |
-|     1 | [realpython/python-guide](https://github.com/realpython/python-guide) | Python best practices guidebook, written for humans. |
+| Index |                                                 Name                                                  |                                                                     Description                                                                     |
+| ----: | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
+|     2 | [realpython/python-guide](https://github.com/realpython/python-guide)                                 | Python best practices guidebook, written for humans.                                                                                                |
 
 
 ## C 
@@ -1613,7 +1614,7 @@
 |    43 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)       | Interactive roadmaps, guides and other educational content to help developers grow in their careers.                                                                                                       |
 |    44 | [cs01/gdbgui](https://github.com/cs01/gdbgui)                                               | Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope   |
 |    45 | [grafana/grafana](https://github.com/grafana/grafana)                                       | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.   |
-|    46 | [eclipse/che](https://github.com/eclipse/che)                                               | The Kubernetes-Native IDE for Developer Teams                                                                                                                                                              |
+|    46 | [eclipse/che](https://github.com/eclipse/che)                                               | Kubernetes based Cloud Development Environments for Enterprise Teams                                                                                                                                       |
 |    47 | [vuejs/vue](https://github.com/vuejs/vue)                                                   | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core                                                                                                                                 |
 |    48 | [balena-io/etcher](https://github.com/balena-io/etcher)                                     | Flash OS images to SD cards & USB drives, safely and easily.                                                                                                                                               |
 
