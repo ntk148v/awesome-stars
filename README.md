@@ -707,7 +707,7 @@
 |    43 | [kwk/docker-registry-frontend](https://github.com/kwk/docker-registry-frontend)                                         | Browse and modify your Docker registry in a browser.                                                                                                                                                     |
 |    44 | [Open-Up/openup03_07](https://github.com/Open-Up/openup03_07)                                                           | MogoDb presentation and practice                                                                                                                                                                         |
 |    45 | [cuongnb14/autoscaling-paas](https://github.com/cuongnb14/autoscaling-paas)                                             | autoscaling on mesos                                                                                                                                                                                     |
-|    46 | [facebook/react](https://github.com/facebook/react)                                                                     | The library for web and native user interfaces                                                                                                                                                           |
+|    46 | [facebook/react](https://github.com/facebook/react)                                                                     | The library for web and native user interfaces.                                                                                                                                                          |
 |    47 | [astoilkov/jsblocks](https://github.com/astoilkov/jsblocks)                                                             | Better MV-ish Framework                                                                                                                                                                                  |
 |    48 | [aosabook/500lines](https://github.com/aosabook/500lines)                                                               | 500 Lines or Less                                                                                                                                                                                        |
 |    49 | [ivanseidel/IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur)                                                     | 🦄 An Artificial Inteligence to teach Google's Dinosaur to jump cactus                                                                                                                                   |
@@ -1576,9 +1576,9 @@
 
 ## Svelte 
 
-| Index |                          Name                           |                                        Description                                         |
-| ----: | ------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-|     1 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library |
+| Index |                          Name                           |                                      Description                                      |
+| ----: | ------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+|     1 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library |
 
 
 ## Swift 
