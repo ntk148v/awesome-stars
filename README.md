@@ -167,7 +167,7 @@
 
 | Index |                                 Name                                  |                                      Description                                       |
 | ----: | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|     1 | [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles)       | :whale: A collection of delicious docker recipes 🇺🇦                                    |
+|     1 | [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles)       | :whale: A collection of delicious docker recipes 🇺🇦🇮🇱                                  |
 |     2 | [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)   | The best way to write secure and reliable applications. Write nothing; deploy nowhere. |
 |     3 | [Corwind/termite-install](https://github.com/Corwind/termite-install) | A termite installation script for Ubuntu users (and other Ubuntu-based distributions)  |
 
@@ -1443,7 +1443,7 @@
 |    28 | [mgdm/htmlq](https://github.com/mgdm/htmlq)                                           | Like jq, but for HTML.                                                                                                                                                                                   |
 |    29 | [orhun/kmon](https://github.com/orhun/kmon)                                           | Linux Kernel Manager and Activity Monitor 🐧💻                                                                                                                                                           |
 |    30 | [orhun/git-cliff](https://github.com/orhun/git-cliff)                                 | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️                                                                                                             |
-|    31 | [build-trust/ockam](https://github.com/build-trust/ockam)                             | Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. Use Ockam to build secure-by-design  |
+|    31 | [build-trust/ockam](https://github.com/build-trust/ockam)                             | Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.                                      |
 |    32 | [influxdata/influxdb](https://github.com/influxdata/influxdb)                         | Scalable datastore for metrics, events, and real-time analytics                                                                                                                                          |
 |    33 | [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)                             | A command-line benchmarking tool                                                                                                                                                                         |
 |    34 | [mrmekon/connectr](https://github.com/mrmekon/connectr)                               | A super lightweight Spotify controller                                                                                                                                                                   |
