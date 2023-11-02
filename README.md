@@ -666,7 +666,7 @@
 | Index |                                                          Name                                                           |                                                                                               Description                                                                                                |
 | ----: | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     1 | [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui)                                                               | Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.                                                                                                         |
-|     2 | [metrico/qryn](https://github.com/metrico/qryn)                                                                         | polyglot, lightweight high-performance observability stack with ClickHouse storage, designed to ingest and analyze logs, metrics and traces. Drop-in compatible with Loki, Prometheus, Opentelemetry, Te |
+|     2 | [metrico/qryn](https://github.com/metrico/qryn)                                                                         | All-in-One polyglot, lightweight high-performance Observability stack with ClickHouse storage, designed to ingest and analyze logs, metrics and traces. Drop-in compatible with Loki, Prometheus, Opente |
 |     3 | [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)                       | Docker container for managing Nginx proxy hosts with a simple, powerful interface                                                                                                                        |
 |     4 | [OptimalBits/bull](https://github.com/OptimalBits/bull)                                                                 | Premium Queue package for handling distributed jobs and messages in NodeJS.                                                                                                                              |
 |     5 | [mrdoob/three.js](https://github.com/mrdoob/three.js)                                                                   | JavaScript 3D Library.                                                                                                                                                                                   |
@@ -758,9 +758,10 @@
 
 ## Kotlin 
 
-| Index |                             Name                              |                                           Description                                           |
-| ----: | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-|     1 | [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) | Cool open source projects. Choose your project and get involved in Open Source development now. |
+| Index |                                      Name                                       |                                           Description                                           |
+| ----: | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+|     1 | [nguyenphuc22/Design-Patterns](https://github.com/nguyenphuc22/Design-Patterns) | Sách Design Pattern Tiếng Việt - Một cái nhìn tổng quan về design pattern trong lập trình.      |
+|     2 | [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo)                   | Cool open source projects. Choose your project and get involved in Open Source development now. |
 
 
 ## Lua 
