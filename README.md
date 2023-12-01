@@ -177,9 +177,9 @@
 
 ## Elixir 
 
-| Index |                           Name                            |                   Description                    |
-| ----: | --------------------------------------------------------- | ------------------------------------------------ |
-|     1 | [firezone/firezone](https://github.com/firezone/firezone) | WireGuard®-based scalable remote access platform |
+| Index |                           Name                            |                                                Description                                                |
+| ----: | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+|     1 | [firezone/firezone](https://github.com/firezone/firezone) | WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports |
 
 
 ## Go 
@@ -1444,7 +1444,7 @@
 |    13 | [nushell/nushell](https://github.com/nushell/nushell)                                 | A new type of shell                                                                                                                                                                                      |
 |    14 | [google/comprehensive-rust](https://github.com/google/comprehensive-rust)             | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.                                                                                          |
 |    15 | [mitsuhiko/rye](https://github.com/mitsuhiko/rye)                                     | An Experimental Package Management Solution for Python                                                                                                                                                   |
-|    16 | [infinyon/fluvio](https://github.com/infinyon/fluvio)                                 | Distributed stream processing runtime built with Rust & Web Assembly. Cloud Native, Edge Ready, Unified, Composable, Declarative, Stateful data streaming for building asynchronous data flows.          |
+|    16 | [infinyon/fluvio](https://github.com/infinyon/fluvio)                                 | Fluvio is a distributed stream processing system for developers to build end to end event driven data flows and services. Fluvio is built using rust & web assembly. Fluvio is cloud native, declarative |
 |    17 | [fathyb/carbonyl](https://github.com/fathyb/carbonyl)                                 | Chromium running inside your terminal                                                                                                                                                                    |
 |    18 | [LunarVim/colorgen-nvim](https://github.com/LunarVim/colorgen-nvim)                   | :rocket: Blazingly fast colorscheme generator for Neovim written in Rust :crab:                                                                                                                          |
 |    19 | [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)                           | A smarter cd command. Supports all major shells.                                                                                                                                                         |
