@@ -181,9 +181,9 @@
 
 ## Elixir 
 
-| Index |                           Name                            |                                                                  Description                                                                   |
-| ----: | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | [firezone/firezone](https://github.com/firezone/firezone) | WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration. |
+| Index |                           Name                            |                                                                Description                                                                |
+| ----: | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | [firezone/firezone](https://github.com/firezone/firezone) | WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration. |
 
 
 ## Go 
