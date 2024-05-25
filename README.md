@@ -184,11 +184,11 @@
 
 ## Dockerfile 
 
-| Index |                                 Name                                  |                                      Description                                       |
-| ----: | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-|     1 | [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles)       | :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱                                |
-|     2 | [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)   | The best way to write secure and reliable applications. Write nothing; deploy nowhere. |
-|     3 | [Corwind/termite-install](https://github.com/Corwind/termite-install) | A termite installation script for Ubuntu users (and other Ubuntu-based distributions)  |
+| Index |                                 Name                                  |                                          Description                                          |
+| ----: | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+|     1 | [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles)       | :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fighting Against Dictatorship) |
+|     2 | [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)   | The best way to write secure and reliable applications. Write nothing; deploy nowhere.        |
+|     3 | [Corwind/termite-install](https://github.com/Corwind/termite-install) | A termite installation script for Ubuntu users (and other Ubuntu-based distributions)         |
 
 
 ## Elixir 
