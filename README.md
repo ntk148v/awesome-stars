@@ -179,11 +179,11 @@
 
 ## Dart 
 
-| Index |                              Name                               |                                                            Description                                                            |
-| ----: | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube)         | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!                |
-|     2 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-|     3 | [flutter/flutter](https://github.com/flutter/flutter)           | Flutter makes it easy and fast to build beautiful apps for mobile and beyond                                                      |
+| Index |                              Name                               |                                                                                             Description                                                                                              |
+| ----: | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube)         | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!                                                                                   |
+|     2 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. |
+|     3 | [flutter/flutter](https://github.com/flutter/flutter)           | Flutter makes it easy and fast to build beautiful apps for mobile and beyond                                                                                                                         |
 
 
 ## Dockerfile 
