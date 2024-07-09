@@ -197,9 +197,9 @@
 
 ## Elixir 
 
-| Index |                           Name                            |                                          Description                                          |
-| ----: | --------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-|     1 | [firezone/firezone](https://github.com/firezone/firezone) | WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal. |
+| Index |                           Name                            |                           Description                            |
+| ----: | --------------------------------------------------------- | ---------------------------------------------------------------- |
+|     1 | [firezone/firezone](https://github.com/firezone/firezone) | Enterprise-ready zero-trust access platform built on WireGuard®. |
 
 
 ## Go 
@@ -459,7 +459,7 @@
 |   251 | [robfig/cron](https://github.com/robfig/cron)                                                                 | a cron library for go                                                                                                                                                                                                                  |
 |   252 | [sqshq/sampler](https://github.com/sqshq/sampler)                                                             | Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.                                                                                                                                     |
 |   253 | [TwiN/gatus](https://github.com/TwiN/gatus)                                                                   | ⛑ Automated developer-oriented status page                                                                                                                                                                                             |
-|   254 | [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts)                                             | 🎨 The adorable charts library for Golang                                                                                                                                                                                              |
+|   254 | [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts)                                             | 🎨 The adorable charts library for Golang.                                                                                                                                                                                             |
 |   255 | [foxcpp/maddy](https://github.com/foxcpp/maddy)                                                               | ✉️ Composable all-in-one mail server.                                                                                                                                                                                                  |
 |   256 | [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)                                           | CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.                                                                  |
 |   257 | [strongdm/comply](https://github.com/strongdm/comply)                                                         | Compliance automation framework, focused on SOC2                                                                                                                                                                                       |
