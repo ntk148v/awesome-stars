@@ -307,7 +307,7 @@
 |    99 | [openark/orchestrator](https://github.com/openark/orchestrator)                                               | MySQL replication topology management and HA                                                                                                                                                                                           |
 |   100 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)                                                 | SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ                               |
 |   101 | [google/hashr](https://github.com/google/hashr)                                                               |                                                                                                                                                                                                                                        |
-|   102 | [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)                                   | Find and verify secrets                                                                                                                                                                                                                |
+|   102 | [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)                                   | Find, verify, and analyze leaked credentials                                                                                                                                                                                           |
 |   103 | [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)                                         | Workflow Engine for Kubernetes                                                                                                                                                                                                         |
 |   104 | [daguflow/dagu](https://github.com/daguflow/dagu)                                                             | Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.                                                                                                                        |
 |   105 | [temporalio/temporal](https://github.com/temporalio/temporal)                                                 | Temporal service                                                                                                                                                                                                                       |
@@ -1037,12 +1037,11 @@
 
 ## Perl 
 
-| Index |                                    Name                                     |                                                        Description                                                        |
-| ----: | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-|     1 | [AlDanial/cloc](https://github.com/AlDanial/cloc)                           | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.                  |
-|     2 | [ovh/the-bastion](https://github.com/ovh/the-bastion)                       | Authentication, authorization, traceability and auditability for SSH accesses.                                            |
-|     3 | [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy. |
-|     4 | [skx/sysadmin-util](https://github.com/skx/sysadmin-util)                   | Tools for Linux/Unix sysadmins.                                                                                           |
+| Index |                           Name                            |                                               Description                                                |
+| ----: | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+|     1 | [AlDanial/cloc](https://github.com/AlDanial/cloc)         | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
+|     2 | [ovh/the-bastion](https://github.com/ovh/the-bastion)     | Authentication, authorization, traceability and auditability for SSH accesses.                           |
+|     3 | [skx/sysadmin-util](https://github.com/skx/sysadmin-util) | Tools for Linux/Unix sysadmins.                                                                          |
 
 
 ## PowerShell 
@@ -1582,9 +1581,10 @@
 
 ## Scheme 
 
-| Index |                                  Name                                   |                                                  Description                                                  |
-| ----: | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-|     1 | [erikdubois/LinuxMint18i3](https://github.com/erikdubois/LinuxMint18i3) | How to install i3 on Linux Mint 18 Cinnamon and copy all my settings in the process to have a awesome desktop |
+| Index |                                    Name                                     |                                                        Description                                                        |
+| ----: | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+|     1 | [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy. |
+|     2 | [erikdubois/LinuxMint18i3](https://github.com/erikdubois/LinuxMint18i3)     | How to install i3 on Linux Mint 18 Cinnamon and copy all my settings in the process to have a awesome desktop             |
 
 
 ## Shell 
@@ -1753,7 +1753,7 @@
 |    42 | [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)                                   | Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.                                                                                                             |
 |    43 | [gothinkster/realworld](https://github.com/gothinkster/realworld)                           | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more                                                                                |
 |    44 | [mattermost/mattermost](https://github.com/mattermost/mattermost)                           | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..                                                                                          |
-|    45 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)                               | Node.js API for Chrome                                                                                                                                                                                     |
+|    45 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)                               | JavaScript API for Chrome and Firefox                                                                                                                                                                      |
 |    46 | [botpress/botpress](https://github.com/botpress/botpress)                                   | The open-source hub to build & deploy GPT/LLM Agents ⚡️                                                                                                                                                   |
 |    47 | [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)                                   | Machine Learning Toolkit for Kubernetes                                                                                                                                                                    |
 |    48 | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)                         | The communications platform that puts data protection first.                                                                                                                                               |
