@@ -1582,10 +1582,10 @@
 
 ## Scheme 
 
-| Index |                                    Name                                     |                                                        Description                                                        |
-| ----: | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-|     1 | [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy. |
-|     2 | [erikdubois/LinuxMint18i3](https://github.com/erikdubois/LinuxMint18i3)     | How to install i3 on Linux Mint 18 Cinnamon and copy all my settings in the process to have a awesome desktop             |
+| Index |                                    Name                                     |                                                          Description                                                           |
+| ----: | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+|     1 | [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | A simple guide (and example of configuration) about to install i3 & its and essentials packages, then make them look eye candy |
+|     2 | [erikdubois/LinuxMint18i3](https://github.com/erikdubois/LinuxMint18i3)     | How to install i3 on Linux Mint 18 Cinnamon and copy all my settings in the process to have a awesome desktop                  |
 
 
 ## Shell 
