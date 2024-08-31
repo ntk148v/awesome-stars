@@ -1024,15 +1024,16 @@
 
 | Index |                                         Name                                          |                                                             Description                                                              |
 | ----: | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-|     1 | [flarum/framework](https://github.com/flarum/framework)                               | Simple forum software for building great communities.                                                                                |
-|     2 | [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) | Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch |
-|     3 | [cachethq/cachet](https://github.com/cachethq/cachet)                                 | 🚦 The open-source status page system.                                                                                               |
-|     4 | [pmsipilot/docker-compose-viz](https://github.com/pmsipilot/docker-compose-viz)       | Docker compose graph visualization                                                                                                   |
-|     5 | [beyondcode/github-now](https://github.com/beyondcode/github-now)                     | Automatically generate your GitHub user profile page                                                                                 |
-|     6 | [56kcloud/Training](https://github.com/56kcloud/Training)                             | Container, Monitoring & Logging, Cloud & DevOps Tutorials and Labs                                                                   |
-|     7 | [1stel/stratostack-portal](https://github.com/1stel/stratostack-portal)               | StratoSTACK Billing Portal                                                                                                           |
-|     8 | [astralapp/astral](https://github.com/astralapp/astral)                               | Organize Your GitHub Stars With Ease                                                                                                 |
-|     9 | [docker/labs](https://github.com/docker/labs)                                         | This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.                          |
+|     1 | [snipe/snipe-it](https://github.com/snipe/snipe-it)                                   | A free open source IT asset/license management system                                                                                |
+|     2 | [flarum/framework](https://github.com/flarum/framework)                               | Simple forum software for building great communities.                                                                                |
+|     3 | [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) | Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch |
+|     4 | [cachethq/cachet](https://github.com/cachethq/cachet)                                 | 🚦 The open-source status page system.                                                                                               |
+|     5 | [pmsipilot/docker-compose-viz](https://github.com/pmsipilot/docker-compose-viz)       | Docker compose graph visualization                                                                                                   |
+|     6 | [beyondcode/github-now](https://github.com/beyondcode/github-now)                     | Automatically generate your GitHub user profile page                                                                                 |
+|     7 | [56kcloud/Training](https://github.com/56kcloud/Training)                             | Container, Monitoring & Logging, Cloud & DevOps Tutorials and Labs                                                                   |
+|     8 | [1stel/stratostack-portal](https://github.com/1stel/stratostack-portal)               | StratoSTACK Billing Portal                                                                                                           |
+|     9 | [astralapp/astral](https://github.com/astralapp/astral)                               | Organize Your GitHub Stars With Ease                                                                                                 |
+|    10 | [docker/labs](https://github.com/docker/labs)                                         | This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.                          |
 
 
 ## Pascal 
