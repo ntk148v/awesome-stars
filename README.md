@@ -59,10 +59,10 @@
 
 ## Batchfile 
 
-| Index |                                                 Name                                                  |                                                                         Description                                                                         |
-| ----: | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
-|     2 | [realpython/python-guide](https://github.com/realpython/python-guide)                                 | Python best practices guidebook, written for humans.                                                                                                        |
+| Index |                                                 Name                                                  |                                                                  Description                                                                   |
+| ----: | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting. |
+|     2 | [realpython/python-guide](https://github.com/realpython/python-guide)                                 | Python best practices guidebook, written for humans.                                                                                           |
 
 
 ## C 
