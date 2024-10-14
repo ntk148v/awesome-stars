@@ -1588,7 +1588,7 @@
 
 | Index |                                        Name                                         |                 Description                 |
 | ----: | ----------------------------------------------------------------------------------- | ------------------------------------------- |
-|     1 | [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) | MacOS Big Sur like theme for Gnome desktops |
+|     1 | [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) | MacOS like theme for all gtk based desktops |
 |     2 | [nordtheme/nord](https://github.com/nordtheme/nord)                                 | An arctic, north-bluish color palette.      |
 |     3 | [slatedocs/slate](https://github.com/slatedocs/slate)                               | Beautiful static documentation for your API |
 
