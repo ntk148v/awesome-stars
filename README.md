@@ -881,12 +881,13 @@
 
 | Index |                                                Name                                                 |                                                   Description                                                    |
 | ----: | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-|     1 | [cilium/hubble](https://github.com/cilium/hubble)                                                   | Hubble - Network, Service & Security Observability for Kubernetes using eBPF                                     |
-|     2 | [aws-samples/ecs-refarch-cloudformation](https://github.com/aws-samples/ecs-refarch-cloudformation) | A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML) |
-|     3 | [golang-standards/project-layout](https://github.com/golang-standards/project-layout)               | Standard Go Project Layout                                                                                       |
-|     4 | [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh)                       | :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin                                    |
-|     5 | [chrismeyersfsu/provision_docker](https://github.com/chrismeyersfsu/provision_docker)               | Test Ansible roles and playbooks using Docker                                                                    |
-|     6 | [tartley/python-regex-cheatsheet](https://github.com/tartley/python-regex-cheatsheet)               | Python 2.7 Regular Expression cheatsheet, as a restructured text document and Makefile to convert it to PDF      |
+|     1 | [0xType/0xProto](https://github.com/0xType/0xProto)                                                 | A programming font focused on source code legibility                                                             |
+|     2 | [cilium/hubble](https://github.com/cilium/hubble)                                                   | Hubble - Network, Service & Security Observability for Kubernetes using eBPF                                     |
+|     3 | [aws-samples/ecs-refarch-cloudformation](https://github.com/aws-samples/ecs-refarch-cloudformation) | A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML) |
+|     4 | [golang-standards/project-layout](https://github.com/golang-standards/project-layout)               | Standard Go Project Layout                                                                                       |
+|     5 | [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh)                       | :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin                                    |
+|     6 | [chrismeyersfsu/provision_docker](https://github.com/chrismeyersfsu/provision_docker)               | Test Ansible roles and playbooks using Docker                                                                    |
+|     7 | [tartley/python-regex-cheatsheet](https://github.com/tartley/python-regex-cheatsheet)               | Python 2.7 Regular Expression cheatsheet, as a restructured text document and Makefile to convert it to PDF      |
 
 
 ## Markdown 
