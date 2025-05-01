@@ -203,7 +203,7 @@
 | Index |                                Name                                 |                                                                                              Description                                                                                              |
 | ----: | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     1 | [dagmawibabi/ScholarXIV](https://github.com/dagmawibabi/ScholarXIV) | ScholArxiv is an open-source, aesthetic, minimal and AI powered app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.     |
-|     2 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube)             | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!                                                                                    |
+|     2 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube)             | 🎧 Open source music client! Available for both desktop & mobile!                                                                                                                                     |
 |     3 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)     | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. |
 |     4 | [flutter/flutter](https://github.com/flutter/flutter)               | Flutter makes it easy and fast to build beautiful apps for mobile and beyond                                                                                                                          |
 
@@ -952,9 +952,9 @@
 
 ## Mojo 
 
-| Index |                         Name                          |           Description            |
-| ----: | ----------------------------------------------------- | -------------------------------- |
-|     1 | [modular/modular](https://github.com/modular/modular) | The MAX Platform (includes Mojo) |
+| Index |                         Name                          |                Description                 |
+| ----: | ----------------------------------------------------- | ------------------------------------------ |
+|     1 | [modular/modular](https://github.com/modular/modular) | The Modular Platform (includes MAX & Mojo) |
 
 
 ## Others 
