@@ -1800,13 +1800,13 @@
 
 ## Swift 
 
-| Index |                               Name                                |                                                                      Description                                                                       |
-| ----: | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|     1 | [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat)   | bluetooth mesh chat, IRC vibes                                                                                                                         |
-|     2 | [apple/container](https://github.com/apple/container)             | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
-|     3 | [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS                                                                                                |
-|     4 | [ldakhoa/GistHub](https://github.com/ldakhoa/GistHub)             | The iOS app for GitHub Gist                                                                                                                            |
-|     5 | [toptal/gitignore.io](https://github.com/toptal/gitignore.io)     | Create useful .gitignore files for your project                                                                                                        |
+| Index |                                    Name                                     |                                                                      Description                                                                       |
+| ----: | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|     1 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | bluetooth mesh chat, IRC vibes                                                                                                                         |
+|     2 | [apple/container](https://github.com/apple/container)                       | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
+|     3 | [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)           | AeroSpace is an i3-like tiling window manager for macOS                                                                                                |
+|     4 | [ldakhoa/GistHub](https://github.com/ldakhoa/GistHub)                       | The iOS app for GitHub Gist                                                                                                                            |
+|     5 | [toptal/gitignore.io](https://github.com/toptal/gitignore.io)               | Create useful .gitignore files for your project                                                                                                        |
 
 
 ## Tcl 
