@@ -52,6 +52,7 @@
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [Tcl](#tcl)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
   - [Vala](#vala)
@@ -1828,6 +1829,13 @@
 | Index |                                 Name                                  |       Description       |
 | ----: | --------------------------------------------------------------------- | ----------------------- |
 |     1 | [macports/macports-ports](https://github.com/macports/macports-ports) | The MacPorts ports tree |
+
+
+## TeX 
+
+| Index |                                          Name                                           |                                                                                               Description                                                                                                |
+| ----: | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | [the-litte-book-of/linear-algebra](https://github.com/the-litte-book-of/linear-algebra) | There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculati |
 
 
 ## TypeScript 
