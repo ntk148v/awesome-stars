@@ -52,7 +52,6 @@
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [Tcl](#tcl)
-  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
   - [Vala](#vala)
@@ -890,17 +889,18 @@
 
 | Index |                                            Name                                             |                                                 Description                                                 |
 | ----: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-|     1 | [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)                     | Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely                            |
-|     2 | [nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)           | Code for Tensorflow Machine Learning Cookbook                                                               |
-|     3 | [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine)                         | A Deep Learning based project for creating line art portraits.                                              |
-|     4 | [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)                   | Learn how to design, develop, deploy and iterate on production-grade ML applications.                       |
-|     5 | [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)   | Python Data Science Handbook: full text in Jupyter Notebooks                                                |
-|     6 | [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)   | TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)                                         |
-|     7 | [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)       | TensorFlow Tutorials with YouTube Videos                                                                    |
-|     8 | [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) | The "Python Machine Learning (1st edition)"  book code repository and info resource                         |
-|     9 | [coells/100days](https://github.com/coells/100days)                                         | 100 days of algorithms                                                                                      |
-|    10 | [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic)               | Learn python3 in one picture.                                                                               |
-|    11 | [wesm/pydata-book](https://github.com/wesm/pydata-book)                                     | Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media |
+|     1 | [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra)           | A concise, beginner-friendly introduction to the core ideas of linear algebra.                              |
+|     2 | [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)                     | Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely                            |
+|     3 | [nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)           | Code for Tensorflow Machine Learning Cookbook                                                               |
+|     4 | [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine)                         | A Deep Learning based project for creating line art portraits.                                              |
+|     5 | [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)                   | Learn how to design, develop, deploy and iterate on production-grade ML applications.                       |
+|     6 | [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)   | Python Data Science Handbook: full text in Jupyter Notebooks                                                |
+|     7 | [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)   | TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)                                         |
+|     8 | [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)       | TensorFlow Tutorials with YouTube Videos                                                                    |
+|     9 | [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) | The "Python Machine Learning (1st edition)"  book code repository and info resource                         |
+|    10 | [coells/100days](https://github.com/coells/100days)                                         | 100 days of algorithms                                                                                      |
+|    11 | [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic)               | Learn python3 in one picture.                                                                               |
+|    12 | [wesm/pydata-book](https://github.com/wesm/pydata-book)                                     | Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media |
 
 
 ## Kotlin 
@@ -1827,13 +1827,6 @@
 | Index |                                 Name                                  |       Description       |
 | ----: | --------------------------------------------------------------------- | ----------------------- |
 |     1 | [macports/macports-ports](https://github.com/macports/macports-ports) | The MacPorts ports tree |
-
-
-## TeX 
-
-| Index |                                       Name                                        |                                                                                               Description                                                                                                |
-| ----: | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | [little-book-of/linear-algebra](https://github.com/little-book-of/linear-algebra) | There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculati |
 
 
 ## TypeScript 
