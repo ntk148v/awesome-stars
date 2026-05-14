@@ -2046,7 +2046,7 @@
 
 | Index |                                          Name                                           |                                                              Description                                                               |
 | ----: | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | [Lissy93/dashy](https://github.com/Lissy93/dashy)                                       | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
+|     1 | [lissy93/dashy](https://github.com/lissy93/dashy)                                       | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
 |     2 | [johnsusek/praeco](https://github.com/johnsusek/praeco)                                 | Elasticsearch alerting made simple.                                                                                                    |
 |     3 | [vCloud-DFTBA/faythe-ui](https://github.com/vCloud-DFTBA/faythe-ui)                     | Interactive UI for faythe                                                                                                              |
 |     4 | [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) | Tool for visualizing GitHub profiles                                                                                                   |
