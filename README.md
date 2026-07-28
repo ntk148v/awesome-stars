@@ -16,6 +16,7 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
+  - [Fluent](#fluent)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
@@ -62,7 +63,8 @@
 
 | Index |                                         Name                                          |                                  Description                                  |
 | ----: | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-|     1 | [andrew--r/frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) | 💼 A curated list of talks and articles about real world frontend development |
+|     1 | [tabler/tabler](https://github.com/tabler/tabler)                                     | Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap       |
+|     2 | [andrew--r/frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) | 💼 A curated list of talks and articles about real world frontend development |
 
 
 ## Batchfile 
@@ -232,6 +234,13 @@
 | Index |                           Name                            |                           Description                            |
 | ----: | --------------------------------------------------------- | ---------------------------------------------------------------- |
 |     1 | [firezone/firezone](https://github.com/firezone/firezone) | Enterprise-ready zero-trust access platform built on WireGuard®. |
+
+
+## Fluent 
+
+| Index |                        Name                         |                                 Description                                 |
+| ----: | --------------------------------------------------- | --------------------------------------------------------------------------- |
+|     1 | [qarmin/czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. |
 
 
 ## Go 
@@ -788,21 +797,20 @@
 |     5 | [f/prompts.chat](https://github.com/f/prompts.chat)                                                         | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
 |     6 | [google/styleguide](https://github.com/google/styleguide)                                                   | Style guides for Google-originated open-source projects                                                                                                                |
 |     7 | [kaiiiz/hugo-theme-monochrome](https://github.com/kaiiiz/hugo-theme-monochrome)                             | Monochrome is a fast, clean and responsive hugo theme                                                                                                                  |
-|     8 | [tabler/tabler](https://github.com/tabler/tabler)                                                           | Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap                                                                                                |
-|     9 | [mixu/distsysbook](https://github.com/mixu/distsysbook)                                                     | The book Distributed systems: for fun and profit                                                                                                                       |
-|    10 | [docker/awesome-compose](https://github.com/docker/awesome-compose)                                         | Awesome Docker Compose samples                                                                                                                                         |
-|    11 | [swarmstack/swarmstack](https://github.com/swarmstack/swarmstack)                                           | A Docker swarm-based starting point for operating highly-available containerized applications.                                                                         |
-|    12 | [go101/go101](https://github.com/go101/go101)                                                               | An up-to-date (unofficial) knowledge base for Go programming self learning                                                                                             |
-|    13 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)                                         | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev                                                                        |
-|    14 | [shichao-an/notes](https://github.com/shichao-an/notes)                                                     | Shichao's Notes                                                                                                                                                        |
-|    15 | [infraly/k8s-on-openstack](https://github.com/infraly/k8s-on-openstack)                                     | An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud.                                                                                        |
-|    16 | [openshift-evangelists/kbe](https://github.com/openshift-evangelists/kbe)                                   | Kubernetes By Example                                                                                                                                                  |
-|    17 | [dhellmann/openstack-doc-migration-burndown](https://github.com/dhellmann/openstack-doc-migration-burndown) |                                                                                                                                                                        |
-|    18 | [SamPutnam/Index-2026](https://github.com/SamPutnam/Index-2026)                                             |                                                                                                                                                                        |
-|    19 | [monitoringartist/zabbix-searcher](https://github.com/monitoringartist/zabbix-searcher)                     | Search in 850+ Zabbix projects: templates, integrations, scripts, APIs, modules, ...                                                                                   |
-|    20 | [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker)                                           | OctoLinker — Links together, what belongs together                                                                                                                     |
-|    21 | [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)           | 🐧 A list of awesome Linux softwares                                                                                                                                   |
-|    22 | [electron/electron-api-demos](https://github.com/electron/electron-api-demos)                               | Explore the Electron APIs                                                                                                                                              |
+|     8 | [mixu/distsysbook](https://github.com/mixu/distsysbook)                                                     | The book Distributed systems: for fun and profit                                                                                                                       |
+|     9 | [docker/awesome-compose](https://github.com/docker/awesome-compose)                                         | Awesome Docker Compose samples                                                                                                                                         |
+|    10 | [swarmstack/swarmstack](https://github.com/swarmstack/swarmstack)                                           | A Docker swarm-based starting point for operating highly-available containerized applications.                                                                         |
+|    11 | [go101/go101](https://github.com/go101/go101)                                                               | An up-to-date (unofficial) knowledge base for Go programming self learning                                                                                             |
+|    12 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)                                         | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev                                                                        |
+|    13 | [shichao-an/notes](https://github.com/shichao-an/notes)                                                     | Shichao's Notes                                                                                                                                                        |
+|    14 | [infraly/k8s-on-openstack](https://github.com/infraly/k8s-on-openstack)                                     | An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud.                                                                                        |
+|    15 | [openshift-evangelists/kbe](https://github.com/openshift-evangelists/kbe)                                   | Kubernetes By Example                                                                                                                                                  |
+|    16 | [dhellmann/openstack-doc-migration-burndown](https://github.com/dhellmann/openstack-doc-migration-burndown) |                                                                                                                                                                        |
+|    17 | [SamPutnam/Index-2026](https://github.com/SamPutnam/Index-2026)                                             |                                                                                                                                                                        |
+|    18 | [monitoringartist/zabbix-searcher](https://github.com/monitoringartist/zabbix-searcher)                     | Search in 850+ Zabbix projects: templates, integrations, scripts, APIs, modules, ...                                                                                   |
+|    19 | [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker)                                           | OctoLinker — Links together, what belongs together                                                                                                                     |
+|    20 | [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)           | 🐧 A list of awesome Linux softwares                                                                                                                                   |
+|    21 | [electron/electron-api-demos](https://github.com/electron/electron-api-demos)                               | Explore the Electron APIs                                                                                                                                              |
 
 
 ## Handlebars 
