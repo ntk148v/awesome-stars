@@ -230,9 +230,9 @@
 
 ## Elixir 
 
-| Index |                           Name                            |                           Description                            |
-| ----: | --------------------------------------------------------- | ---------------------------------------------------------------- |
-|     1 | [firezone/firezone](https://github.com/firezone/firezone) | Enterprise-ready zero-trust access platform built on WireGuard®. |
+| Index |                           Name                            |        Description         |
+| ----: | --------------------------------------------------------- | -------------------------- |
+|     1 | [firezone/firezone](https://github.com/firezone/firezone) | Blazing-fast remote access |
 
 
 ## Fluent 
